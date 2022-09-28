@@ -1,0 +1,2122 @@
+flight,flight_code,FROM,TO,duration,Date,CLASS,price,departure_time,arival_time
+SpiceJet,SG 8251,New Delhi,Kolkata,2.1,2022-09-24,economy,5948,18.5,21.0
+SpiceJet,SG 8254,New Delhi,Kolkata,2.25,2022-09-24,economy,5948,20.1,22.35
+IndiGo,6E 5219,New Delhi,Kolkata,2.1,2022-09-24,economy,5954,7.1,9.2
+IndiGo,6E 6005,New Delhi,Kolkata,1.55,2022-09-24,economy,5954,22.2,0.15
+Air India,AI 401,New Delhi,Kolkata,2.1,2022-09-24,economy,5955,6.5,9.0
+Vistara,UK 747,New Delhi,Kolkata,2.05,2022-09-24,economy,5956,6.15,8.2
+Vistara,UK 705,New Delhi,Kolkata,2.05,2022-09-24,economy,5956,7.3,9.35
+SpiceJet,SG 8263,New Delhi,Kolkata,2.05,2022-09-24,economy,6111,7.0,9.05
+IndiGo,6E 353,New Delhi,Kolkata,2.05,2022-09-24,economy,6374,6.05,8.1
+Air India,AI 764,New Delhi,Kolkata,2.25,2022-09-24,economy,6480,16.45,19.1
+IndiGo,6E 2517,New Delhi,Kolkata,2.05,2022-09-24,economy,6794,20.0,22.05
+Vistara,UK 727,New Delhi,Kolkata,2.15,2022-09-24,economy,6827,20.3,22.45
+IndiGo,6E 788,New Delhi,Kolkata,2.05,2022-09-24,economy,7214,3.0,5.05
+IndiGo,6E 2513,New Delhi,Kolkata,2.05,2022-09-24,economy,7214,8.4,10.45
+IndiGo,6E 2082,New Delhi,Kolkata,2.05,2022-09-24,economy,7214,15.2,17.25
+IndiGo,6E 912,New Delhi,Kolkata,1.55,2022-09-24,economy,7214,17.45,19.4
+IndiGo,6E 2057,New Delhi,Kolkata,2.05,2022-09-24,economy,7214,18.4,20.45
+IndiGo,6E 6557,New Delhi,Kolkata,2.05,2022-09-24,economy,7634,12.25,14.3
+IndiGo,6E 782,New Delhi,Kolkata,1.55,2022-09-24,economy,7634,23.4,1.35
+Go First,G8 101,New Delhi,Kolkata,2.15,2022-09-24,economy,7847,5.45,8.0
+IndiGo,6E 282,New Delhi,Kolkata,2.1,2022-09-24,economy,8054,9.55,12.05
+AirAsia,I5 548 I5 319,New Delhi,Kolkata,5.2,2022-09-24,economy,8174,7.2,12.4
+Vistara,UK 707,New Delhi,Kolkata,2.05,2022-09-24,economy,8579,17.3,19.35
+SpiceJet,SG 8187 SG 3230,New Delhi,Kolkata,5.05,2022-09-24,economy,8579,13.05,18.1
+Air India,AI 762,New Delhi,Kolkata,2.1,2022-09-24,economy,9105,20.15,22.25
+Vistara,UK 737,New Delhi,Kolkata,2.1,2022-09-24,economy,9631,15.55,18.05
+AirAsia,I5 783 I5 991,New Delhi,Kolkata,9.15,2022-09-24,economy,10474,7.1,16.25
+Air India,AI 767,New Delhi,Kolkata,2.2,2022-09-24,economy,10733,12.1,14.3
+IndiGo,6E 6198 6E 7235,New Delhi,Kolkata,5.15,2022-09-24,economy,10813,16.2,21.35
+SpiceJet,SG 8263,New Delhi,Kolkata,2.05,2022-04-10,economy,5948,7.0,9.05
+SpiceJet,SG 8251,New Delhi,Kolkata,2.1,2022-04-10,economy,5948,18.5,21.0
+SpiceJet,SG 8254,New Delhi,Kolkata,2.25,2022-04-10,economy,5948,20.1,22.35
+SpiceJet,SG 8921,New Delhi,Kolkata,2.05,2022-04-10,economy,5948,21.2,23.25
+IndiGo,6E 788,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,3.0,5.05
+IndiGo,6E 353,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,6.05,8.1
+IndiGo,6E 5219,New Delhi,Kolkata,2.1,2022-04-10,economy,5954,7.1,9.2
+IndiGo,6E 2513,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,8.4,10.45
+IndiGo,6E 282,New Delhi,Kolkata,2.1,2022-04-10,economy,5954,9.55,12.05
+IndiGo,6E 6557,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,12.25,14.3
+IndiGo,6E 912,New Delhi,Kolkata,1.55,2022-04-10,economy,5954,17.45,19.4
+IndiGo,6E 2057,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,18.4,20.45
+IndiGo,6E 2517,New Delhi,Kolkata,2.05,2022-04-10,economy,5954,20.0,22.05
+IndiGo,6E 6005,New Delhi,Kolkata,1.55,2022-04-10,economy,5954,22.2,0.15
+IndiGo,6E 782,New Delhi,Kolkata,1.55,2022-04-10,economy,5954,23.4,1.35
+Air India,AI 401,New Delhi,Kolkata,2.1,2022-04-10,economy,5955,6.5,9.0
+Air India,AI 762,New Delhi,Kolkata,2.1,2022-04-10,economy,5955,20.15,22.25
+Vistara,UK 705,New Delhi,Kolkata,2.05,2022-04-10,economy,5956,7.3,9.35
+Vistara,UK 707,New Delhi,Kolkata,2.05,2022-04-10,economy,5956,17.3,19.35
+Vistara,UK 727,New Delhi,Kolkata,2.15,2022-04-10,economy,5956,20.3,22.45
+Vistara,UK 747,New Delhi,Kolkata,2.05,2022-04-10,economy,6166,6.15,8.2
+IndiGo,6E 2082,New Delhi,Kolkata,2.05,2022-04-10,economy,6374,15.2,17.25
+Air India,AI 767,New Delhi,Kolkata,2.2,2022-04-10,economy,6480,12.1,14.3
+Air India,AI 764,New Delhi,Kolkata,2.25,2022-04-10,economy,6480,16.45,19.1
+Vistara,UK 737,New Delhi,Kolkata,2.1,2022-04-10,economy,6481,15.55,18.05
+SpiceJet,SG 8724 SG 9510,New Delhi,Kolkata,11.0,2022-04-10,economy,7494,10.4,21.4
+Go First,G8 101,New Delhi,Kolkata,2.05,2022-04-10,economy,9103,5.45,7.5
+IndiGo,6E 6191 6E 7946,New Delhi,Kolkata,4.5,2022-04-10,economy,9314,13.0,17.5
+Vistara,UK 747,New Delhi,Kolkata,2.05,2022-04-10,premium,7559,6.15,8.2
+Vistara,UK 705,New Delhi,Kolkata,2.05,2022-04-10,premium,7559,7.3,9.35
+Vistara,UK 737,New Delhi,Kolkata,2.1,2022-04-10,premium,7559,15.55,18.05
+Vistara,UK 707,New Delhi,Kolkata,2.05,2022-04-10,premium,7559,17.3,19.35
+Vistara,UK 727,New Delhi,Kolkata,2.15,2022-04-10,premium,7559,20.3,22.45
+SpiceJet,SG 8263,New Delhi,Kolkata,2.05,2022-04-10,premium,7145,7.0,9.05
+SpiceJet,SG 8251,New Delhi,Kolkata,2.1,2022-04-10,premium,7145,18.5,21.0
+SpiceJet,SG 8254,New Delhi,Kolkata,2.25,2022-04-10,premium,7145,20.1,22.35
+SpiceJet,SG 8921,New Delhi,Kolkata,2.05,2022-04-10,premium,7145,21.2,23.25
+SpiceJet,SG 8724 SG 9510,New Delhi,Kolkata,11.0,2022-04-10,premium,10845,10.4,21.4
+SpiceJet,SG 8152 SG 3282,New Delhi,Kolkata,10.25,2022-04-10,premium,15124,10.2,20.45
+SpiceJet,SG 8701 SG 9163,New Delhi,Kolkata,7.35,2022-04-10,premium,15242,7.2,14.55
+Vistara,UK 727,New Delhi,Kolkata,2.15,2022-09-24,premium,9349,20.3,22.45
+Vistara,UK 747,New Delhi,Kolkata,2.05,2022-09-24,premium,9461,6.15,8.2
+Vistara,UK 705,New Delhi,Kolkata,2.05,2022-09-24,premium,9461,7.3,9.35
+Vistara,UK 707,New Delhi,Kolkata,2.05,2022-09-24,premium,9573,17.3,19.35
+Vistara,UK 737,New Delhi,Kolkata,2.1,2022-09-24,premium,11535,15.55,18.05
+SpiceJet,SG 8251,New Delhi,Kolkata,2.1,2022-09-24,premium,7145,18.5,21.0
+SpiceJet,SG 8254,New Delhi,Kolkata,2.25,2022-09-24,premium,7145,20.1,22.35
+SpiceJet,SG 8263,New Delhi,Kolkata,2.05,2022-09-24,premium,7308,7.0,9.05
+SpiceJet,SG 8187 SG 3230,New Delhi,Kolkata,5.05,2022-09-24,premium,14247,13.05,18.1
+SpiceJet,SG 8903 SG 3230,New Delhi,Kolkata,11.4,2022-09-24,premium,15927,6.3,18.1
+SpiceJet,SG 8701 SG 467,New Delhi,Kolkata,14.1,2022-09-24,premium,15976,7.2,21.3
+SpiceJet,SG 711 SG 467,New Delhi,Kolkata,23.5,2022-09-24,premium,16396,21.4,21.3
+SpiceJet,SG 8169 SG 467,New Delhi,Kolkata,25.45,2022-09-24,premium,16396,19.45,21.3
+SpiceJet,SG 8709 SG 467,New Delhi,Kolkata,26.3,2022-09-24,premium,17135,19.0,21.3
+Vistara,UK 747,New Delhi,Kolkata,2.05,2022-09-24,business,27976,6.15,8.2
+Air India,AI 401,New Delhi,Kolkata,2.1,2022-09-24,business,27976,6.5,9.0
+Vistara,UK 705,New Delhi,Kolkata,2.05,2022-09-24,business,27976,7.3,9.35
+Vistara,UK 737,New Delhi,Kolkata,2.1,2022-09-24,business,27976,15.55,18.05
+Vistara,UK 727,New Delhi,Kolkata,2.15,2022-09-24,business,27976,20.3,22.45
+Air India,AI 767,New Delhi,Kolkata,2.2,2022-09-24,business,37496,12.1,14.3
+Air India,AI 762,New Delhi,Kolkata,2.1,2022-09-24,business,37496,20.15,22.25
+Vistara,UK 707,New Delhi,Kolkata,2.05,2022-09-24,business,38056,17.3,19.35
+Air India,AI 889 AI 730,New Delhi,Kolkata,5.55,2022-09-24,business,43332,9.3,15.25
+Air India,AI 764,New Delhi,Kolkata,2.25,2022-09-24,business,51820,16.45,19.1
+Vistara,UK 945 UK 773,New Delhi,Kolkata,8.15,2022-09-24,business,53210,11.4,19.55
+SpiceJet,SG 8701,New Delhi,Mumbai,2.15,2022-09-24,economy,5950,7.2,9.35
+Go First,G8 346,New Delhi,Mumbai,2.15,2022-09-24,economy,5950,19.45,22.0
+SpiceJet,SG 8169,New Delhi,Mumbai,2.15,2022-09-24,economy,5950,19.45,22.0
+Go First,G8 330,New Delhi,Mumbai,2.1,2022-09-24,economy,5950,20.5,23.0
+SpiceJet,SG 711,New Delhi,Mumbai,2.15,2022-09-24,economy,5950,21.4,23.55
+Go First,G8 354,New Delhi,Mumbai,2.15,2022-09-24,economy,5950,22.45,1.0
+IndiGo,6E 2009,New Delhi,Mumbai,2.1,2022-09-24,economy,5954,2.0,4.1
+IndiGo,6E 2112,New Delhi,Mumbai,2.1,2022-09-24,economy,5954,5.3,7.4
+IndiGo,6E 5023,New Delhi,Mumbai,2.05,2022-09-24,economy,5954,6.3,8.35
+IndiGo,6E 6814,New Delhi,Mumbai,2.1,2022-09-24,economy,5954,7.2,9.3
+IndiGo,6E 2129,New Delhi,Mumbai,2.2,2022-09-24,economy,5954,8.0,10.2
+IndiGo,6E 5328,New Delhi,Mumbai,2.25,2022-09-24,economy,5954,9.35,12.0
+IndiGo,6E 5342,New Delhi,Mumbai,2.05,2022-09-24,economy,5954,10.45,12.5
+IndiGo,6E 2138,New Delhi,Mumbai,2.0,2022-09-24,economy,5954,11.55,13.55
+IndiGo,6E 2176,New Delhi,Mumbai,2.1,2022-09-24,economy,5954,14.1,16.2
+IndiGo,6E 5306,New Delhi,Mumbai,1.55,2022-09-24,economy,5954,15.25,17.2
+IndiGo,6E 864,New Delhi,Mumbai,2.1,2022-09-24,economy,5954,16.15,18.25
+IndiGo,6E 2017,New Delhi,Mumbai,2.15,2022-09-24,economy,5954,18.1,20.25
+IndiGo,6E 2114,New Delhi,Mumbai,2.15,2022-09-24,economy,5954,21.55,0.1
+IndiGo,6E 2519,New Delhi,Mumbai,2.05,2022-09-24,economy,5954,23.35,1.4
+Air India,AI 887,New Delhi,Mumbai,2.05,2022-09-24,economy,5955,7.0,9.05
+Air India,AI 665,New Delhi,Mumbai,2.1,2022-09-24,economy,5955,8.0,10.1
+Air India,AI 678,New Delhi,Mumbai,2.15,2022-09-24,economy,5955,9.0,11.15
+Air India,AI 865,New Delhi,Mumbai,2.35,2022-09-24,economy,5955,10.0,12.35
+Air India,AI 863,New Delhi,Mumbai,2.15,2022-09-24,economy,5955,14.0,16.15
+Air India,AI 441,New Delhi,Mumbai,2.15,2022-09-24,economy,5955,17.55,20.1
+Air India,AI 624,New Delhi,Mumbai,2.15,2022-09-24,economy,5955,19.0,21.15
+Air India,AI 805,New Delhi,Mumbai,2.1,2022-09-24,economy,5955,20.0,22.1
+Air India,AI 605,New Delhi,Mumbai,2.2,2022-09-24,economy,5955,21.15,23.35
+Air India,AI 814,New Delhi,Mumbai,2.1,2022-09-24,economy,5955,22.3,0.4
+Vistara,UK 943,New Delhi,Mumbai,2.15,2022-09-24,economy,5956,7.3,9.45
+Vistara,UK 963,New Delhi,Mumbai,2.2,2022-09-24,economy,5956,8.5,11.1
+Vistara,UK 927,New Delhi,Mumbai,2.05,2022-09-24,economy,5956,9.3,11.35
+Vistara,UK 945,New Delhi,Mumbai,2.2,2022-09-24,economy,5956,11.4,14.0
+Vistara,UK 941,New Delhi,Mumbai,2.1,2022-09-24,economy,5956,16.55,19.05
+Vistara,UK 955,New Delhi,Mumbai,2.2,2022-09-24,economy,5956,17.45,20.05
+Vistara,UK 969 UK 956,New Delhi,Mumbai,5.05,2022-09-24,economy,6092,18.1,23.15
+Go First,G8 336,New Delhi,Mumbai,2.1,2022-09-24,economy,6250,14.3,16.4
+Go First,G8 323,New Delhi,Mumbai,2.15,2022-09-24,economy,6250,17.3,19.45
+SpiceJet,SG 8709,New Delhi,Mumbai,2.1,2022-09-24,economy,6689,19.0,21.1
+IndiGo,6E 153 6E 6794,New Delhi,Mumbai,5.05,2022-09-24,economy,6757,19.35,0.4
+IndiGo,6E 6939 6E 6794,New Delhi,Mumbai,7.2,2022-09-24,economy,6757,17.2,0.4
+Vistara,UK 975,New Delhi,Mumbai,2.0,2022-09-24,economy,6827,5.55,7.55
+Vistara,UK 995,New Delhi,Mumbai,2.15,2022-09-24,economy,6827,10.2,12.35
+Vistara,UK 933,New Delhi,Mumbai,2.1,2022-09-24,economy,6827,15.3,17.4
+Vistara,UK 977,New Delhi,Mumbai,2.15,2022-09-24,economy,6827,19.0,21.15
+Vistara,UK 985,New Delhi,Mumbai,2.1,2022-09-24,economy,6827,19.45,21.55
+IndiGo,6E 607 6E 6004,New Delhi,Mumbai,9.3,2022-09-24,economy,7545,22.3,8.0
+Go First,G8 717 G8 413,New Delhi,Mumbai,6.5,2022-09-24,economy,7624,16.45,23.35
+Vistara,UK 951,New Delhi,Mumbai,2.1,2022-09-24,economy,7699,14.2,16.3
+Vistara,UK 959 UK 956,New Delhi,Mumbai,16.45,2022-09-24,economy,7835,6.3,23.15
+Go First,G8 334,New Delhi,Mumbai,2.1,2022-09-24,economy,9100,8.0,10.1
+Vistara,UK 993,New Delhi,Mumbai,2.15,2022-09-24,economy,9106,12.45,15.0
+Vistara,UK 953,New Delhi,Mumbai,2.1,2022-09-24,economy,9106,20.4,22.5
+Vistara,UK 981,New Delhi,Mumbai,2.1,2022-09-24,economy,9106,21.3,23.4
+IndiGo,6E 7405 6E 6031,New Delhi,Mumbai,6.2,2022-09-24,economy,9419,15.3,21.5
+IndiGo,6E 5318,New Delhi,Mumbai,2.05,2022-09-24,economy,13619,17.0,19.05
+SpiceJet,SG 8701,New Delhi,Mumbai,2.15,2022-04-10,economy,5950,7.2,9.35
+SpiceJet,SG 8169,New Delhi,Mumbai,2.15,2022-04-10,economy,5950,19.45,22.0
+SpiceJet,SG 711,New Delhi,Mumbai,2.15,2022-04-10,economy,5950,21.4,23.55
+Go First,G8 530,New Delhi,Mumbai,2.05,2022-04-10,economy,5953,6.0,8.05
+Go First,G8 334,New Delhi,Mumbai,2.1,2022-04-10,economy,5953,8.0,10.1
+Go First,G8 328,New Delhi,Mumbai,2.1,2022-04-10,economy,5953,13.0,15.1
+Go First,G8 336,New Delhi,Mumbai,2.1,2022-04-10,economy,5953,14.3,16.4
+Go First,G8 323,New Delhi,Mumbai,2.15,2022-04-10,economy,5953,18.2,20.35
+Go First,G8 330,New Delhi,Mumbai,2.15,2022-04-10,economy,5953,20.5,23.05
+Go First,G8 354,New Delhi,Mumbai,2.15,2022-04-10,economy,5953,22.45,1.0
+IndiGo,6E 2009,New Delhi,Mumbai,2.0,2022-04-10,economy,5954,2.1,4.1
+IndiGo,6E 2112,New Delhi,Mumbai,2.1,2022-04-10,economy,5954,5.3,7.4
+IndiGo,6E 5023,New Delhi,Mumbai,2.05,2022-04-10,economy,5954,6.3,8.35
+IndiGo,6E 6814,New Delhi,Mumbai,2.1,2022-04-10,economy,5954,7.2,9.3
+IndiGo,6E 6278,New Delhi,Mumbai,2.15,2022-04-10,economy,5954,8.45,11.0
+IndiGo,6E 5328,New Delhi,Mumbai,2.25,2022-04-10,economy,5954,9.35,12.0
+IndiGo,6E 5342,New Delhi,Mumbai,2.05,2022-04-10,economy,5954,10.45,12.5
+IndiGo,6E 2138,New Delhi,Mumbai,2.0,2022-04-10,economy,5954,11.55,13.55
+IndiGo,6E 2176,New Delhi,Mumbai,2.1,2022-04-10,economy,5954,14.1,16.2
+IndiGo,6E 5306,New Delhi,Mumbai,1.55,2022-04-10,economy,5954,15.25,17.2
+IndiGo,6E 864,New Delhi,Mumbai,2.1,2022-04-10,economy,5954,16.15,18.25
+IndiGo,6E 5318,New Delhi,Mumbai,2.05,2022-04-10,economy,5954,17.0,19.05
+IndiGo,6E 2017,New Delhi,Mumbai,2.15,2022-04-10,economy,5954,18.1,20.25
+IndiGo,6E 6261,New Delhi,Mumbai,2.1,2022-04-10,economy,5954,19.45,21.55
+IndiGo,6E 2114,New Delhi,Mumbai,2.15,2022-04-10,economy,5954,21.55,0.1
+IndiGo,6E 2519,New Delhi,Mumbai,2.05,2022-04-10,economy,5954,23.35,1.4
+Air India,AI 887,New Delhi,Mumbai,2.05,2022-04-10,economy,5955,7.0,9.05
+Air India,AI 665,New Delhi,Mumbai,2.1,2022-04-10,economy,5955,8.0,10.1
+Air India,AI 678,New Delhi,Mumbai,2.15,2022-04-10,economy,5955,9.0,11.15
+Air India,AI 865,New Delhi,Mumbai,2.35,2022-04-10,economy,5955,10.0,12.35
+Air India,AI 863,New Delhi,Mumbai,2.15,2022-04-10,economy,5955,14.0,16.15
+Air India,AI 441,New Delhi,Mumbai,2.15,2022-04-10,economy,5955,17.55,20.1
+Air India,AI 624,New Delhi,Mumbai,2.15,2022-04-10,economy,5955,19.0,21.15
+Air India,AI 805,New Delhi,Mumbai,2.1,2022-04-10,economy,5955,20.0,22.1
+Air India,AI 605,New Delhi,Mumbai,2.2,2022-04-10,economy,5955,21.15,23.35
+Air India,AI 814,New Delhi,Mumbai,2.1,2022-04-10,economy,5955,22.3,0.4
+Vistara,UK 975,New Delhi,Mumbai,2.0,2022-04-10,economy,5956,5.55,7.55
+Vistara,UK 943,New Delhi,Mumbai,2.15,2022-04-10,economy,5956,7.3,9.45
+Vistara,UK 963,New Delhi,Mumbai,2.2,2022-04-10,economy,5956,8.5,11.1
+Vistara,UK 927,New Delhi,Mumbai,2.05,2022-04-10,economy,5956,9.3,11.35
+Vistara,UK 995,New Delhi,Mumbai,2.15,2022-04-10,economy,5956,10.2,12.35
+Vistara,UK 945,New Delhi,Mumbai,2.2,2022-04-10,economy,5956,11.4,14.0
+Vistara,UK 993,New Delhi,Mumbai,2.15,2022-04-10,economy,5956,12.45,15.0
+Vistara,UK 933,New Delhi,Mumbai,2.1,2022-04-10,economy,5956,15.3,17.4
+Vistara,UK 941,New Delhi,Mumbai,2.1,2022-04-10,economy,5956,16.55,19.05
+Vistara,UK 955,New Delhi,Mumbai,2.2,2022-04-10,economy,5956,17.45,20.05
+Vistara,UK 977,New Delhi,Mumbai,2.15,2022-04-10,economy,5956,19.0,21.15
+Vistara,UK 985,New Delhi,Mumbai,2.1,2022-04-10,economy,5956,19.45,21.55
+Vistara,UK 953,New Delhi,Mumbai,2.1,2022-04-10,economy,5956,20.4,22.5
+Vistara,UK 981,New Delhi,Mumbai,2.1,2022-04-10,economy,5956,21.3,23.4
+IndiGo,6E 761 6E 983,New Delhi,Mumbai,5.1,2022-04-10,economy,6322,18.55,0.05
+Vistara,UK 951,New Delhi,Mumbai,2.1,2022-04-10,economy,6827,14.2,16.3
+IndiGo,6E 153 6E 6794,New Delhi,Mumbai,5.05,2022-04-10,economy,6915,19.35,0.4
+Vistara,UK 975,New Delhi,Mumbai,2.0,2022-09-24,premium,10191,5.55,7.55
+Vistara,UK 981,New Delhi,Mumbai,2.1,2022-09-24,premium,10191,21.3,23.4
+Vistara,UK 969 UK 956,New Delhi,Mumbai,5.05,2022-09-24,premium,10337,18.1,23.15
+Vistara,UK 943,New Delhi,Mumbai,16.45,2022-09-24,premium,11087,6.3,23.15
+Vistara,UK 963,New Delhi,Mumbai,16.4,2022-09-24,premium,11087,6.3,23.1
+Vistara,UK 927,New Delhi,Mumbai,2.15,2022-09-24,premium,11087,7.3,9.45
+Vistara,UK 995,New Delhi,Mumbai,2.2,2022-09-24,premium,11087,8.5,11.1
+Vistara,UK 945,New Delhi,Mumbai,2.05,2022-09-24,premium,11087,9.3,11.35
+Vistara,UK 993,New Delhi,Mumbai,2.15,2022-09-24,premium,11087,10.2,12.35
+Vistara,UK 933,New Delhi,Mumbai,2.2,2022-09-24,premium,11087,11.4,14.0
+Vistara,UK 941,New Delhi,Mumbai,2.15,2022-09-24,premium,11087,12.45,15.0
+Vistara,UK 955,New Delhi,Mumbai,2.1,2022-09-24,premium,11087,15.3,17.4
+Vistara,UK 977,New Delhi,Mumbai,2.1,2022-09-24,premium,11087,16.55,19.05
+Vistara,UK 985,New Delhi,Mumbai,2.2,2022-09-24,premium,11087,17.45,20.05
+Vistara,UK 637 UK 652,New Delhi,Mumbai,2.15,2022-09-24,premium,15283,19.0,21.15
+Vistara,UK 673 UK 622,New Delhi,Mumbai,2.1,2022-09-24,premium,17189,19.45,21.55
+SpiceJet,SG 8701,New Delhi,Mumbai,5.1,2022-09-24,premium,7147,17.1,22.2
+SpiceJet,SG 8169,New Delhi,Mumbai,5.0,2022-09-24,premium,7147,13.2,18.2
+SpiceJet,SG 711,New Delhi,Mumbai,2.15,2022-09-24,premium,7147,7.2,9.35
+SpiceJet,SG 8709,New Delhi,Mumbai,2.15,2022-09-24,premium,7884,19.45,22.0
+SpiceJet,SG 2962 SG 3002,New Delhi,Mumbai,2.15,2022-09-24,premium,12005,21.4,23.55
+SpiceJet,SG 3749 SG 202,New Delhi,Mumbai,2.1,2022-09-24,premium,13695,19.0,21.1
+SpiceJet,SG 8171 SG 487,New Delhi,Mumbai,4.4,2022-09-24,premium,13789,6.15,10.55
+SpiceJet,SG 8963 SG 945,New Delhi,Mumbai,6.15,2022-09-24,premium,13880,15.3,21.45
+SpiceJet,SG 8211 SG 454,New Delhi,Mumbai,6.45,2022-09-24,premium,14945,12.05,18.5
+SpiceJet,SG 8963 SG 945,New Delhi,Mumbai,6.45,2022-09-24,premium,7335,9.25,16.1
+SpiceJet,SG 8211 SG 454,New Delhi,Mumbai,5.55,2022-09-24,premium,7335,9.0,14.55
+Vistara,UK 975,New Delhi,Mumbai,2.0,2022-04-10,premium,7335,5.55,7.55
+Vistara,UK 943,New Delhi,Mumbai,2.15,2022-04-10,premium,7335,7.3,9.45
+Vistara,UK 963,New Delhi,Mumbai,2.2,2022-04-10,premium,7335,8.5,11.1
+Vistara,UK 995,New Delhi,Mumbai,2.15,2022-04-10,premium,7335,10.2,12.35
+Vistara,UK 945,New Delhi,Mumbai,2.2,2022-04-10,premium,7335,11.4,14.0
+Vistara,UK 993,New Delhi,Mumbai,2.15,2022-04-10,premium,7335,12.45,15.0
+Vistara,UK 933,New Delhi,Mumbai,2.1,2022-04-10,premium,7335,15.3,17.4
+Vistara,UK 941,New Delhi,Mumbai,2.1,2022-04-10,premium,7335,16.55,19.05
+Vistara,UK 955,New Delhi,Mumbai,2.2,2022-04-10,premium,7335,17.45,20.05
+Vistara,UK 977,New Delhi,Mumbai,2.15,2022-04-10,premium,7335,19.0,21.15
+Vistara,UK 985,New Delhi,Mumbai,2.1,2022-04-10,premium,7481,19.45,21.55
+Vistara,UK 981,New Delhi,Mumbai,2.1,2022-04-10,premium,7481,21.3,23.4
+Vistara,UK 969 UK 956,New Delhi,Mumbai,5.05,2022-04-10,premium,12200,18.1,23.15
+Vistara,UK 929 UK 918,New Delhi,Mumbai,8.55,2022-04-10,premium,12100,21.2,6.15
+Vistara,UK 927,New Delhi,Mumbai,2.05,2022-04-10,premium,12100,9.3,11.35
+Vistara,UK 637 UK 652,New Delhi,Mumbai,5.1,2022-04-10,premium,12200,17.1,22.2
+SpiceJet,SG 8701,New Delhi,Mumbai,2.15,2022-04-10,premium,7147,7.2,9.35
+SpiceJet,SG 8169,New Delhi,Mumbai,2.15,2022-04-10,premium,7147,19.45,22.0
+SpiceJet,SG 711,New Delhi,Mumbai,2.15,2022-04-10,premium,7147,21.4,23.55
+SpiceJet,SG 2962 SG 3002,New Delhi,Mumbai,5.4,2022-04-10,premium,11443,6.15,11.55
+Vistara,UK 975,New Delhi,Mumbai,2.0,2022-09-24,business,22152,5.55,7.55
+Vistara,UK 943,New Delhi,Mumbai,2.15,2022-09-24,business,22152,7.3,9.45
+Vistara,UK 963,New Delhi,Mumbai,2.2,2022-09-24,business,22152,8.5,11.1
+Vistara,UK 995,New Delhi,Mumbai,2.15,2022-09-24,business,22152,10.2,12.35
+Vistara,UK 945,New Delhi,Mumbai,2.2,2022-09-24,business,22152,11.4,14.0
+Vistara,UK 951,New Delhi,Mumbai,2.1,2022-09-24,business,22152,14.2,16.3
+Vistara,UK 985,New Delhi,Mumbai,2.1,2022-09-24,business,22152,19.45,21.55
+Vistara,UK 953,New Delhi,Mumbai,2.1,2022-09-24,business,22152,20.4,22.5
+Vistara,UK 981,New Delhi,Mumbai,2.1,2022-09-24,business,22152,21.3,23.4
+Air India,AI 814,New Delhi,Mumbai,2.1,2022-09-24,business,22152,22.3,0.4
+Vistara,UK 969 UK 956,New Delhi,Mumbai,5.05,2022-09-24,business,22298,18.1,23.15
+Air India,AI 887,New Delhi,Mumbai,2.05,2022-09-24,business,22712,7.0,9.05
+Air India,AI 665,New Delhi,Mumbai,2.1,2022-09-24,business,22712,8.0,10.1
+Air India,AI 678,New Delhi,Mumbai,2.15,2022-09-24,business,22712,9.0,11.15
+Air India,AI 865,New Delhi,Mumbai,2.35,2022-09-24,business,22712,10.0,12.35
+Air India,AI 805,New Delhi,Mumbai,2.1,2022-09-24,business,22712,20.0,22.1
+Air India,AI 636,New Delhi,Mumbai,3.4,2022-09-24,business,22712,14.3,18.1
+Air India,AI 605,New Delhi,Mumbai,2.2,2022-09-24,business,30092,21.15,23.35
+Vistara,UK 993,New Delhi,Mumbai,2.15,2022-09-24,business,30104,12.45,15.0
+Vistara,UK 933,New Delhi,Mumbai,2.1,2022-09-24,business,30104,15.3,17.4
+Vistara,UK 955,New Delhi,Mumbai,2.2,2022-09-24,business,30104,17.45,20.05
+Vistara,UK 977,New Delhi,Mumbai,2.15,2022-09-24,business,30104,19.0,21.15
+Air India,AI 403 AI 656,New Delhi,Mumbai,6.25,2022-09-24,business,30926,12.5,19.15
+Air India,AI 441,New Delhi,Mumbai,2.15,2022-09-24,business,43980,17.55,20.1
+Air India,AI 624,New Delhi,Mumbai,2.15,2022-09-24,business,43980,19.0,21.15
+Vistara,UK 673 UK 622,New Delhi,Mumbai,5.0,2022-09-24,business,44082,13.2,18.2
+Vistara,UK 927,New Delhi,Mumbai,2.05,2022-09-24,business,44328,9.3,11.35
+Air India,AI 542 AI 618,New Delhi,Mumbai,5.15,2022-09-24,business,46153,9.45,15.0
+Vistara,UK 941,New Delhi,Mumbai,2.1,2022-09-24,business,52056,16.55,19.05
+Air India,AI 803,New Delhi,Bengaluru,2.45,2022-09-24,economy,32859,6.1,8.55
+Vistara,UK 801,New Delhi,Bengaluru,2.45,2022-09-24,economy,32859,9.05,11.5
+Vistara,UK 817,New Delhi,Bengaluru,2.45,2022-09-24,economy,32859,16.05,18.5
+Vistara,UK 809,New Delhi,Bengaluru,2.5,2022-09-24,economy,32859,19.5,22.4
+Vistara,UK 807,New Delhi,Bengaluru,2.4,2022-09-24,economy,32859,20.4,23.2
+Air India,AI 504,New Delhi,Bengaluru,2.5,2022-09-24,economy,32859,21.15,0.05
+Air India,AI 506,New Delhi,Bengaluru,2.45,2022-09-24,economy,33419,9.45,12.3
+Air India,AI 502,New Delhi,Bengaluru,2.45,2022-09-24,economy,33419,13.3,16.15
+Air India,AI 807,New Delhi,Bengaluru,3.0,2022-09-24,economy,33419,17.15,20.15
+Vistara,UK 811,New Delhi,Bengaluru,2.45,2022-09-24,economy,40296,6.15,9.0
+Vistara,UK 813,New Delhi,Bengaluru,2.5,2022-09-24,economy,40296,17.35,20.25
+Vistara,UK 951 UK 843,New Delhi,Bengaluru,4.55,2022-09-24,economy,42457,14.2,19.15
+Vistara,UK 815,New Delhi,Bengaluru,2.4,2022-09-24,economy,50751,8.1,10.5
+Vistara,UK 819,New Delhi,Bengaluru,2.5,2022-09-24,economy,50751,14.15,17.05
+Vistara,UK 847 UK 868,New Delhi,Bengaluru,4.45,2022-09-24,economy,55458,11.1,15.55
+Go First,G8 113,New Delhi,Bengaluru,2.45,2022-04-10,economy,7003,5.5,8.35
+SpiceJet,SG 191,New Delhi,Bengaluru,2.5,2022-04-10,economy,7419,6.05,8.55
+IndiGo,6E 5036,New Delhi,Bengaluru,2.5,2022-04-10,economy,7424,2.25,5.15
+IndiGo,6E 2048,New Delhi,Bengaluru,2.5,2022-04-10,economy,7424,3.5,6.4
+IndiGo,6E 6612,New Delhi,Bengaluru,2.35,2022-04-10,economy,7424,6.0,8.35
+IndiGo,6E 5009,New Delhi,Bengaluru,2.55,2022-04-10,economy,7424,6.55,9.5
+IndiGo,6E 308,New Delhi,Bengaluru,2.4,2022-04-10,economy,7424,8.2,11.0
+IndiGo,6E 6827,New Delhi,Bengaluru,2.4,2022-04-10,economy,7424,9.15,11.55
+IndiGo,6E 2188,New Delhi,Bengaluru,2.45,2022-04-10,economy,7424,11.3,14.15
+IndiGo,6E 5186,New Delhi,Bengaluru,2.35,2022-04-10,economy,7424,13.0,15.35
+IndiGo,6E 2015,New Delhi,Bengaluru,2.45,2022-04-10,economy,7424,18.3,21.15
+IndiGo,6E 2532,New Delhi,Bengaluru,2.5,2022-04-10,economy,7424,20.1,23.0
+IndiGo,6E 2131,New Delhi,Bengaluru,2.45,2022-04-10,economy,7424,21.3,0.15
+IndiGo,6E 6565,New Delhi,Bengaluru,2.5,2022-04-10,economy,7424,22.55,1.45
+Air India,AI 803,New Delhi,Bengaluru,2.45,2022-04-10,economy,7425,6.1,8.55
+Vistara,UK 811,New Delhi,Bengaluru,2.45,2022-04-10,economy,7425,6.15,9.0
+Air India,AI 813,New Delhi,Bengaluru,2.3,2022-04-10,economy,7425,8.0,10.3
+AirAsia,I5 740,New Delhi,Bengaluru,2.3,2022-04-10,economy,7425,8.1,10.4
+AirAsia,I5 1529,New Delhi,Bengaluru,2.5,2022-04-10,economy,7425,9.35,12.25
+Air India,AI 506,New Delhi,Bengaluru,2.45,2022-04-10,economy,7425,9.45,12.3
+Air India,AI 807,New Delhi,Bengaluru,3.0,2022-04-10,economy,7425,17.15,20.15
+AirAsia,I5 721,New Delhi,Bengaluru,2.5,2022-04-10,economy,7425,21.0,23.5
+Air India,AI 504,New Delhi,Bengaluru,2.5,2022-04-10,economy,7425,21.15,0.05
+AirAsia,I5 1732,New Delhi,Bengaluru,2.45,2022-04-10,economy,7425,21.5,0.35
+SpiceJet,SG 537,New Delhi,Bengaluru,2.3,2022-04-10,economy,7581,20.0,22.3
+Vistara,UK 815,New Delhi,Bengaluru,2.4,2022-04-10,economy,7688,8.1,10.5
+Vistara,UK 801,New Delhi,Bengaluru,2.45,2022-04-10,economy,7688,9.05,11.5
+Vistara,UK 807,New Delhi,Bengaluru,2.4,2022-04-10,economy,7740,20.4,23.2
+IndiGo,6E 2487,New Delhi,Bengaluru,2.4,2022-04-10,economy,7897,17.15,19.55
+Go First,G8 334 G8 383,New Delhi,Bengaluru,9.05,2022-04-10,economy,8155,8.0,17.05
+Vistara,UK 819,New Delhi,Bengaluru,2.5,2022-04-10,economy,8160,14.15,17.05
+Vistara,UK 817,New Delhi,Bengaluru,2.45,2022-04-10,economy,8160,16.05,18.5
+Air India,AI 865 AI 607,New Delhi,Bengaluru,8.2,2022-04-10,economy,8298,10.0,18.2
+Go First,G8 119,New Delhi,Bengaluru,2.45,2022-04-10,economy,8579,20.45,23.3
+Air India,AI 815,New Delhi,Bengaluru,2.5,2022-04-10,economy,8580,15.3,18.2
+IndiGo,6E 5005 6E 909,New Delhi,Bengaluru,5.0,2022-04-10,economy,8587,5.15,10.15
+AirAsia,I5 857,New Delhi,Bengaluru,2.55,2022-04-10,economy,9419,18.45,21.4
+IndiGo,6E 2008 6E 703,New Delhi,Bengaluru,6.1,2022-04-10,economy,9753,6.0,12.1
+Vistara,UK 813,New Delhi,Bengaluru,2.5,2022-04-10,economy,9945,17.35,20.25
+Vistara,UK 809,New Delhi,Bengaluru,2.5,2022-04-10,economy,9945,19.5,22.4
+AirAsia,I5 548 I5 1426,New Delhi,Bengaluru,4.5,2022-04-10,economy,9979,7.2,12.1
+Vistara,UK 811,New Delhi,Bengaluru,2.45,2022-04-10,premium,8902,6.15,9.0
+Vistara,UK 815,New Delhi,Bengaluru,2.4,2022-04-10,premium,8902,8.1,10.5
+Vistara,UK 801,New Delhi,Bengaluru,2.45,2022-04-10,premium,8902,9.05,11.5
+Vistara,UK 817,New Delhi,Bengaluru,2.45,2022-04-10,premium,8902,16.05,18.5
+Vistara,UK 807,New Delhi,Bengaluru,2.4,2022-04-10,premium,8902,20.4,23.2
+Vistara,UK 819,New Delhi,Bengaluru,2.5,2022-04-10,premium,12318,14.15,17.05
+Vistara,UK 813,New Delhi,Bengaluru,2.5,2022-04-10,premium,12318,17.35,20.25
+Vistara,UK 809,New Delhi,Bengaluru,2.5,2022-04-10,premium,12318,19.5,22.4
+Vistara,UK 993 UK 853,New Delhi,Bengaluru,5.0,2022-04-10,premium,15958,12.45,17.45
+Vistara,UK 945 UK 853,New Delhi,Bengaluru,6.05,2022-04-10,premium,15958,11.4,17.45
+SpiceJet,SG 191,New Delhi,Bengaluru,2.5,2022-04-10,premium,8616,6.05,8.55
+SpiceJet,SG 537,New Delhi,Bengaluru,2.3,2022-04-10,premium,8778,20.0,22.3
+Air India,AI 803,New Delhi,Bengaluru,2.45,2022-04-10,business,29631,6.1,8.55
+Air India,AI 813,New Delhi,Bengaluru,2.3,2022-04-10,business,29631,8.0,10.3
+Air India,AI 506,New Delhi,Bengaluru,2.45,2022-04-10,business,29631,9.45,12.3
+Air India,AI 504,New Delhi,Bengaluru,2.5,2022-04-10,business,29631,21.15,0.05
+Vistara,UK 815,New Delhi,Bengaluru,2.4,2022-04-10,business,29632,8.1,10.5
+Vistara,UK 813,New Delhi,Bengaluru,2.5,2022-04-10,business,29632,17.35,20.25
+Vistara,UK 809,New Delhi,Bengaluru,2.5,2022-04-10,business,29632,19.5,22.4
+Vistara,UK 807,New Delhi,Bengaluru,2.4,2022-04-10,business,29632,20.4,23.2
+Vistara,UK 819,New Delhi,Bengaluru,2.5,2022-04-10,business,32859,14.15,17.05
+Vistara,UK 817,New Delhi,Bengaluru,2.45,2022-04-10,business,32859,16.05,18.5
+Air India,AI 865 AI 607,New Delhi,Bengaluru,8.2,2022-04-10,business,38289,10.0,18.2
+Vistara,UK 811,New Delhi,Bengaluru,2.45,2022-04-10,business,40296,6.15,9.0
+Vistara,UK 801,New Delhi,Bengaluru,2.45,2022-04-10,business,40296,9.05,11.5
+Vistara,UK 975 UK 863,New Delhi,Bengaluru,4.5,2022-04-10,business,46012,5.55,10.45
+Air India,AI 815,New Delhi,Bengaluru,2.5,2022-04-10,business,57980,15.3,18.2
+Air India,AI 807,New Delhi,Bengaluru,3.0,2022-04-10,business,57980,17.15,20.15
+Air India,AI 429,New Delhi,Chennai,2.55,2022-04-10,economy,6690,9.45,12.4
+Vistara,UK 833,New Delhi,Chennai,2.5,2022-04-10,economy,7217,7.0,9.5
+IndiGo,6E 2329,New Delhi,Chennai,2.55,2022-04-10,economy,7424,9.5,12.45
+IndiGo,6E 2043,New Delhi,Chennai,2.55,2022-04-10,economy,7424,12.55,15.5
+IndiGo,6E 2115,New Delhi,Chennai,2.55,2022-04-10,economy,7424,15.4,18.35
+IndiGo,6E 2169,New Delhi,Chennai,2.5,2022-04-10,economy,7424,17.25,20.15
+IndiGo,6E 2097,New Delhi,Chennai,3.0,2022-04-10,economy,7424,19.1,22.1
+IndiGo,6E 2162,New Delhi,Chennai,2.5,2022-04-10,economy,7424,20.3,23.2
+IndiGo,6E 2061,New Delhi,Chennai,2.55,2022-04-10,economy,7424,23.0,1.55
+Air India,AI 439,New Delhi,Chennai,3.0,2022-04-10,economy,7425,5.55,8.55
+Vistara,UK 839,New Delhi,Chennai,2.5,2022-04-10,economy,7425,13.35,16.25
+Air India,AI 537,New Delhi,Chennai,3.15,2022-04-10,economy,7425,16.15,19.3
+Air India,AI 540,New Delhi,Chennai,2.55,2022-04-10,economy,7425,20.4,23.35
+SpiceJet,SG 8207,New Delhi,Chennai,2.4,2022-04-10,economy,7581,8.45,11.25
+Vistara,UK 835,New Delhi,Chennai,2.5,2022-04-10,economy,7635,19.55,22.45
+Vistara,UK 837,New Delhi,Chennai,2.5,2022-04-10,economy,8370,17.25,20.15
+IndiGo,6E 2719 6E 548,New Delhi,Chennai,5.15,2022-04-10,economy,8566,5.05,10.2
+SpiceJet,SG 8207,New Delhi,Chennai,2.4,2022-09-24,economy,7423,8.45,11.25
+IndiGo,6E 2059,New Delhi,Chennai,2.5,2022-09-24,economy,7424,7.1,10.0
+IndiGo,6E 2329,New Delhi,Chennai,2.55,2022-09-24,economy,7424,9.5,12.45
+IndiGo,6E 2043,New Delhi,Chennai,2.55,2022-09-24,economy,7424,12.55,15.5
+IndiGo,6E 2115,New Delhi,Chennai,2.55,2022-09-24,economy,7424,15.4,18.35
+IndiGo,6E 2169,New Delhi,Chennai,2.5,2022-09-24,economy,7424,17.25,20.15
+IndiGo,6E 2097,New Delhi,Chennai,3.0,2022-09-24,economy,7424,19.1,22.1
+IndiGo,6E 2162,New Delhi,Chennai,2.5,2022-09-24,economy,7424,20.3,23.2
+IndiGo,6E 2061,New Delhi,Chennai,2.55,2022-09-24,economy,7424,23.0,1.55
+Air India,AI 439,New Delhi,Chennai,3.0,2022-09-24,economy,7425,5.55,8.55
+Air India,AI 429,New Delhi,Chennai,2.55,2022-09-24,economy,7425,9.45,12.4
+Vistara,UK 839,New Delhi,Chennai,2.5,2022-09-24,economy,7425,13.35,16.25
+Air India,AI 537,New Delhi,Chennai,3.15,2022-09-24,economy,7425,16.15,19.3
+Vistara,UK 837,New Delhi,Chennai,2.5,2022-09-24,economy,7425,17.25,20.15
+Vistara,UK 835,New Delhi,Chennai,2.5,2022-09-24,economy,7425,19.55,22.45
+Air India,AI 540,New Delhi,Chennai,2.55,2022-09-24,economy,7425,20.4,23.35
+AirAsia,I5 792 I5 821,New Delhi,Chennai,9.2,2022-09-24,economy,7866,12.4,22.0
+Vistara,UK 833,New Delhi,Chennai,2.5,2022-09-24,economy,9418,7.0,9.5
+IndiGo,6E 2719 6E 548,New Delhi,Chennai,5.15,2022-09-24,economy,9420,5.05,10.2
+Vistara,UK 833,New Delhi,Chennai,2.5,2022-09-24,premium,11198,7.0,9.5
+Vistara,UK 839,New Delhi,Chennai,2.5,2022-09-24,premium,11198,13.35,16.25
+Vistara,UK 837,New Delhi,Chennai,2.5,2022-09-24,premium,11198,17.25,20.15
+Vistara,UK 835,New Delhi,Chennai,2.5,2022-09-24,premium,11198,19.55,22.45
+SpiceJet,SG 8207,New Delhi,Chennai,2.4,2022-09-24,premium,8620,8.45,11.25
+Air India,AI 439,New Delhi,Chennai,3.0,2022-09-24,business,27864,5.55,8.55
+Vistara,UK 839,New Delhi,Chennai,2.5,2022-09-24,business,27864,13.35,16.25
+Vistara,UK 835,New Delhi,Chennai,2.5,2022-09-24,business,27864,19.55,22.45
+Air India,AI 429,New Delhi,Chennai,2.55,2022-09-24,business,28424,9.45,12.4
+Air India,AI 537,New Delhi,Chennai,3.15,2022-09-24,business,28424,16.15,19.3
+Air India,AI 540,New Delhi,Chennai,2.55,2022-09-24,business,28424,20.4,23.35
+Vistara,UK 833,New Delhi,Chennai,2.5,2022-09-24,business,40296,7.0,9.5
+Vistara,UK 837,New Delhi,Chennai,2.5,2022-09-24,business,40296,17.25,20.15
+Air India,AI 814 AI 570,New Delhi,Chennai,8.55,2022-09-24,business,45257,22.3,7.25
+Go First,G8 719,New Delhi,Ahmedabad,1.25,2022-09-24,economy,5110,5.25,6.5
+SpiceJet,SG 8913,New Delhi,Ahmedabad,1.4,2022-09-24,economy,5110,5.45,7.25
+Go First,G8 717,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5110,16.45,18.2
+SpiceJet,SG 921,New Delhi,Ahmedabad,1.3,2022-09-24,economy,5110,18.1,19.4
+IndiGo,6E 2033,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5111,0.15,1.5
+IndiGo,6E 6373,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5111,6.3,8.05
+IndiGo,6E 184,New Delhi,Ahmedabad,1.3,2022-09-24,economy,5111,9.5,11.2
+IndiGo,6E 2141,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5111,13.35,15.1
+IndiGo,6E 6939,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5111,17.2,18.55
+IndiGo,6E 153,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5111,19.35,21.1
+Air India,AI 817,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5115,5.15,6.5
+Air India,AI 481,New Delhi,Ahmedabad,1.45,2022-09-24,economy,5115,8.25,10.1
+Air India,AI 531,New Delhi,Ahmedabad,1.35,2022-09-24,economy,5115,19.0,20.35
+Vistara,UK 969,New Delhi,Ahmedabad,1.45,2022-09-24,economy,5116,18.1,19.55
+Go First,G8 713,New Delhi,Ahmedabad,1.3,2022-09-24,economy,5311,20.2,21.5
+IndiGo,6E 607,New Delhi,Ahmedabad,1.4,2022-09-24,economy,5849,22.3,0.1
+Vistara,UK 959,New Delhi,Ahmedabad,1.25,2022-09-24,economy,6439,6.3,7.55
+Vistara,UK 929,New Delhi,Ahmedabad,1.4,2022-09-24,economy,6439,21.2,23.0
+IndiGo,6E 315 6E 6362,New Delhi,Ahmedabad,6.25,2022-09-24,economy,6899,5.4,12.05
+Air India,AI 817,New Delhi,Ahmedabad,1.35,2022-04-10,economy,4563,5.15,6.5
+Air India,AI 481,New Delhi,Ahmedabad,1.45,2022-04-10,economy,4563,8.25,10.1
+Air India,AI 531,New Delhi,Ahmedabad,1.35,2022-04-10,economy,4563,19.0,20.35
+Go First,G8 719,New Delhi,Ahmedabad,1.3,2022-04-10,economy,4577,7.3,9.0
+Go First,G8 713,New Delhi,Ahmedabad,1.3,2022-04-10,economy,4577,19.15,20.45
+SpiceJet,SG 913,New Delhi,Ahmedabad,1.5,2022-04-10,economy,5110,5.35,7.25
+IndiGo,6E 2033,New Delhi,Ahmedabad,1.35,2022-04-10,economy,5111,0.15,1.5
+IndiGo,6E 5026,New Delhi,Ahmedabad,1.4,2022-04-10,economy,5111,4.45,6.25
+IndiGo,6E 6373,New Delhi,Ahmedabad,1.35,2022-04-10,economy,5111,6.3,8.05
+IndiGo,6E 184,New Delhi,Ahmedabad,1.3,2022-04-10,economy,5111,9.5,11.2
+IndiGo,6E 2141,New Delhi,Ahmedabad,1.35,2022-04-10,economy,5111,13.35,15.1
+IndiGo,6E 6939,New Delhi,Ahmedabad,1.35,2022-04-10,economy,5111,17.2,18.55
+IndiGo,6E 607,New Delhi,Ahmedabad,1.4,2022-04-10,economy,5111,22.3,0.1
+Go First,G8 717,New Delhi,Ahmedabad,1.3,2022-04-10,economy,5113,16.1,17.4
+Alliance Air,9I 887,New Delhi,Ahmedabad,2.15,2022-04-10,economy,5115,5.35,7.5
+Vistara,UK 959,New Delhi,Ahmedabad,1.25,2022-04-10,economy,5116,6.3,7.55
+Vistara,UK 969,New Delhi,Ahmedabad,1.45,2022-04-10,economy,5116,18.1,19.55
+Vistara,UK 929,New Delhi,Ahmedabad,1.4,2022-04-10,economy,5116,21.2,23.0
+IndiGo,6E 153,New Delhi,Ahmedabad,1.35,2022-04-10,economy,5219,19.35,21.1
+SpiceJet,SG 2978 SG 3762,New Delhi,Ahmedabad,11.35,2022-04-10,economy,6627,20.0,7.35
+Vistara,UK 959,New Delhi,Ahmedabad,1.25,2022-04-10,premium,6439,6.3,7.55
+Vistara,UK 969,New Delhi,Ahmedabad,1.45,2022-04-10,premium,6439,18.1,19.55
+Vistara,UK 929,New Delhi,Ahmedabad,1.4,2022-04-10,premium,6439,21.2,23.0
+Vistara,UK 941 UK 949,New Delhi,Ahmedabad,4.3,2022-04-10,premium,11703,16.55,21.25
+Vistara,UK 985 UK 919,New Delhi,Ahmedabad,4.05,2022-04-10,premium,11703,19.45,23.5
+Vistara,UK 977 UK 919,New Delhi,Ahmedabad,4.5,2022-04-10,premium,11703,19.0,23.5
+Vistara,UK 933 UK 919,New Delhi,Ahmedabad,8.2,2022-04-10,premium,11703,15.3,23.5
+SpiceJet,SG 913,New Delhi,Ahmedabad,1.5,2022-04-10,premium,6206,5.35,7.25
+SpiceJet,SG 2978 SG 3762,New Delhi,Ahmedabad,11.35,2022-04-10,premium,9878,20.0,7.35
+SpiceJet,SG 8938 SG 1078,New Delhi,Ahmedabad,7.3,2022-04-10,premium,12124,17.05,0.35
+Air India,AI 817,New Delhi,Ahmedabad,1.35,2022-04-10,business,17878,5.15,6.5
+Air India,AI 481,New Delhi,Ahmedabad,1.45,2022-04-10,business,17878,8.25,10.1
+Air India,AI 531,New Delhi,Ahmedabad,1.35,2022-04-10,business,17878,19.0,20.35
+Vistara,UK 959,New Delhi,Ahmedabad,1.25,2022-04-10,business,19856,6.3,7.55
+Vistara,UK 969,New Delhi,Ahmedabad,1.45,2022-04-10,business,19856,18.1,19.55
+Vistara,UK 929,New Delhi,Ahmedabad,1.4,2022-04-10,business,19856,21.2,23.0
+Air India,AI 863 AI 637,New Delhi,Ahmedabad,6.0,2022-04-10,business,31657,14.0,20.0
+SpiceJet,SG 8938,New Delhi,Pune,2.2,2022-09-24,economy,5951,17.05,19.25
+SpiceJet,SG 8190,New Delhi,Pune,2.1,2022-09-24,economy,5951,20.25,22.35
+AirAsia,I5 764,New Delhi,Pune,2.05,2022-09-24,economy,5952,4.1,6.15
+Go First,G8 1171,New Delhi,Pune,2.0,2022-09-24,economy,5952,20.0,22.0
+Go First,G8 275,New Delhi,Pune,2.1,2022-09-24,economy,5952,21.3,23.4
+IndiGo,6E 177,New Delhi,Pune,2.15,2022-09-24,economy,5954,2.0,4.15
+IndiGo,6E 643,New Delhi,Pune,2.0,2022-09-24,economy,5954,4.55,6.55
+IndiGo,6E 2769,New Delhi,Pune,2.05,2022-09-24,economy,5954,7.5,9.55
+IndiGo,6E 2143,New Delhi,Pune,2.1,2022-09-24,economy,5954,17.55,20.05
+IndiGo,6E 671,New Delhi,Pune,1.45,2022-09-24,economy,5954,21.2,23.05
+IndiGo,6E 147,New Delhi,Pune,1.5,2022-09-24,economy,5954,23.3,1.2
+Air India,AI 851,New Delhi,Pune,2.05,2022-09-24,economy,5955,4.55,7.0
+Go First,G8 173,New Delhi,Pune,2.05,2022-09-24,economy,6254,8.1,10.15
+Vistara,UK 973,New Delhi,Pune,2.15,2022-09-24,economy,8579,20.5,23.05
+IndiGo,6E 2033 6E 6335,New Delhi,Pune,4.1,2022-09-24,economy,8579,0.15,4.25
+AirAsia,I5 768,New Delhi,Pune,1.55,2022-09-24,economy,9315,15.3,17.25
+IndiGo,6E 6939 6E 794,New Delhi,Pune,4.45,2022-09-24,economy,9650,17.2,22.05
+IndiGo,6E 2141 6E 794,New Delhi,Pune,8.3,2022-09-24,economy,9839,13.35,22.05
+Air India,AI 849,New Delhi,Pune,2.0,2022-09-24,economy,9840,16.1,18.1
+Vistara,UK 971,New Delhi,Pune,2.1,2022-09-24,economy,10156,8.0,10.1
+Vistara,UK 997,New Delhi,Pune,2.1,2022-09-24,economy,10156,14.1,16.2
+IndiGo,6E 505 6E 6877,New Delhi,Pune,4.55,2022-09-24,economy,10417,21.45,2.4
+IndiGo,6E 2792 6E 6877,New Delhi,Pune,7.4,2022-09-24,economy,10417,19.0,2.4
+Vistara,UK 991,New Delhi,Pune,2.15,2022-09-24,economy,10891,17.45,20.0
+IndiGo,6E 2127 6E 6876,New Delhi,Pune,6.2,2022-09-24,economy,12015,17.15,23.35
+SpiceJet,SG 8938,New Delhi,Pune,2.2,2022-09-24,premium,5951,17.05,19.25
+SpiceJet,SG 8190,New Delhi,Pune,2.1,2022-09-24,premium,5951,20.25,22.35
+AirAsia,I5 764,New Delhi,Pune,2.05,2022-09-24,premium,5952,4.1,6.15
+Go First,G8 1171,New Delhi,Pune,2.0,2022-09-24,premium,5952,20.0,22.0
+Go First,G8 275,New Delhi,Pune,2.1,2022-09-24,premium,5952,21.3,23.4
+IndiGo,6E 177,New Delhi,Pune,2.15,2022-09-24,premium,5954,2.0,4.15
+IndiGo,6E 643,New Delhi,Pune,2.0,2022-09-24,premium,5954,4.55,6.55
+IndiGo,6E 2769,New Delhi,Pune,2.05,2022-09-24,premium,5954,7.5,9.55
+IndiGo,6E 2143,New Delhi,Pune,2.1,2022-09-24,premium,5954,17.55,20.05
+IndiGo,6E 671,New Delhi,Pune,1.45,2022-09-24,premium,5954,21.2,23.05
+IndiGo,6E 147,New Delhi,Pune,1.5,2022-09-24,premium,5954,23.3,1.2
+Air India,AI 851,New Delhi,Pune,2.05,2022-09-24,premium,5955,4.55,7.0
+Go First,G8 173,New Delhi,Pune,2.05,2022-09-24,premium,6254,8.1,10.15
+Vistara,UK 973,New Delhi,Pune,2.15,2022-09-24,premium,8579,20.5,23.05
+IndiGo,6E 2033 6E 6335,New Delhi,Pune,4.1,2022-09-24,premium,8579,0.15,4.25
+AirAsia,I5 768,New Delhi,Pune,1.55,2022-09-24,premium,9315,15.3,17.25
+IndiGo,6E 6939 6E 794,New Delhi,Pune,4.45,2022-09-24,premium,9650,17.2,22.05
+IndiGo,6E 2141 6E 794,New Delhi,Pune,8.3,2022-09-24,premium,9839,13.35,22.05
+Air India,AI 849,New Delhi,Pune,2.0,2022-09-24,premium,9840,16.1,18.1
+Vistara,UK 971,New Delhi,Pune,2.1,2022-09-24,premium,10156,8.0,10.1
+Vistara,UK 997,New Delhi,Pune,2.1,2022-09-24,premium,10156,14.1,16.2
+IndiGo,6E 505 6E 6877,New Delhi,Pune,4.55,2022-09-24,premium,10417,21.45,2.4
+IndiGo,6E 2792 6E 6877,New Delhi,Pune,7.4,2022-09-24,premium,10417,19.0,2.4
+Vistara,UK 991,New Delhi,Pune,2.15,2022-09-24,premium,10891,17.45,20.0
+IndiGo,6E 2127 6E 6876,New Delhi,Pune,6.2,2022-09-24,premium,12015,17.15,23.35
+Vistara,UK 973,New Delhi,Pune,2.15,2022-09-24,business,24504,20.5,23.05
+Air India,AI 849,New Delhi,Pune,2.0,2022-09-24,business,25064,16.1,18.1
+Air India,AI 851,New Delhi,Pune,2.05,2022-09-24,business,43420,4.55,7.0
+Vistara,UK 971,New Delhi,Pune,2.1,2022-09-24,business,45784,8.0,10.1
+Vistara,UK 997,New Delhi,Pune,2.1,2022-09-24,business,45784,14.1,16.2
+Go First,G8 511,Mumbai,Kolkata,2.45,2022-09-24,economy,7813,6.55,9.4
+Air India,AI 675,Mumbai,Kolkata,2.5,2022-09-24,economy,7938,6.0,8.5
+IndiGo,6E 6088,Mumbai,Kolkata,2.35,2022-09-24,economy,8043,22.4,1.15
+Vistara,UK 950 UK 747,Mumbai,Kolkata,10.25,2022-09-24,economy,8251,21.55,8.2
+Vistara,UK 988 UK 747,Mumbai,Kolkata,11.25,2022-09-24,economy,8251,20.55,8.2
+IndiGo,6E 6086,Mumbai,Kolkata,2.5,2022-09-24,economy,8358,20.05,22.55
+SpiceJet,SG 467,Mumbai,Kolkata,2.45,2022-09-24,economy,8568,18.45,21.3
+IndiGo,6E 822,Mumbai,Kolkata,2.4,2022-09-24,economy,8673,6.3,9.1
+IndiGo,6E 226,Mumbai,Kolkata,2.35,2022-09-24,economy,8673,17.35,20.1
+IndiGo,6E 5289,Mumbai,Kolkata,2.45,2022-09-24,economy,8988,12.55,15.4
+Go First,G8 520,Mumbai,Kolkata,2.45,2022-09-24,economy,9212,19.3,22.15
+IndiGo,6E 429,Mumbai,Kolkata,2.3,2022-09-24,economy,9408,7.5,10.2
+IndiGo,6E 5296,Mumbai,Kolkata,2.35,2022-09-24,economy,9408,9.5,12.25
+SpiceJet,SG 712 SG 8263,Mumbai,Kolkata,8.3,2022-09-24,economy,9408,0.35,9.05
+Vistara,UK 773,Mumbai,Kolkata,2.35,2022-09-24,economy,10563,17.2,19.55
+Vistara,UK 910 UK 727,Mumbai,Kolkata,5.1,2022-09-24,economy,10691,17.35,22.45
+Vistara,UK 775,Mumbai,Kolkata,2.5,2022-09-24,economy,11193,14.05,16.55
+IndiGo,6E 192 6E 6494,Mumbai,Kolkata,9.2,2022-09-24,economy,11256,19.55,5.15
+Air India,AI 774,Mumbai,Kolkata,2.45,2022-09-24,economy,12663,21.05,23.5
+IndiGo,6E 5305 6E 664,Mumbai,Kolkata,10.55,2022-09-24,economy,12716,21.0,7.55
+Vistara,UK 771,Mumbai,Kolkata,2.4,2022-09-24,economy,12978,7.0,9.4
+Go First,G8 364 G8 532,Mumbai,Kolkata,13.3,2022-09-24,economy,13104,19.15,8.45
+SpiceJet,SG 9163,Mumbai,Kolkata,2.45,2022-04-10,economy,7412,12.1,14.55
+SpiceJet,SG 467,Mumbai,Kolkata,2.45,2022-04-10,economy,7412,18.45,21.3
+Air India,AI 675,Mumbai,Kolkata,2.5,2022-04-10,economy,7413,6.0,8.5
+IndiGo,6E 822,Mumbai,Kolkata,2.4,2022-04-10,economy,7413,6.3,9.1
+IndiGo,6E 429,Mumbai,Kolkata,2.3,2022-04-10,economy,7413,7.5,10.2
+IndiGo,6E 5296,Mumbai,Kolkata,2.35,2022-04-10,economy,7413,9.5,12.25
+Vistara,UK 775,Mumbai,Kolkata,2.5,2022-04-10,economy,7413,14.05,16.55
+IndiGo,6E 226,Mumbai,Kolkata,2.35,2022-04-10,economy,7413,17.35,20.1
+IndiGo,6E 6086,Mumbai,Kolkata,2.5,2022-04-10,economy,7413,20.05,22.55
+IndiGo,6E 6088,Mumbai,Kolkata,2.35,2022-04-10,economy,7413,22.4,1.15
+Air India,AI 570 AI 786,Mumbai,Kolkata,5.15,2022-04-10,economy,7487,5.25,10.4
+Vistara,UK 771,Mumbai,Kolkata,2.4,2022-04-10,economy,7623,7.0,9.4
+Vistara,UK 773,Mumbai,Kolkata,2.35,2022-04-10,economy,7623,17.2,19.55
+IndiGo,6E 843 6E 6553,Mumbai,Kolkata,4.3,2022-04-10,economy,7638,15.0,19.3
+IndiGo,6E 5315 6E 6553,Mumbai,Kolkata,9.1,2022-04-10,economy,7638,10.2,19.3
+IndiGo,6E 5289,Mumbai,Kolkata,2.45,2022-04-10,economy,7728,12.55,15.4
+Air India,AI 774,Mumbai,Kolkata,2.45,2022-04-10,economy,7938,21.05,23.5
+Go First,G8 520,Mumbai,Kolkata,2.35,2022-04-10,economy,8042,20.1,22.45
+Vistara,UK 960 UK 707,Mumbai,Kolkata,7.4,2022-04-10,economy,8251,11.55,19.35
+Vistara,UK 960 UK 737,Mumbai,Kolkata,6.1,2022-04-10,premium,14185,11.55,18.05
+Vistara,UK 960 UK 707,Mumbai,Kolkata,7.4,2022-04-10,premium,14185,11.55,19.35
+Vistara,UK 994 UK 707,Mumbai,Kolkata,9.1,2022-04-10,premium,14185,10.25,19.35
+Vistara,UK 930 UK 707,Mumbai,Kolkata,12.05,2022-04-10,premium,14185,7.3,19.35
+Vistara,UK 902 UK 727,Mumbai,Kolkata,7.0,2022-04-10,premium,14185,15.45,22.45
+Vistara,UK 944 UK 727,Mumbai,Kolkata,8.05,2022-04-10,premium,14185,14.4,22.45
+Vistara,UK 970 UK 707,Mumbai,Kolkata,10.5,2022-04-10,premium,14938,8.45,19.35
+SpiceJet,SG 9163,Mumbai,Kolkata,2.45,2022-04-10,premium,8609,12.1,14.55
+SpiceJet,SG 467,Mumbai,Kolkata,2.45,2022-04-10,premium,8609,18.45,21.3
+SpiceJet,SG 923 SG 9510,Mumbai,Kolkata,7.15,2022-04-10,premium,13444,14.25,21.4
+Air India,AI 774,Mumbai,Kolkata,2.45,2022-04-10,business,28349,21.05,23.5
+Vistara,UK 771,Mumbai,Kolkata,2.4,2022-04-10,business,29532,7.0,9.4
+Vistara,UK 775,Mumbai,Kolkata,2.5,2022-04-10,business,29532,14.05,16.55
+Vistara,UK 773,Mumbai,Kolkata,2.35,2022-04-10,business,29532,17.2,19.55
+Air India,AI 619 AI 525,Mumbai,Kolkata,12.05,2022-04-10,business,35282,20.1,8.15
+Akasa Air,QP 1103,Mumbai,Bengaluru,1.35,2022-09-24,economy,2000,23.25,1.0
+IndiGo,6E 6819,Mumbai,Bengaluru,1.45,2022-09-24,economy,2355,0.1,1.55
+Go First,G8 317,Mumbai,Bengaluru,1.55,2022-09-24,economy,2826,5.4,7.35
+Go First,G8 398,Mumbai,Bengaluru,1.45,2022-09-24,economy,2826,20.3,22.15
+IndiGo,6E 6258,Mumbai,Bengaluru,1.35,2022-09-24,economy,2880,6.05,7.4
+IndiGo,6E 5383,Mumbai,Bengaluru,1.3,2022-09-24,economy,2880,22.4,0.1
+AirAsia,I5 1784,Mumbai,Bengaluru,1.5,2022-09-24,economy,4308,22.0,23.5
+Akasa Air,QP 1110,Mumbai,Bengaluru,1.45,2022-09-24,economy,4904,9.15,11.0
+Akasa Air,QP 1306,Mumbai,Bengaluru,1.35,2022-09-24,economy,4904,18.4,20.15
+Akasa Air,QP 1105,Mumbai,Bengaluru,1.45,2022-09-24,economy,4954,13.55,15.4
+AirAsia,I5 338,Mumbai,Bengaluru,1.5,2022-09-24,economy,5042,19.0,20.5
+AirAsia,I5 1569,Mumbai,Bengaluru,1.5,2022-09-24,economy,5042,21.2,23.1
+IndiGo,6E 6463,Mumbai,Bengaluru,1.35,2022-09-24,economy,5101,7.1,8.45
+IndiGo,6E 6293,Mumbai,Bengaluru,1.45,2022-09-24,economy,5101,7.35,9.2
+IndiGo,6E 5252,Mumbai,Bengaluru,1.55,2022-09-24,economy,5101,19.05,21.0
+Air India,AI 603,Mumbai,Bengaluru,1.4,2022-09-24,economy,5103,6.1,7.5
+Air India,AI 639,Mumbai,Bengaluru,1.4,2022-09-24,economy,5103,9.3,11.1
+Air India,AI 607,Mumbai,Bengaluru,1.4,2022-09-24,economy,5103,16.4,18.2
+Air India,AI 641,Mumbai,Bengaluru,1.4,2022-09-24,economy,5103,19.0,20.4
+Vistara,UK 857,Mumbai,Bengaluru,1.4,2022-09-24,economy,5104,21.3,23.1
+IndiGo,6E 5287,Mumbai,Bengaluru,1.45,2022-09-24,economy,5311,8.3,10.15
+IndiGo,6E 6221,Mumbai,Bengaluru,1.4,2022-09-24,economy,5311,17.1,18.5
+IndiGo,6E 739,Mumbai,Bengaluru,1.4,2022-09-24,economy,5731,20.3,22.1
+IndiGo,6E 6478,Mumbai,Bengaluru,1.4,2022-09-24,economy,5941,9.55,11.35
+Go First,G8 383,Mumbai,Bengaluru,1.4,2022-09-24,economy,6201,16.3,18.1
+Vistara,UK 853,Mumbai,Bengaluru,1.45,2022-09-24,economy,6427,16.0,17.45
+Vistara,UK 843,Mumbai,Bengaluru,1.45,2022-09-24,economy,6427,17.3,19.15
+IndiGo,6E 5299 6E 6605,Mumbai,Bengaluru,7.0,2022-09-24,economy,6636,7.0,14.0
+IndiGo,6E 136 6E 6605,Mumbai,Bengaluru,8.25,2022-09-24,economy,6636,5.35,14.0
+IndiGo,6E 5382,Mumbai,Bengaluru,1.3,2022-09-24,economy,6886,11.5,13.2
+IndiGo,6E 5299 6E 6892,Mumbai,Bengaluru,5.1,2022-09-24,economy,6936,7.0,12.1
+Vistara,UK 845,Mumbai,Bengaluru,1.5,2022-09-24,economy,7624,6.0,7.5
+Vistara,UK 851,Mumbai,Bengaluru,1.5,2022-09-24,economy,7624,7.0,8.5
+Vistara,UK 865,Mumbai,Bengaluru,1.45,2022-09-24,economy,7624,19.1,20.55
+IndiGo,6E 453 6E 6482,Mumbai,Bengaluru,4.25,2022-09-24,economy,7833,6.2,10.45
+Vistara,UK 863,Mumbai,Bengaluru,1.4,2022-09-24,economy,8779,9.05,10.45
+IndiGo,6E 5395 6E 472,Mumbai,Bengaluru,4.5,2022-09-24,economy,9198,17.25,22.15
+AirAsia,I5 942,Mumbai,Bengaluru,1.4,2022-09-24,economy,9872,13.05,14.45
+Air India,AI 660 AI 504,Mumbai,Bengaluru,6.05,2022-09-24,economy,10070,18.0,0.05
+IndiGo,6E 6258,Mumbai,Bengaluru,1.35,2022-04-10,economy,2049,6.05,7.4
+IndiGo,6E 6463,Mumbai,Bengaluru,1.35,2022-04-10,economy,2049,7.1,8.45
+IndiGo,6E 6293,Mumbai,Bengaluru,1.45,2022-04-10,economy,2049,7.35,9.2
+AirAsia,I5 1569,Mumbai,Bengaluru,1.5,2022-04-10,economy,2522,21.2,23.1
+AirAsia,I5 1784,Mumbai,Bengaluru,1.5,2022-04-10,economy,2522,22.0,23.5
+Akasa Air,QP 1103,Mumbai,Bengaluru,1.35,2022-04-10,economy,2704,23.25,1.0
+Go First,G8 317,Mumbai,Bengaluru,1.4,2022-04-10,economy,2717,6.05,7.45
+Go First,G8 383,Mumbai,Bengaluru,1.45,2022-04-10,economy,2717,15.2,17.05
+Go First,G8 398,Mumbai,Bengaluru,1.5,2022-04-10,economy,2717,20.35,22.25
+Go First,G8 325,Mumbai,Bengaluru,1.5,2022-04-10,economy,2717,22.4,0.3
+Air India,AI 603,Mumbai,Bengaluru,1.4,2022-04-10,economy,2721,6.1,7.5
+Air India,AI 639,Mumbai,Bengaluru,1.4,2022-04-10,economy,2721,9.3,11.1
+Air India,AI 607,Mumbai,Bengaluru,1.4,2022-04-10,economy,2721,16.4,18.2
+Air India,AI 641,Mumbai,Bengaluru,1.4,2022-04-10,economy,2721,19.0,20.4
+IndiGo,6E 6819,Mumbai,Bengaluru,1.45,2022-04-10,economy,2795,0.1,1.55
+Akasa Air,QP 1105,Mumbai,Bengaluru,1.45,2022-04-10,economy,2804,13.55,15.4
+IndiGo,6E 219,Mumbai,Bengaluru,1.35,2022-04-10,economy,3110,14.4,16.15
+IndiGo,6E 5383,Mumbai,Bengaluru,1.3,2022-04-10,economy,3110,22.4,0.1
+IndiGo,6E 6221,Mumbai,Bengaluru,1.4,2022-04-10,economy,3425,17.1,18.5
+Akasa Air,QP 1306,Mumbai,Bengaluru,1.35,2022-04-10,economy,3467,18.4,20.15
+Akasa Air,QP 1110,Mumbai,Bengaluru,1.45,2022-04-10,economy,3604,9.15,11.0
+Vistara,UK 845,Mumbai,Bengaluru,1.5,2022-04-10,economy,3623,6.0,7.5
+Vistara,UK 851,Mumbai,Bengaluru,1.5,2022-04-10,economy,3623,7.0,8.5
+Vistara,UK 853,Mumbai,Bengaluru,1.45,2022-04-10,economy,3623,16.0,17.45
+AirAsia,I5 942,Mumbai,Bengaluru,1.4,2022-04-10,economy,3678,13.05,14.45
+IndiGo,6E 5287,Mumbai,Bengaluru,1.45,2022-04-10,economy,3740,8.3,10.15
+IndiGo,6E 5252,Mumbai,Bengaluru,1.4,2022-04-10,economy,3740,19.05,20.45
+IndiGo,6E 739,Mumbai,Bengaluru,1.4,2022-04-10,economy,3740,20.3,22.1
+AirAsia,I5 338,Mumbai,Bengaluru,1.5,2022-04-10,economy,5042,19.0,20.5
+AirAsia,I5 331 I5 819,Mumbai,Bengaluru,3.3,2022-04-10,economy,5104,4.05,7.35
+Vistara,UK 863,Mumbai,Bengaluru,1.4,2022-04-10,economy,7624,9.05,10.45
+Vistara,UK 865,Mumbai,Bengaluru,1.45,2022-04-10,economy,7624,19.1,20.55
+Vistara,UK 857,Mumbai,Bengaluru,1.4,2022-04-10,economy,7624,21.3,23.1
+Vistara,UK 877 UK 894,Mumbai,Bengaluru,8.45,2022-04-10,economy,7870,10.45,19.3
+Vistara,UK 843,Mumbai,Bengaluru,1.45,2022-04-10,economy,8149,17.3,19.15
+IndiGo,6E 5205 6E 7296,Mumbai,Bengaluru,5.0,2022-04-10,economy,8516,18.45,23.45
+Vistara,UK 845,Mumbai,Bengaluru,1.5,2022-04-10,premium,9003,6.0,7.5
+Vistara,UK 851,Mumbai,Bengaluru,1.5,2022-04-10,premium,9003,7.0,8.5
+Vistara,UK 853,Mumbai,Bengaluru,1.45,2022-04-10,premium,9003,16.0,17.45
+Vistara,UK 843,Mumbai,Bengaluru,1.45,2022-04-10,premium,9003,17.3,19.15
+Vistara,UK 865,Mumbai,Bengaluru,1.45,2022-04-10,premium,9003,19.1,20.55
+Vistara,UK 857,Mumbai,Bengaluru,1.4,2022-04-10,premium,9003,21.3,23.1
+Vistara,UK 863,Mumbai,Bengaluru,1.4,2022-04-10,premium,11243,9.05,10.45
+Vistara,UK 954 UK 801,Mumbai,Bengaluru,5.5,2022-04-10,premium,14892,6.0,11.5
+Vistara,UK 841 UK 868,Mumbai,Bengaluru,4.3,2022-04-10,premium,17739,11.25,15.55
+Air India,AI 603,Mumbai,Bengaluru,1.4,2022-04-10,business,18672,6.1,7.5
+Air India,AI 639,Mumbai,Bengaluru,1.4,2022-04-10,business,18672,9.3,11.1
+Air India,AI 607,Mumbai,Bengaluru,1.4,2022-04-10,business,18672,16.4,18.2
+Air India,AI 641,Mumbai,Bengaluru,1.4,2022-04-10,business,18672,19.0,20.4
+Vistara,UK 845,Mumbai,Bengaluru,1.5,2022-04-10,business,26396,6.0,7.5
+Vistara,UK 863,Mumbai,Bengaluru,1.4,2022-04-10,business,26396,9.05,10.45
+Vistara,UK 853,Mumbai,Bengaluru,1.45,2022-04-10,business,26396,16.0,17.45
+Vistara,UK 843,Mumbai,Bengaluru,1.45,2022-04-10,business,26396,17.3,19.15
+Vistara,UK 865,Mumbai,Bengaluru,1.45,2022-04-10,business,26396,19.1,20.55
+Vistara,UK 857,Mumbai,Bengaluru,1.4,2022-04-10,business,26396,21.3,23.1
+Vistara,UK 851,Mumbai,Bengaluru,1.5,2022-04-10,business,34124,7.0,8.5
+Vistara,UK 841 UK 868,Mumbai,Bengaluru,4.3,2022-04-10,business,36295,11.25,15.55
+Vistara,UK 873,Mumbai,Hyderabad,1.3,2022-04-10,business,15835,6.2,7.5
+Vistara,UK 877,Mumbai,Hyderabad,1.3,2022-04-10,business,15835,10.45,12.15
+Vistara,UK 881,Mumbai,Hyderabad,1.35,2022-04-10,business,15835,19.2,20.55
+Vistara,UK 869,Mumbai,Hyderabad,1.2,2022-04-10,business,15835,21.2,22.4
+Air India,AI 617,Mumbai,Hyderabad,1.25,2022-04-10,business,15850,11.05,12.3
+Air India,AI 619,Mumbai,Hyderabad,1.3,2022-04-10,business,15850,20.1,21.4
+Vistara,UK 930 UK 859,Mumbai,Hyderabad,5.1,2022-04-10,business,41152,7.3,12.4
+Vistara,UK 881,Mumbai,Hyderabad,1.35,2022-04-10,premium,5755,19.2,20.55
+Vistara,UK 869,Mumbai,Hyderabad,1.2,2022-04-10,premium,5755,21.2,22.4
+Vistara,UK 930 UK 859,Mumbai,Hyderabad,5.1,2022-04-10,premium,14187,7.3,12.4
+Vistara,UK 928 UK 859,Mumbai,Hyderabad,6.1,2022-04-10,premium,14187,6.3,12.4
+Vistara,UK 988 UK 829,Mumbai,Hyderabad,12.3,2022-04-10,premium,14187,20.55,9.25
+SpiceJet,SG 455 SG 3735,Mumbai,Hyderabad,7.55,2022-04-10,premium,11466,15.35,23.3
+Air India,AI 615,Mumbai,Hyderabad,1.3,2022-04-10,economy,4263,6.0,7.3
+IndiGo,6E 461,Mumbai,Hyderabad,1.25,2022-04-10,economy,4263,6.05,7.3
+IndiGo,6E 818,Mumbai,Hyderabad,1.3,2022-04-10,economy,4263,7.15,8.45
+IndiGo,6E 6597,Mumbai,Hyderabad,1.25,2022-04-10,economy,4263,9.0,10.25
+IndiGo,6E 5314,Mumbai,Hyderabad,1.35,2022-04-10,economy,4263,16.05,17.4
+IndiGo,6E 5388,Mumbai,Hyderabad,1.3,2022-04-10,economy,4263,17.3,19.0
+IndiGo,6E 5386,Mumbai,Hyderabad,1.25,2022-04-10,economy,4263,18.05,19.3
+IndiGo,6E 192,Mumbai,Hyderabad,1.25,2022-04-10,economy,4263,19.55,21.2
+Air India,AI 619,Mumbai,Hyderabad,1.3,2022-04-10,economy,4263,20.1,21.4
+IndiGo,6E 5305,Mumbai,Hyderabad,1.3,2022-04-10,economy,4263,21.0,22.3
+Vistara,UK 873,Mumbai,Hyderabad,1.3,2022-04-10,economy,4264,6.2,7.5
+Vistara,UK 877,Mumbai,Hyderabad,1.3,2022-04-10,economy,4264,10.45,12.15
+Air India,AI 617,Mumbai,Hyderabad,1.25,2022-04-10,economy,4788,11.05,12.3
+Vistara,UK 881,Mumbai,Hyderabad,1.35,2022-04-10,economy,5209,19.2,20.55
+Vistara,UK 869,Mumbai,Hyderabad,1.2,2022-04-10,economy,5209,21.2,22.4
+AirAsia,I5 1784 I5 1576,Mumbai,Hyderabad,10.45,2022-04-10,economy,6328,22.0,8.45
+Go First,G8 509,Mumbai,Hyderabad,1.25,2022-09-24,economy,4262,23.15,0.4
+Air India,AI 615,Mumbai,Hyderabad,1.3,2022-09-24,economy,4263,6.0,7.3
+IndiGo,6E 461,Mumbai,Hyderabad,1.25,2022-09-24,economy,4263,6.05,7.3
+IndiGo,6E 818,Mumbai,Hyderabad,1.3,2022-09-24,economy,4263,7.15,8.45
+IndiGo,6E 5388,Mumbai,Hyderabad,1.3,2022-09-24,economy,4263,17.3,19.0
+IndiGo,6E 5386,Mumbai,Hyderabad,1.25,2022-09-24,economy,4263,18.05,19.3
+IndiGo,6E 192,Mumbai,Hyderabad,1.25,2022-09-24,economy,4263,19.55,21.2
+IndiGo,6E 5305,Mumbai,Hyderabad,1.25,2022-09-24,economy,4263,21.0,22.25
+Vistara,UK 873,Mumbai,Hyderabad,1.3,2022-09-24,economy,4264,6.2,7.5
+Vistara,UK 881,Mumbai,Hyderabad,1.35,2022-09-24,economy,4264,19.2,20.55
+Vistara,UK 869,Mumbai,Hyderabad,1.2,2022-09-24,economy,4264,21.2,22.4
+IndiGo,6E 5314,Mumbai,Hyderabad,1.35,2022-09-24,economy,4526,16.05,17.4
+Air India,AI 619,Mumbai,Hyderabad,1.3,2022-09-24,economy,4788,20.1,21.4
+SpiceJet,SG 455 SG 3735,Mumbai,Hyderabad,7.05,2022-09-24,economy,5767,15.35,22.4
+Vistara,UK 877,Mumbai,Hyderabad,1.3,2022-09-24,economy,6994,10.45,12.15
+IndiGo,6E 6697,Mumbai,Hyderabad,1.3,2022-09-24,economy,7088,11.1,12.4
+Air India,AI 617,Mumbai,Hyderabad,1.25,2022-09-24,economy,7361,11.05,12.3
+IndiGo,6E 128 6E 744,Mumbai,Hyderabad,3.4,2022-09-24,economy,8038,4.55,8.35
+Go First,G8 305,Mumbai,Chennai,1.5,2022-09-24,economy,2433,4.05,5.55
+Go First,G8 4035,Mumbai,Chennai,2.0,2022-09-24,economy,2433,22.4,0.4
+Akasa Air,QP 1304,Mumbai,Chennai,1.45,2022-09-24,economy,2438,18.1,19.55
+Air India,AI 570,Mumbai,Chennai,2.0,2022-09-24,economy,2447,5.25,7.25
+Air India,AI 572,Mumbai,Chennai,2.05,2022-09-24,economy,2447,15.15,17.2
+Air India,AI 573,Mumbai,Chennai,2.0,2022-09-24,economy,2447,18.5,20.5
+Air India,AI 671,Mumbai,Chennai,1.55,2022-09-24,economy,2814,9.0,10.55
+IndiGo,6E 136,Mumbai,Chennai,1.55,2022-09-24,economy,2821,5.35,7.3
+IndiGo,6E 5299,Mumbai,Chennai,1.5,2022-09-24,economy,2821,7.0,8.5
+IndiGo,6E 6819 6E 6269,Mumbai,Chennai,7.55,2022-09-24,economy,2869,0.1,8.05
+IndiGo,6E 5307,Mumbai,Chennai,2.0,2022-09-24,economy,3003,10.15,12.15
+SpiceJet,SG 611,Mumbai,Chennai,2.1,2022-09-24,economy,3200,5.4,7.5
+IndiGo,6E 908,Mumbai,Chennai,2.0,2022-09-24,economy,3400,9.15,11.15
+IndiGo,6E 5337,Mumbai,Chennai,1.55,2022-09-24,economy,3400,15.3,17.25
+IndiGo,6E 312,Mumbai,Chennai,1.55,2022-09-24,economy,3400,17.5,19.45
+SpiceJet,SG 251,Mumbai,Chennai,1.55,2022-09-24,economy,3453,19.35,21.3
+IndiGo,6E 5383 6E 6269,Mumbai,Chennai,9.25,2022-09-24,economy,3503,22.4,8.05
+IndiGo,6E 6094,Mumbai,Chennai,1.5,2022-09-24,economy,3767,0.2,2.1
+IndiGo,6E 5279,Mumbai,Chennai,1.5,2022-09-24,economy,3767,22.15,0.05
+IndiGo,6E 5277,Mumbai,Chennai,2.0,2022-09-24,economy,3900,16.45,18.45
+IndiGo,6E 6258 6E 541,Mumbai,Chennai,4.45,2022-09-24,economy,4203,6.05,10.5
+IndiGo,6E 5231,Mumbai,Chennai,1.55,2022-09-24,economy,4450,19.4,21.35
+Vistara,UK 821,Mumbai,Chennai,2.05,2022-09-24,economy,5943,6.45,8.5
+Vistara,UK 823,Mumbai,Chennai,2.0,2022-09-24,economy,5943,17.5,19.5
+Vistara,UK 827,Mumbai,Chennai,2.05,2022-09-24,economy,5943,21.0,23.05
+IndiGo,6E 5367 6E 276,Mumbai,Chennai,8.0,2022-09-24,economy,8092,9.1,17.1
+Vistara,UK 825,Mumbai,Chennai,2.05,2022-09-24,economy,8566,9.45,11.5
+IndiGo,6E 5287 6E 841,Mumbai,Chennai,7.25,2022-09-24,economy,8568,8.3,15.55
+Air India,AI 570,Mumbai,Chennai,2.0,2022-04-10,economy,2762,5.25,7.25
+Air India,AI 671,Mumbai,Chennai,1.55,2022-04-10,economy,3129,9.0,10.55
+Air India,AI 572,Mumbai,Chennai,2.05,2022-04-10,economy,3129,15.15,17.2
+Go First,G8 305,Mumbai,Chennai,1.55,2022-04-10,economy,3339,5.5,7.45
+IndiGo,6E 5299,Mumbai,Chennai,1.5,2022-04-10,economy,3339,7.0,8.5
+Vistara,UK 821,Mumbai,Chennai,2.05,2022-04-10,economy,3399,6.45,8.5
+Vistara,UK 825,Mumbai,Chennai,2.05,2022-04-10,economy,3399,9.45,11.5
+Akasa Air,QP 1304,Mumbai,Chennai,1.45,2022-04-10,economy,3500,18.1,19.55
+IndiGo,6E 136,Mumbai,Chennai,1.55,2022-04-10,economy,3549,5.35,7.3
+IndiGo,6E 5307,Mumbai,Chennai,2.0,2022-04-10,economy,3549,10.15,12.15
+IndiGo,6E 5277,Mumbai,Chennai,2.0,2022-04-10,economy,3549,16.45,18.45
+IndiGo,6E 5337,Mumbai,Chennai,2.0,2022-04-10,economy,3633,15.25,17.25
+IndiGo,6E 908,Mumbai,Chennai,2.0,2022-04-10,economy,3759,9.15,11.15
+Air India,AI 573,Mumbai,Chennai,2.0,2022-04-10,economy,3759,18.5,20.5
+IndiGo,6E 5231,Mumbai,Chennai,1.55,2022-04-10,economy,3969,19.4,21.35
+IndiGo,6E 5279,Mumbai,Chennai,1.5,2022-04-10,economy,3969,22.15,0.05
+SpiceJet,SG 251,Mumbai,Chennai,1.55,2022-04-10,economy,4083,19.35,21.3
+IndiGo,6E 6094,Mumbai,Chennai,1.5,2022-04-10,economy,4179,0.2,2.1
+IndiGo,6E 6258 6E 541,Mumbai,Chennai,4.45,2022-04-10,economy,4435,6.05,10.5
+IndiGo,6E 312,Mumbai,Chennai,1.55,2022-04-10,economy,4494,17.5,19.45
+Vistara,UK 823,Mumbai,Chennai,2.0,2022-04-10,economy,4659,17.5,19.5
+Vistara,UK 827,Mumbai,Chennai,2.05,2022-04-10,economy,4659,21.0,23.05
+AirAsia,I5 942 I5 2461,Mumbai,Chennai,4.1,2022-04-10,economy,4991,13.05,17.15
+Vistara,UK 902 UK 835,Mumbai,Chennai,7.0,2022-04-10,premium,14892,15.45,22.45
+Vistara,UK 994 UK 839,Mumbai,Chennai,6.0,2022-04-10,premium,16059,10.25,16.25
+Vistara,UK 970 UK 839,Mumbai,Chennai,7.4,2022-04-10,premium,16507,8.45,16.25
+SpiceJet,SG 251,Mumbai,Chennai,1.55,2022-04-10,premium,5337,19.35,21.3
+Air India,AI 570,Mumbai,Chennai,2.0,2022-04-10,business,21192,5.25,7.25
+Air India,AI 671,Mumbai,Chennai,1.55,2022-04-10,business,21192,9.0,10.55
+Air India,AI 573,Mumbai,Chennai,2.0,2022-04-10,business,21192,18.5,20.5
+Vistara,UK 821,Mumbai,Chennai,2.05,2022-04-10,business,21210,6.45,8.5
+Vistara,UK 825,Mumbai,Chennai,2.05,2022-04-10,business,21210,9.45,11.5
+Vistara,UK 823,Mumbai,Chennai,2.0,2022-04-10,business,21210,17.5,19.5
+Vistara,UK 827,Mumbai,Chennai,2.05,2022-04-10,business,21210,21.0,23.05
+Air India,AI 677 AI 537,Mumbai,Chennai,6.3,2022-04-10,business,44728,13.0,19.3
+AirAsia,I5 765,Mumbai,Lucknow,2.15,2022-09-24,economy,5940,13.2,15.35
+Go First,G8 306,Mumbai,Lucknow,2.15,2022-09-24,economy,5941,10.5,13.05
+Go First,G8 397,Mumbai,Lucknow,2.1,2022-09-24,economy,5941,17.45,19.55
+IndiGo,6E 5363,Mumbai,Lucknow,2.15,2022-09-24,economy,5943,5.5,8.05
+Air India,AI 625,Mumbai,Lucknow,2.05,2022-09-24,economy,5943,11.15,13.2
+IndiGo,6E 5228,Mumbai,Lucknow,2.15,2022-09-24,economy,5943,13.45,16.0
+IndiGo,6E 5339,Mumbai,Lucknow,2.05,2022-09-24,economy,5943,16.2,18.25
+IndiGo,6E 5391,Mumbai,Lucknow,2.05,2022-09-24,economy,5943,21.0,23.05
+Vistara,UK 950 UK 641,Mumbai,Lucknow,16.5,2022-09-24,economy,6158,21.55,14.45
+AirAsia,I5 765,Mumbai,Lucknow,2.15,2022-04-10,economy,5940,13.2,15.35
+Go First,G8 306,Mumbai,Lucknow,2.2,2022-04-10,economy,5942,10.45,13.05
+Go First,G8 397,Mumbai,Lucknow,2.15,2022-04-10,economy,5942,17.15,19.3
+IndiGo,6E 5363,Mumbai,Lucknow,2.15,2022-04-10,economy,5943,5.5,8.05
+Air India,AI 625,Mumbai,Lucknow,2.05,2022-04-10,economy,5943,11.15,13.2
+IndiGo,6E 5228,Mumbai,Lucknow,2.2,2022-04-10,economy,5943,13.4,16.0
+IndiGo,6E 5339,Mumbai,Lucknow,2.05,2022-04-10,economy,5943,16.2,18.25
+IndiGo,6E 5391,Mumbai,Lucknow,2.05,2022-04-10,economy,5943,21.3,23.35
+IndiGo,6E 843 6E 7127,Mumbai,Lucknow,8.3,2022-04-10,economy,6543,15.0,23.3
+IndiGo,6E 2172 6E 2132,Mumbai,Gwalior,5.45,2022-04-10,economy,9566,9.25,15.1
+IndiGo,6E 2137 6E 2132,Mumbai,Gwalior,6.4,2022-04-10,economy,9566,8.3,15.1
+SpiceJet,SG 3440,Mumbai,Gwalior,2.2,2022-04-10,economy,6604,12.05,14.25
+IndiGo,6E 5341 6E 2132,Mumbai,Gwalior,7.25,2022-04-10,economy,9566,7.45,15.1
+IndiGo,6E 5398 6E 2132,Mumbai,Gwalior,8.1,2022-04-10,economy,9566,7.0,15.1
+IndiGo,6E 5332 6E 2132,Mumbai,Gwalior,9.05,2022-04-10,economy,9566,6.05,15.1
+IndiGo,6E 5225 6E 2718,Mumbai,Gwalior,18.25,2022-04-10,economy,11361,20.45,15.1
+IndiGo,6E 2172 6E 2132,Mumbai,Gwalior,5.45,2022-09-24,economy,6290,9.25,15.1
+IndiGo,6E 2137 6E 2132,Mumbai,Gwalior,6.4,2022-09-24,economy,6290,8.3,15.1
+IndiGo,6E 2172 6E 2132,Mumbai,Gwalior,5.45,2022-09-24,economy,5261,9.25,15.1
+IndiGo,6E 5341 6E 2132,Mumbai,Gwalior,7.25,2022-09-24,economy,6290,7.45,15.1
+IndiGo,6E 5398 6E 2132,Mumbai,Gwalior,8.1,2022-09-24,economy,6290,7.0,15.1
+IndiGo,6E 5332 6E 2132,Mumbai,Gwalior,9.05,2022-09-24,economy,6290,6.05,15.1
+IndiGo,6E 2056 6E 2132,Mumbai,Gwalior,10.2,2022-09-24,economy,6290,4.5,15.1
+Go First,G8 2607,Mumbai,Jaipur,2.0,2022-09-24,economy,5102,15.45,17.45
+SpiceJet,SG 695,Mumbai,Jaipur,6.25,2022-09-24,economy,5102,7.15,13.4
+IndiGo,6E 5247,Mumbai,Jaipur,1.45,2022-09-24,economy,5103,8.0,9.45
+Air India,AI 611,Mumbai,Jaipur,2.05,2022-09-24,economy,5103,11.2,13.25
+IndiGo,6E 6515,Mumbai,Jaipur,1.55,2022-09-24,economy,5103,17.4,19.35
+IndiGo,6E 624,Mumbai,Jaipur,1.35,2022-09-24,economy,5103,22.55,0.3
+AirAsia,I5 941,Mumbai,Jaipur,1.55,2022-09-24,economy,5104,7.55,9.5
+AirAsia,I5 678,Mumbai,Jaipur,2.0,2022-09-24,economy,5104,15.25,17.25
+IndiGo,6E 2111 6E 7403,Mumbai,Jaipur,5.4,2022-09-24,economy,7098,2.4,8.2
+SpiceJet,SG 695,Mumbai,Jaipur,6.25,2022-09-24,premium,6299,7.15,13.4
+SpiceJet,SG 8152 SG 2978,Mumbai,Jaipur,13.55,2022-09-24,premium,11548,7.2,21.15
+SpiceJet,SG 712 SG 2978,Mumbai,Jaipur,20.4,2022-09-24,premium,11548,0.35,21.15
+Go First,G8 381,Mumbai,Chandigarh,2.2,2022-09-24,economy,5942,8.4,11.0
+Go First,G8 2506,Mumbai,Chandigarh,2.2,2022-09-24,economy,5942,17.55,20.15
+IndiGo,6E 6277,Mumbai,Chandigarh,2.15,2022-09-24,economy,5943,9.4,11.55
+IndiGo,6E 5284,Mumbai,Chandigarh,2.25,2022-09-24,economy,5943,15.35,18.0
+IndiGo,6E 734,Mumbai,Chandigarh,2.2,2022-09-24,economy,5943,19.5,22.1
+Vistara,UK 653,Mumbai,Chandigarh,2.15,2022-09-24,economy,5944,6.0,8.15
+Vistara,UK 950 UK 637,Mumbai,Chandigarh,20.2,2022-09-24,economy,6487,21.55,18.15
+Vistara,UK 988 UK 637,Mumbai,Chandigarh,21.2,2022-09-24,economy,6487,20.55,18.15
+Vistara,UK 651,Mumbai,Chandigarh,2.2,2022-09-24,economy,6815,17.0,19.2
+Vistara,UK 930 UK 637,Mumbai,Chandigarh,10.45,2022-09-24,economy,7560,7.3,18.15
+Vistara,UK 653,Mumbai,Chandigarh,2.15,2022-09-24,premium,9561,6.0,8.15
+Vistara,UK 651,Mumbai,Chandigarh,2.2,2022-09-24,premium,9561,17.0,19.2
+Vistara,UK 928 UK 637,Mumbai,Chandigarh,11.45,2022-09-24,premium,11599,6.3,18.15
+Vistara,UK 954 UK 637,Mumbai,Chandigarh,12.15,2022-09-24,premium,11599,6.0,18.15
+Vistara,UK 950 UK 637,Mumbai,Chandigarh,20.2,2022-09-24,premium,11599,21.55,18.15
+Vistara,UK 988 UK 637,Mumbai,Chandigarh,21.2,2022-09-24,premium,11599,20.55,18.15
+Vistara,UK 970 UK 706,Mumbai,Chandigarh,6.0,2022-09-24,premium,17793,8.45,14.45
+Vistara,UK 930 UK 637,Mumbai,Chandigarh,10.45,2022-09-24,premium,18353,7.3,18.15
+Vistara,UK 994 UK 706,Mumbai,Chandigarh,4.2,2022-09-24,premium,28153,10.25,14.45
+Vistara,UK 653,Mumbai,Chandigarh,2.15,2022-09-24,business,20068,6.0,8.15
+Vistara,UK 651,Mumbai,Chandigarh,2.2,2022-09-24,business,20068,17.0,19.2
+Vistara,UK 928 UK 706,Mumbai,Chandigarh,8.15,2022-09-24,business,43006,6.3,14.45
+Vistara,UK 952 UK 637,Mumbai,Chandigarh,5.5,2022-09-24,business,43006,12.25,18.15
+Vistara,UK 986 UK 637,Mumbai,Chandigarh,19.3,2022-09-24,business,43006,22.45,18.15
+Vistara,UK 950 UK 637,Mumbai,Chandigarh,20.2,2022-09-24,business,43006,21.55,18.15
+Vistara,UK 939 UK 946,Mumbai,Chandigarh,8.1,2022-09-24,business,43151,6.35,14.45
+Vistara,UK 851 UK 657,Mumbai,Chandigarh,7.35,2022-09-24,business,48830,7.0,14.35
+Vistara,UK 845 UK 657,Mumbai,Chandigarh,8.35,2022-09-24,business,48830,6.0,14.35
+Vistara,UK 970 UK 706,Mumbai,Chandigarh,6.0,2022-09-24,business,50958,8.45,14.45
+Vistara,UK 930 UK 706,Mumbai,Chandigarh,7.15,2022-09-24,business,50958,7.3,14.45
+Go First,G8 426,Hyderabad,New Delhi,2.1,2022-09-24,economy,6366,21.05,23.15
+IndiGo,6E 3217,Hyderabad,New Delhi,1.4,2022-09-24,economy,6367,18.2,20.0
+IndiGo,6E 2106,Hyderabad,New Delhi,2.15,2022-09-24,economy,6367,20.05,22.2
+IndiGo,6E 6684,Hyderabad,New Delhi,2.1,2022-09-24,economy,6367,21.2,23.3
+IndiGo,6E 2324,Hyderabad,New Delhi,2.1,2022-09-24,economy,6367,22.35,0.45
+SpiceJet,SG 8108,Hyderabad,New Delhi,2.3,2022-09-24,economy,6524,20.55,23.25
+IndiGo,6E 2335,Hyderabad,New Delhi,2.15,2022-09-24,economy,6577,1.2,3.35
+Air India,AI 559,Hyderabad,New Delhi,2.15,2022-09-24,economy,6893,6.4,8.55
+SpiceJet,SG 160,Hyderabad,New Delhi,2.15,2022-09-24,economy,7102,6.1,8.25
+IndiGo,6E 2069,Hyderabad,New Delhi,2.1,2022-09-24,economy,7102,16.25,18.35
+IndiGo,6E 2063,Hyderabad,New Delhi,2.15,2022-09-24,economy,7417,14.0,16.15
+IndiGo,6E 2135,Hyderabad,New Delhi,1.55,2022-09-24,economy,7417,18.2,20.15
+AirAsia,I5 1426 I5 547,Hyderabad,New Delhi,10.15,2022-09-24,economy,7564,14.3,0.45
+IndiGo,6E 2011,Hyderabad,New Delhi,2.1,2022-09-24,economy,7732,7.05,9.15
+IndiGo,6E 2511,Hyderabad,New Delhi,2.15,2022-09-24,economy,8467,9.55,12.1
+Go First,G8 424,Hyderabad,New Delhi,2.15,2022-09-24,economy,8766,8.35,10.5
+Go First,G8 510 G8 339,Hyderabad,New Delhi,14.25,2022-09-24,economy,8990,5.3,19.55
+Go First,G8 545 G8 285,Hyderabad,New Delhi,11.45,2022-09-24,economy,8990,8.35,20.2
+Vistara,UK 860,Hyderabad,New Delhi,2.0,2022-09-24,economy,8991,7.0,9.0
+IndiGo,6E 6128 6E 2281,Hyderabad,New Delhi,4.05,2022-09-24,economy,8992,7.4,11.45
+IndiGo,6E 866 6E 2089,Hyderabad,New Delhi,6.3,2022-09-24,economy,8992,18.0,0.3
+Air India,AI 541,Hyderabad,New Delhi,2.2,2022-09-24,economy,8993,16.1,18.3
+IndiGo,6E 2328,Hyderabad,New Delhi,2.05,2022-09-24,economy,9307,5.1,7.15
+IndiGo,6E 2171,Hyderabad,New Delhi,2.15,2022-09-24,economy,9307,11.4,13.55
+Air India,AI 543,Hyderabad,New Delhi,2.15,2022-09-24,economy,9886,10.05,12.2
+Vistara,UK 878 UK 988,Hyderabad,New Delhi,10.05,2022-09-24,economy,10253,12.55,23.0
+Vistara,UK 870,Hyderabad,New Delhi,2.15,2022-09-24,economy,10358,20.3,22.45
+IndiGo,6E 938 6E 6279,Hyderabad,New Delhi,10.0,2022-09-24,economy,10767,9.25,19.25
+Air India,AI 616 AI 677,Hyderabad,New Delhi,7.05,2022-09-24,economy,10778,8.1,15.15
+Vistara,UK 890,Hyderabad,New Delhi,2.15,2022-09-24,economy,10936,17.4,19.55
+Go First,G8 510 G8 391,Hyderabad,New Delhi,11.4,2022-09-24,economy,11111,5.3,17.1
+Air India,AI 840,Hyderabad,New Delhi,2.2,2022-09-24,economy,14558,20.4,23.0
+Vistara,UK 830,Hyderabad,New Delhi,2.2,2022-09-24,economy,20179,10.1,12.3
+Vistara,UK 880,Hyderabad,New Delhi,2.1,2022-09-24,economy,20179,13.25,15.35
+Vistara,UK 860,Hyderabad,New Delhi,2.0,2022-04-10,economy,6163,7.0,9.0
+Vistara,UK 880,Hyderabad,New Delhi,2.1,2022-04-10,economy,6163,13.25,15.35
+SpiceJet,SG 8106,Hyderabad,New Delhi,2.25,2022-04-10,economy,6366,0.5,3.15
+SpiceJet,SG 160,Hyderabad,New Delhi,2.15,2022-04-10,economy,6366,6.1,8.25
+IndiGo,6E 2328,Hyderabad,New Delhi,2.05,2022-04-10,economy,6367,5.1,7.15
+IndiGo,6E 2011,Hyderabad,New Delhi,2.1,2022-04-10,economy,6367,7.05,9.15
+IndiGo,6E 2511,Hyderabad,New Delhi,2.15,2022-04-10,economy,6367,9.55,12.1
+IndiGo,6E 2171,Hyderabad,New Delhi,2.15,2022-04-10,economy,6367,11.4,13.55
+IndiGo,6E 2063,Hyderabad,New Delhi,2.15,2022-04-10,economy,6367,14.0,16.15
+IndiGo,6E 2069,Hyderabad,New Delhi,2.1,2022-04-10,economy,6367,16.25,18.35
+IndiGo,6E 2135,Hyderabad,New Delhi,1.55,2022-04-10,economy,6367,18.2,20.15
+IndiGo,6E 2106,Hyderabad,New Delhi,2.15,2022-04-10,economy,6367,20.05,22.2
+IndiGo,6E 6684,Hyderabad,New Delhi,2.1,2022-04-10,economy,6367,21.2,23.3
+IndiGo,6E 2324,Hyderabad,New Delhi,2.1,2022-04-10,economy,6367,22.35,0.45
+Air India,AI 559,Hyderabad,New Delhi,2.15,2022-04-10,economy,6368,6.4,8.55
+Air India,AI 541,Hyderabad,New Delhi,2.2,2022-04-10,economy,6368,16.1,18.3
+AirAsia,I5 1228 I5 830,Hyderabad,New Delhi,7.55,2022-04-10,economy,6368,15.15,23.1
+IndiGo,6E 2335,Hyderabad,New Delhi,2.15,2022-04-10,economy,6577,1.2,3.35
+Vistara,UK 830,Hyderabad,New Delhi,2.2,2022-04-10,economy,6578,10.1,12.3
+Vistara,UK 870,Hyderabad,New Delhi,2.15,2022-04-10,economy,6578,20.3,22.45
+AirAsia,I5 972 I5 774,Hyderabad,New Delhi,9.15,2022-04-10,economy,6788,16.35,1.5
+Air India,AI 840,Hyderabad,New Delhi,2.2,2022-04-10,economy,6893,20.4,23.0
+Vistara,UK 890,Hyderabad,New Delhi,2.15,2022-04-10,economy,7313,17.4,19.55
+IndiGo,6E 7271 6E 5008,Hyderabad,New Delhi,8.2,2022-04-10,economy,7543,5.25,13.45
+Air India,AI 543,Hyderabad,New Delhi,2.15,2022-04-10,economy,7733,10.05,12.2
+IndiGo,6E 7121 6E 6824,Hyderabad,New Delhi,10.15,2022-04-10,economy,8100,7.5,18.05
+Vistara,UK 860,Hyderabad,New Delhi,2.0,2022-09-24,premium,11947,7.0,9.0
+Vistara,UK 890,Hyderabad,New Delhi,2.15,2022-09-24,premium,11947,17.4,19.55
+Vistara,UK 870,Hyderabad,New Delhi,2.15,2022-09-24,premium,11947,20.3,22.45
+Vistara,UK 830,Hyderabad,New Delhi,2.2,2022-09-24,premium,20179,10.1,12.3
+Vistara,UK 880,Hyderabad,New Delhi,2.1,2022-09-24,premium,20179,13.25,15.35
+SpiceJet,SG 8108,Hyderabad,New Delhi,2.3,2022-09-24,premium,7719,20.55,23.25
+SpiceJet,SG 160,Hyderabad,New Delhi,2.15,2022-09-24,premium,8297,6.1,8.25
+Air India,AI 559,Hyderabad,New Delhi,2.15,2022-09-24,business,24357,6.4,8.55
+Vistara,UK 860,Hyderabad,New Delhi,2.0,2022-09-24,business,24469,7.0,9.0
+Vistara,UK 830,Hyderabad,New Delhi,2.2,2022-09-24,business,24469,10.1,12.3
+Vistara,UK 880,Hyderabad,New Delhi,2.1,2022-09-24,business,24469,13.25,15.35
+Vistara,UK 890,Hyderabad,New Delhi,2.15,2022-09-24,business,24469,17.4,19.55
+Air India,AI 543,Hyderabad,New Delhi,2.15,2022-09-24,business,24917,10.05,12.2
+Air India,AI 541,Hyderabad,New Delhi,2.2,2022-09-24,business,24917,16.1,18.3
+Air India,AI 840,Hyderabad,New Delhi,2.2,2022-09-24,business,24917,20.4,23.0
+Vistara,UK 874 UK 952,Hyderabad,New Delhi,5.5,2022-09-24,business,39790,8.3,14.2
+Vistara,UK 870,Hyderabad,New Delhi,2.15,2022-09-24,business,45077,20.3,22.45
+Vistara,UK 876 UK 970,Hyderabad,New Delhi,13.25,2022-09-24,business,47742,21.35,11.0
+IndiGo,6E 796,Hyderabad,Chandigarh,2.3,2022-09-24,economy,7837,19.5,22.2
+IndiGo,6E 108,Hyderabad,Chandigarh,2.3,2022-09-24,economy,8047,10.0,12.3
+IndiGo,6E 2324 6E 315,Hyderabad,Chandigarh,8.0,2022-09-24,economy,9360,22.35,6.35
+IndiGo,6E 6684 6E 315,Hyderabad,Chandigarh,9.15,2022-09-24,economy,9360,21.2,6.35
+IndiGo,6E 2106 6E 315,Hyderabad,Chandigarh,10.3,2022-09-24,economy,9360,20.05,6.35
+Go First,G8 510 G8 381,Hyderabad,Chandigarh,5.3,2022-09-24,economy,9830,5.3,11.0
+IndiGo,6E 6106 6E 6277,Hyderabad,Chandigarh,7.4,2022-09-24,economy,9832,4.15,11.55
+IndiGo,6E 6128 6E 6552,Hyderabad,Chandigarh,7.2,2022-09-24,economy,9832,7.4,15.0
+IndiGo,6E 2011 6E 2196,Hyderabad,Chandigarh,9.0,2022-09-24,economy,9832,7.05,16.05
+IndiGo,6E 917 6E 6041,Hyderabad,Chandigarh,5.25,2022-09-24,economy,9832,13.45,19.1
+IndiGo,6E 831 6E 724,Hyderabad,Chandigarh,7.55,2022-09-24,economy,9832,12.4,20.35
+IndiGo,6E 2063 6E 2194,Hyderabad,Chandigarh,8.05,2022-09-24,economy,9832,14.0,22.05
+IndiGo,6E 118 6E 6877,Hyderabad,Chandigarh,7.5,2022-09-24,economy,9832,22.15,6.05
+IndiGo,6E 2069 6E 2194,Hyderabad,Chandigarh,5.4,2022-09-24,economy,10095,16.25,22.05
+Vistara,UK 860 UK 706,Hyderabad,Chandigarh,7.45,2022-09-24,economy,10143,7.0,14.45
+Vistara,UK 659,Hyderabad,Chandigarh,2.3,2022-09-24,economy,10359,11.35,14.05
+IndiGo,6E 6719 6E 924,Hyderabad,Chandigarh,7.2,2022-09-24,economy,10378,8.3,15.5
+IndiGo,6E 2511 6E 2127,Hyderabad,Chandigarh,8.15,2022-09-24,economy,10378,9.55,18.1
+IndiGo,6E 913 6E 7274,Hyderabad,Chandigarh,7.05,2022-09-24,economy,11470,11.45,18.5
+Vistara,UK 878 UK 651,Hyderabad,Chandigarh,6.25,2022-09-24,economy,11984,12.55,19.2
+IndiGo,6E 2171 6E 2127,Hyderabad,Chandigarh,6.3,2022-09-24,economy,12016,11.4,18.1
+IndiGo,6E 2511 6E 2196,Hyderabad,Chandigarh,6.1,2022-09-24,economy,12562,9.55,16.05
+Vistara,UK 830 UK 637,Hyderabad,Chandigarh,8.05,2022-04-10,economy,6912,10.1,18.15
+IndiGo,6E 108,Hyderabad,Chandigarh,2.3,2022-04-10,economy,7837,10.0,12.3
+IndiGo,6E 796,Hyderabad,Chandigarh,2.3,2022-04-10,economy,7837,19.5,22.2
+Vistara,UK 659,Hyderabad,Chandigarh,2.3,2022-04-10,economy,7839,11.35,14.05
+Vistara,UK 870 UK 637,Hyderabad,Chandigarh,21.45,2022-04-10,economy,7985,20.3,18.15
+IndiGo,6E 6128 6E 6552,Hyderabad,Chandigarh,7.2,2022-04-10,economy,8135,7.4,15.0
+Vistara,UK 830 UK 706,Hyderabad,Chandigarh,4.35,2022-04-10,economy,9059,10.1,14.45
+Vistara,UK 860 UK 706,Hyderabad,Chandigarh,7.45,2022-04-10,economy,9059,7.0,14.45
+Vistara,UK 880 UK 637,Hyderabad,Chandigarh,4.5,2022-04-10,economy,9059,13.25,18.15
+IndiGo,6E 2511 6E 2196,Hyderabad,Chandigarh,6.1,2022-04-10,economy,9360,9.55,16.05
+IndiGo,6E 2011 6E 2196,Hyderabad,Chandigarh,9.0,2022-04-10,economy,9360,7.05,16.05
+IndiGo,6E 2171 6E 2127,Hyderabad,Chandigarh,6.3,2022-04-10,economy,9360,11.4,18.1
+IndiGo,6E 2069 6E 2194,Hyderabad,Chandigarh,5.4,2022-04-10,economy,9360,16.25,22.05
+IndiGo,6E 2063 6E 2194,Hyderabad,Chandigarh,8.05,2022-04-10,economy,9360,14.0,22.05
+IndiGo,6E 2324 6E 315,Hyderabad,Chandigarh,8.0,2022-04-10,economy,9360,22.35,6.35
+IndiGo,6E 6684 6E 315,Hyderabad,Chandigarh,9.15,2022-04-10,economy,9360,21.2,6.35
+Vistara,UK 878 UK 651,Hyderabad,Chandigarh,6.25,2022-04-10,economy,9500,12.55,19.2
+Vistara,UK 898 UK 657,Hyderabad,Chandigarh,7.05,2022-04-10,economy,9705,7.3,14.35
+IndiGo,6E 199 6E 6277,Hyderabad,Chandigarh,5.1,2022-04-10,economy,10200,6.45,11.55
+IndiGo,6E 6106 6E 6277,Hyderabad,Chandigarh,7.4,2022-04-10,economy,10200,4.15,11.55
+IndiGo,6E 5387 6E 5284,Hyderabad,Chandigarh,7.0,2022-04-10,economy,10200,11.0,18.0
+IndiGo,6E 913 6E 7274,Hyderabad,Chandigarh,7.05,2022-04-10,economy,11356,11.45,18.5
+IndiGo,6E 7271 6E 6404,Hyderabad,Jammu,6.4,2022-09-24,economy,6977,5.25,12.05
+IndiGo,6E 2324 6E 554,Hyderabad,Jammu,10.3,2022-09-24,economy,6977,22.35,9.05
+IndiGo,6E 6684 6E 554,Hyderabad,Jammu,11.45,2022-09-24,economy,6977,21.2,9.05
+IndiGo,6E 199 6E 609,Hyderabad,Jammu,9.4,2022-09-24,economy,5842,6.45,16.25
+IndiGo,6E 2335 6E 2653,Hyderabad,Jammu,11.35,2022-09-24,economy,8146,1.2,12.55
+IndiGo,6E 6106 6E 609,Hyderabad,Jammu,12.1,2022-09-24,economy,9539,4.15,16.25
+Vistara,UK 860 UK 611,Hyderabad,Jammu,6.2,2022-09-24,economy,10495,7.0,13.2
+IndiGo,6E 2328 6E 126,Hyderabad,Jammu,6.0,2022-09-24,economy,11200,5.1,11.1
+IndiGo,6E 2011 6E 559,Hyderabad,Jammu,6.2,2022-09-24,economy,11200,7.05,13.25
+SpiceJet,SG 8108 SG 160,Hyderabad,Jammu,13.45,2022-09-24,economy,11747,20.55,10.4
+IndiGo,6E 2511 6E 6184,Hyderabad,Jammu,8.4,2022-09-24,economy,12147,9.55,18.35
+Go First,G8 424 G8 185,Hyderabad,Jammu,5.25,2022-09-24,economy,12515,8.35,14.0
+Air India,AI 559 AI 821,Hyderabad,Jammu,5.4,2022-09-24,economy,12773,6.4,12.2
+IndiGo,6E 2171 6E 6184,Hyderabad,Jammu,6.55,2022-09-24,economy,13770,11.4,18.35
+SpiceJet,SG 160,Hyderabad,Jammu,4.3,2022-04-10,economy,7993,6.1,10.4
+SpiceJet,SG 8106 SG 160,Hyderabad,Jammu,9.5,2022-04-10,economy,9233,0.5,10.4
+Vistara,UK 830 UK 994,Hyderabad,Jammu,4.45,2022-04-10,economy,9484,10.1,14.55
+Vistara,UK 860 UK 994,Hyderabad,Jammu,7.55,2022-04-10,economy,9484,7.0,14.55
+IndiGo,6E 2328 6E 126,Hyderabad,Jammu,6.0,2022-04-10,economy,10200,5.1,11.1
+IndiGo,6E 2011 6E 559,Hyderabad,Jammu,6.2,2022-04-10,economy,10200,7.05,13.25
+IndiGo,6E 2324 6E 554,Hyderabad,Jammu,10.3,2022-04-10,economy,10200,22.35,9.05
+IndiGo,6E 6684 6E 554,Hyderabad,Jammu,11.45,2022-04-10,economy,10200,21.2,9.05
+Air India,AI 559 AI 821,Hyderabad,Jammu,5.4,2022-04-10,economy,10253,6.4,12.2
+IndiGo,6E 2335 6E 554,Hyderabad,Jammu,7.45,2022-04-10,economy,10410,1.2,9.05
+Vistara,UK 860 UK 611,Hyderabad,Jammu,6.2,2022-04-10,economy,10495,7.0,13.2
+Vistara,UK 830 UK 994,Hyderabad,Jammu,4.45,2022-04-10,premium,12635,10.1,14.55
+Vistara,UK 860 UK 994,Hyderabad,Jammu,7.55,2022-04-10,premium,12635,7.0,14.55
+SpiceJet,SG 160,Hyderabad,Jammu,4.3,2022-04-10,premium,9489,6.1,10.4
+SpiceJet,SG 8106 SG 160,Hyderabad,Jammu,9.5,2022-04-10,premium,12513,0.5,10.4
+SpiceJet,SG 160 SG 8251,Hyderabad,Kolkata,14.5,2022-09-24,economy,7942,6.1,21.0
+SpiceJet,SG 8108 SG 8263,Hyderabad,Kolkata,12.1,2022-09-24,economy,7942,20.55,9.05
+IndiGo,6E 938 6E 801,Hyderabad,Kolkata,9.05,2022-09-24,economy,8950,9.25,18.3
+IndiGo,6E 6211 6E 6038,Hyderabad,Kolkata,10.05,2022-09-24,economy,9622,6.3,16.35
+IndiGo,6E 6472 6E 485,Hyderabad,Kolkata,6.3,2022-09-24,economy,10630,14.25,20.55
+IndiGo,6E 922 6E 7117,Hyderabad,Kolkata,7.25,2022-09-24,economy,10966,15.5,23.15
+AirAsia,I5 517,Hyderabad,Kolkata,2.05,2022-09-24,economy,11512,12.1,14.15
+IndiGo,6E 581 6E 6038,Hyderabad,Kolkata,5.05,2022-09-24,economy,11638,11.3,16.35
+IndiGo,6E 6719 6E 736,Hyderabad,Kolkata,9.0,2022-09-24,economy,11638,8.3,17.3
+Vistara,UK 876 UK 771,Hyderabad,Kolkata,12.05,2022-09-24,economy,11836,21.35,9.4
+Vistara,UK 878 UK 771,Hyderabad,Kolkata,20.45,2022-09-24,economy,11837,12.55,9.4
+Go First,G8 426 G8 101,Hyderabad,Kolkata,10.55,2022-09-24,economy,12393,21.05,8.0
+Vistara,UK 878 UK 773,Hyderabad,Kolkata,7.0,2022-09-24,economy,12645,12.55,19.55
+AirAsia,I5 974 I5 992,Hyderabad,Kolkata,5.45,2022-09-24,economy,12798,20.2,2.05
+AirAsia,I5 1543 I5 992,Hyderabad,Kolkata,11.45,2022-09-24,economy,12798,14.2,2.05
+IndiGo,6E 944,Hyderabad,Kolkata,2.05,2022-09-24,economy,12982,20.25,22.3
+AirAsia,I5 1543 I5 1455,Hyderabad,Kolkata,5.3,2022-09-24,economy,13532,14.2,19.5
+IndiGo,6E 886 6E 7306,Hyderabad,Kolkata,8.0,2022-09-24,economy,13654,11.0,19.0
+IndiGo,6E 664,Hyderabad,Kolkata,2.05,2022-09-24,economy,14032,6.15,8.2
+IndiGo,6E 6494,Hyderabad,Kolkata,2.1,2022-09-24,economy,14662,3.05,5.15
+Air India,AI 559 AI 767,Hyderabad,Kolkata,7.5,2022-09-24,economy,17236,6.4,14.3
+AirAsia,I5 974 I5 558,Hyderabad,Kolkata,6.55,2022-09-24,economy,17345,20.2,3.15
+IndiGo,6E 102 6E 6123,Hyderabad,Kolkata,5.2,2022-09-24,economy,17382,17.55,23.15
+Air India,AI 541 AI 762,Hyderabad,Kolkata,6.15,2022-09-24,economy,17708,16.1,22.25
+IndiGo,6E 6911 6E 7584,Hyderabad,Kolkata,4.4,2022-09-24,economy,20773,11.1,15.5
+IndiGo,6E 6494,Hyderabad,Kolkata,2.1,2022-04-10,economy,5527,3.05,5.15
+IndiGo,6E 664,Hyderabad,Kolkata,2.05,2022-04-10,economy,5527,6.15,8.2
+IndiGo,6E 376,Hyderabad,Kolkata,2.1,2022-04-10,economy,5527,11.1,13.2
+IndiGo,6E 6907,Hyderabad,Kolkata,2.15,2022-04-10,economy,5527,15.0,17.15
+IndiGo,6E 283,Hyderabad,Kolkata,2.1,2022-04-10,economy,5527,17.05,19.15
+IndiGo,6E 944,Hyderabad,Kolkata,2.05,2022-04-10,economy,5527,20.25,22.3
+IndiGo,6E 6158,Hyderabad,Kolkata,2.1,2022-04-10,economy,5527,23.35,1.45
+AirAsia,I5 517,Hyderabad,Kolkata,2.05,2022-04-10,economy,5528,12.1,14.15
+IndiGo,6E 938 6E 801,Hyderabad,Kolkata,9.05,2022-04-10,economy,6794,9.25,18.3
+Air India,AI 525,Hyderabad,Kolkata,2.2,2022-04-10,economy,9833,5.55,8.15
+AirAsia,I5 1543 I5 1455,Hyderabad,Kolkata,5.3,2022-04-10,economy,10172,14.2,19.5
+SpiceJet,SG 8194 SG 8251,Ahmedabad,Kolkata,14.55,2022-09-24,economy,7461,6.05,21.0
+SpiceJet,SG 8194 SG 8254,Ahmedabad,Kolkata,16.3,2022-09-24,economy,7461,6.05,22.35
+SpiceJet,SG 922 SG 8263,Ahmedabad,Kolkata,11.55,2022-09-24,economy,7461,21.1,9.05
+SpiceJet,SG 922 SG 8251,Ahmedabad,Kolkata,23.5,2022-09-24,economy,7461,21.1,21.0
+Vistara,UK 946 UK 747,Ahmedabad,Kolkata,23.5,2022-09-24,economy,7622,8.3,8.2
+Vistara,UK 926 UK 747,Ahmedabad,Kolkata,25.35,2022-09-24,economy,7622,6.45,8.2
+Go First,G8 532,Ahmedabad,Kolkata,2.4,2022-09-24,economy,8520,6.05,8.45
+IndiGo,6E 751,Ahmedabad,Kolkata,2.25,2022-09-24,economy,8526,9.0,11.25
+IndiGo,6E 6367,Ahmedabad,Kolkata,2.4,2022-09-24,economy,8526,19.35,22.15
+IndiGo,6E 7114 6E 6568,Ahmedabad,Kolkata,7.0,2022-09-24,economy,8526,5.3,12.3
+IndiGo,6E 7147 6E 6156,Ahmedabad,Kolkata,5.1,2022-09-24,economy,8526,9.25,14.35
+IndiGo,6E 6687 6E 801,Ahmedabad,Kolkata,9.5,2022-09-24,economy,8526,8.4,18.3
+IndiGo,6E 2142 6E 2057,Ahmedabad,Kolkata,5.05,2022-09-24,economy,8526,15.4,20.45
+IndiGo,6E 2146 6E 2057,Ahmedabad,Kolkata,8.5,2022-09-24,economy,8526,11.55,20.45
+IndiGo,6E 6493 6E 7235,Ahmedabad,Kolkata,9.0,2022-09-24,economy,8526,12.35,21.35
+IndiGo,6E 2142 6E 2517,Ahmedabad,Kolkata,6.25,2022-09-24,economy,8526,15.4,22.05
+IndiGo,6E 2146 6E 2517,Ahmedabad,Kolkata,10.1,2022-09-24,economy,8526,11.55,22.05
+IndiGo,6E 6391 6E 7117,Ahmedabad,Kolkata,5.4,2022-09-24,economy,8526,17.35,23.15
+IndiGo,6E 984 6E 788,Ahmedabad,Kolkata,7.25,2022-09-24,economy,8526,21.4,5.05
+Air India,AI 482 AI 764,Ahmedabad,Kolkata,8.25,2022-09-24,economy,9063,10.45,19.1
+IndiGo,6E 158 6E 2513,Ahmedabad,Kolkata,6.35,2022-09-24,economy,9135,4.1,10.45
+IndiGo,6E 2142 6E 6005,Ahmedabad,Kolkata,8.35,2022-09-24,economy,9135,15.4,0.15
+IndiGo,6E 6941 6E 788,Ahmedabad,Kolkata,9.4,2022-09-24,economy,9135,19.25,5.05
+IndiGo,6E 6794 6E 822,Ahmedabad,Kolkata,9.45,2022-09-24,economy,9697,23.25,9.1
+IndiGo,6E 6288 6E 6557,Ahmedabad,Kolkata,8.4,2022-09-24,economy,9744,5.5,14.3
+IndiGo,6E 2146 6E 2082,Ahmedabad,Kolkata,5.3,2022-09-24,economy,9744,11.55,17.25
+IndiGo,6E 966,Ahmedabad,Kolkata,2.5,2022-09-24,economy,9786,6.1,9.0
+IndiGo,6E 2032 6E 6005,Ahmedabad,Kolkata,6.1,2022-09-24,economy,10353,18.05,0.15
+IndiGo,6E 2142 6E 782,Ahmedabad,Kolkata,9.55,2022-09-24,economy,10353,15.4,1.35
+IndiGo,6E 6941 6E 6005,Ahmedabad,Kolkata,4.5,2022-09-24,economy,10570,19.25,0.15
+Go First,G8 413 G8 511,Ahmedabad,Kolkata,11.2,2022-09-24,economy,10676,22.2,9.4
+IndiGo,6E 5274 6E 6086,Ahmedabad,Kolkata,8.25,2022-09-24,economy,10962,14.3,22.55
+Go First,G8 714 G8 101,Ahmedabad,Kolkata,10.45,2022-09-24,economy,11086,21.15,8.0
+Go First,G8 718 G8 101,Ahmedabad,Kolkata,13.1,2022-09-24,economy,11086,18.5,8.0
+Go First,G8 537 G8 511,Ahmedabad,Kolkata,13.45,2022-09-24,economy,11320,19.55,9.4
+IndiGo,6E 2146 6E 912,Ahmedabad,Kolkata,7.45,2022-09-24,economy,11571,11.55,19.4
+IndiGo,6E 2032 6E 782,Ahmedabad,Kolkata,7.3,2022-09-24,economy,11571,18.05,1.35
+IndiGo,6E 803 6E 6088,Ahmedabad,Kolkata,6.45,2022-09-24,economy,11832,18.3,1.15
+IndiGo,6E 5302 6E 6088,Ahmedabad,Kolkata,7.5,2022-09-24,economy,11832,17.25,1.15
+Go First,G8 459 G8 520,Ahmedabad,Kolkata,13.2,2022-09-24,economy,12020,8.55,22.15
+IndiGo,6E 6335 6E 6359,Ahmedabad,Kolkata,5.2,2022-09-24,economy,12180,3.15,8.35
+IndiGo,6E 6941 6E 782,Ahmedabad,Kolkata,6.1,2022-09-24,economy,12250,19.25,1.35
+IndiGo,6E 5268 6E 6086,Ahmedabad,Kolkata,9.55,2022-09-24,economy,12323,13.0,22.55
+IndiGo,6E 6425 6E 226,Ahmedabad,Kolkata,10.15,2022-09-24,economy,12462,9.55,20.1
+IndiGo,6E 5268 6E 226,Ahmedabad,Kolkata,7.1,2022-09-24,economy,12638,13.0,20.1
+IndiGo,6E 6288 6E 282,Ahmedabad,Kolkata,6.15,2022-09-24,economy,12670,5.5,12.05
+IndiGo,6E 158 6E 282,Ahmedabad,Kolkata,7.55,2022-09-24,economy,12670,4.1,12.05
+Go First,G8 2505 G8 520,Ahmedabad,Kolkata,8.2,2022-09-24,economy,12770,13.55,22.15
+IndiGo,6E 6004 6E 5289,Ahmedabad,Kolkata,9.0,2022-09-24,economy,12777,6.4,15.4
+IndiGo,6E 794 6E 6297,Ahmedabad,Kolkata,9.1,2022-09-24,economy,12789,20.5,6.0
+IndiGo,6E 383 6E 664,Ahmedabad,Kolkata,9.0,2022-09-24,economy,12789,22.55,7.55
+IndiGo,6E 996 6E 227,Ahmedabad,Kolkata,10.0,2022-09-24,economy,13726,23.05,9.05
+IndiGo,6E 605 6E 429,Ahmedabad,Kolkata,5.55,2022-09-24,economy,13972,4.25,10.2
+IndiGo,6E 605 6E 5296,Ahmedabad,Kolkata,8.0,2022-09-24,economy,13972,4.25,12.25
+IndiGo,6E 758 6E 952,Ahmedabad,Kolkata,9.1,2022-09-24,economy,14600,16.5,2.0
+IndiGo,6E 383 6E 6494,Ahmedabad,Kolkata,6.2,2022-09-24,economy,14616,22.55,5.15
+IndiGo,6E 895 6E 987,Ahmedabad,Kolkata,9.45,2022-09-24,economy,15225,21.5,7.35
+IndiGo,6E 758 6E 538,Ahmedabad,Kolkata,7.45,2022-09-24,economy,15230,16.5,0.35
+IndiGo,6E 6594 6E 944,Ahmedabad,Kolkata,6.4,2022-09-24,economy,15834,15.5,22.3
+IndiGo,6E 265 6E 944,Ahmedabad,Kolkata,9.15,2022-09-24,economy,15834,13.15,22.3
+IndiGo,6E 6422 6E 503,Ahmedabad,Kolkata,9.5,2022-09-24,economy,16246,4.3,14.2
+IndiGo,6E 823 6E 503,Ahmedabad,Kolkata,6.4,2022-09-24,economy,16454,7.4,14.2
+IndiGo,6E 7274 6E 784,Ahmedabad,Kolkata,5.0,2022-09-24,economy,17168,15.1,20.1
+IndiGo,6E 6422 6E 442,Ahmedabad,Kolkata,7.2,2022-09-24,economy,18136,4.3,11.5
+IndiGo,6E 823 6E 172,Ahmedabad,Kolkata,8.25,2022-09-24,economy,18344,7.4,16.05
+SpiceJet,SG 922 SG 8254,Ahmedabad,Kolkata,25.25,2022-09-24,economy,21640,21.1,22.35
+Go First,G8 532,Ahmedabad,Kolkata,2.35,2022-09-10,economy,5900,6.0,8.35
+IndiGo,6E 966,Ahmedabad,Kolkata,2.5,2022-09-10,economy,5901,6.1,9.0
+IndiGo,6E 6367,Ahmedabad,Kolkata,2.4,2022-09-10,economy,5901,19.35,22.15
+IndiGo,6E 751,Ahmedabad,Kolkata,2.25,2022-09-10,economy,6321,9.0,11.25
+Vistara,UK 946 UK 707,Ahmedabad,Kolkata,11.05,2022-09-10,economy,7622,8.3,19.35
+Vistara,UK 946 UK 747,Ahmedabad,Kolkata,23.5,2022-09-24,premium,13048,8.3,8.2
+Vistara,UK 926 UK 747,Ahmedabad,Kolkata,25.35,2022-09-24,premium,13048,6.45,8.2
+SpiceJet,SG 8194 SG 8251,Ahmedabad,Kolkata,14.55,2022-09-24,premium,12778,6.05,21.0
+SpiceJet,SG 922 SG 8263,Ahmedabad,Kolkata,11.55,2022-09-24,premium,12778,21.1,9.05
+IndiGo,6E 6422,Ahmedabad,Bengaluru,2.2,2022-09-24,economy,3068,4.3,6.5
+IndiGo,6E 823,Ahmedabad,Bengaluru,2.2,2022-09-24,economy,3068,7.4,10.0
+IndiGo,6E 481,Ahmedabad,Bengaluru,2.35,2022-09-24,economy,3068,20.15,22.5
+Go First,G8 804,Ahmedabad,Bengaluru,2.15,2022-09-24,economy,3068,21.4,23.55
+IndiGo,6E 996,Ahmedabad,Bengaluru,1.55,2022-09-24,economy,3068,23.05,1.0
+Akasa Air,QP 1315,Ahmedabad,Bengaluru,2.0,2022-09-24,economy,3280,17.5,19.5
+IndiGo,6E 6794 6E 6258,Ahmedabad,Bengaluru,8.15,2022-09-24,economy,3799,23.25,7.4
+Go First,G8 802,Ahmedabad,Bengaluru,2.15,2022-09-24,economy,4517,8.3,10.45
+IndiGo,6E 758,Ahmedabad,Bengaluru,2.15,2022-09-24,economy,5203,16.5,19.05
+Go First,G8 413 G8 317,Ahmedabad,Bengaluru,9.15,2022-09-24,economy,5290,22.2,7.35
+IndiGo,6E 605 6E 6463,Ahmedabad,Bengaluru,4.2,2022-04-10,economy,3702,4.25,8.45
+Go First,G8 804,Ahmedabad,Bengaluru,2.1,2022-04-10,economy,3904,21.3,23.4
+IndiGo,6E 6794 6E 6258,Ahmedabad,Bengaluru,8.15,2022-04-10,economy,4449,23.25,7.4
+IndiGo,6E 6425 6E 219,Ahmedabad,Bengaluru,6.2,2022-04-10,economy,4764,9.55,16.15
+IndiGo,6E 6004 6E 219,Ahmedabad,Bengaluru,9.35,2022-04-10,economy,4764,6.4,16.15
+IndiGo,6E 5302 6E 5383,Ahmedabad,Bengaluru,6.45,2022-04-10,economy,4764,17.25,0.1
+IndiGo,6E 5274 6E 5383,Ahmedabad,Bengaluru,9.4,2022-04-10,economy,4764,14.3,0.1
+IndiGo,6E 6422,Ahmedabad,Bengaluru,2.2,2022-04-10,economy,4901,4.3,6.5
+IndiGo,6E 824,Ahmedabad,Bengaluru,2.1,2022-04-10,economy,5061,14.55,17.05
+IndiGo,6E 481,Ahmedabad,Bengaluru,2.35,2022-04-10,economy,5061,20.15,22.5
+IndiGo,6E 5268 6E 6221,Ahmedabad,Bengaluru,5.4,2022-04-10,economy,5079,13.1,18.5
+Go First,G8 459 G8 383,Ahmedabad,Bengaluru,9.15,2022-04-10,economy,5225,7.5,17.05
+Go First,G8 2505 G8 398,Ahmedabad,Bengaluru,8.05,2022-04-10,economy,5225,14.2,22.25
+Go First,G8 413 G8 325,Ahmedabad,Bengaluru,4.25,2022-04-10,economy,5225,20.05,0.3
+Vistara,UK 918 UK 851,Ahmedabad,Bengaluru,3.45,2022-04-10,economy,5356,5.05,8.5
+IndiGo,6E 803 6E 5383,Ahmedabad,Bengaluru,5.4,2022-04-10,economy,5364,18.3,0.1
+IndiGo,6E 5274 6E 5252,Ahmedabad,Bengaluru,6.15,2022-04-10,economy,5394,14.3,20.45
+IndiGo,6E 996,Ahmedabad,Bengaluru,1.55,2022-04-10,economy,5426,23.05,1.0
+Go First,G8 802,Ahmedabad,Bengaluru,2.15,2022-04-10,economy,5691,9.1,11.25
+IndiGo,6E 758,Ahmedabad,Bengaluru,2.0,2022-04-10,economy,5691,16.5,18.5
+Go First,G8 1537 G8 398,Ahmedabad,Bengaluru,4.35,2022-04-10,economy,5827,17.5,22.25
+Vistara,UK 936 UK 853,Ahmedabad,Bengaluru,9.2,2022-04-10,economy,5829,8.25,17.45
+Akasa Air,QP 1315,Ahmedabad,Bengaluru,2.0,2022-04-10,economy,5954,17.5,19.5
+IndiGo,6E 7207 6E 909,Ahmedabad,Bengaluru,5.05,2022-04-10,economy,7140,5.1,10.15
+IndiGo,6E 7197 6E 6874,Ahmedabad,Bengaluru,6.3,2022-04-10,economy,7140,15.15,21.45
+SpiceJet,SG 1077 SG 538,Ahmedabad,Bengaluru,10.55,2022-04-10,economy,8073,5.55,16.5
+IndiGo,6E 794 6E 284,Ahmedabad,Bengaluru,5.45,2022-04-10,economy,8894,20.5,2.35
+Vistara,UK 926 UK 801,Ahmedabad,Bengaluru,5.05,2022-04-10,economy,9577,6.45,11.5
+IndiGo,6E 581 6E 827,Ahmedabad,Bengaluru,4.1,2022-04-10,economy,9629,9.0,13.1
+IndiGo,6E 6053 6E 827,Ahmedabad,Bengaluru,4.55,2022-04-10,economy,9629,8.15,13.1
+Air India,AI 482 AI 807,Ahmedabad,Bengaluru,5.25,2022-04-10,economy,10029,14.5,20.15
+Vistara,UK 918 UK 851,Ahmedabad,Bengaluru,3.45,2022-04-10,premium,13329,5.05,8.5
+Vistara,UK 936 UK 853,Ahmedabad,Bengaluru,9.2,2022-04-10,premium,13329,8.25,17.45
+Vistara,UK 926 UK 801,Ahmedabad,Bengaluru,5.05,2022-04-10,premium,13752,6.45,11.5
+SpiceJet,SG 1077 SG 538,Ahmedabad,Bengaluru,10.55,2022-04-10,premium,11233,5.55,16.5
+IndiGo,6E 996 6E 6269,Ahmedabad,Chennai,9.0,2022-09-24,economy,3691,23.05,8.05
+IndiGo,6E 6794 6E 5299,Ahmedabad,Chennai,9.25,2022-09-24,economy,4087,23.25,8.5
+IndiGo,6E 6422 6E 541,Ahmedabad,Chennai,6.2,2022-09-24,economy,4391,4.3,10.5
+IndiGo,6E 6794 6E 136,Ahmedabad,Chennai,8.05,2022-09-24,economy,4657,23.25,7.3
+Go First,G8 537 G8 4035,Ahmedabad,Chennai,4.45,2022-09-24,economy,5541,19.55,0.4
+Go First,G8 2505 G8 4035,Ahmedabad,Chennai,10.45,2022-09-24,economy,5541,13.55,0.4
+Air India,AI 638 AI 570,Ahmedabad,Chennai,10.4,2022-09-24,economy,6291,20.45,7.25
+Vistara,UK 956 UK 821,Ahmedabad,Chennai,10.4,2022-09-24,economy,7034,22.1,8.5
+IndiGo,6E 6004 6E 908,Ahmedabad,Chennai,4.35,2022-09-24,economy,7189,6.4,11.15
+IndiGo,6E 6425 6E 5337,Ahmedabad,Chennai,7.3,2022-09-24,economy,7189,9.55,17.25
+IndiGo,6E 5268 6E 5337,Ahmedabad,Chennai,4.25,2022-09-24,economy,7365,13.0,17.25
+IndiGo,6E 5274 6E 312,Ahmedabad,Chennai,5.15,2022-09-24,economy,7365,14.3,19.45
+IndiGo,6E 803 6E 5279,Ahmedabad,Chennai,5.35,2022-09-24,economy,7557,18.3,0.05
+IndiGo,6E 5302 6E 5279,Ahmedabad,Chennai,6.4,2022-09-24,economy,7557,17.25,0.05
+IndiGo,6E 605 6E 908,Ahmedabad,Chennai,6.5,2022-09-24,economy,7964,4.25,11.15
+IndiGo,6E 6422 6E 6825,Ahmedabad,Chennai,4.35,2022-09-24,economy,8161,4.3,9.05
+IndiGo,6E 823 6E 6212,Ahmedabad,Chennai,4.3,2022-09-24,economy,9311,7.4,12.1
+IndiGo,6E 299,Ahmedabad,Chennai,2.15,2022-09-24,economy,9366,6.55,9.1
+IndiGo,6E 895,Ahmedabad,Chennai,2.2,2022-09-24,economy,9366,21.5,0.1
+IndiGo,6E 6335 6E 159,Ahmedabad,Chennai,4.2,2022-09-24,economy,9366,3.15,7.35
+IndiGo,6E 6594 6E 6174,Ahmedabad,Chennai,4.25,2022-09-24,economy,9366,15.5,20.15
+SpiceJet,SG 922 SG 8207,Ahmedabad,Chennai,14.15,2022-09-24,economy,9366,21.1,11.25
+Vistara,UK 918 UK 825,Ahmedabad,Chennai,6.45,2022-04-10,economy,5132,5.05,11.5
+IndiGo,6E 6004 6E 5307,Ahmedabad,Chennai,5.35,2022-04-10,economy,5203,6.4,12.15
+IndiGo,6E 605 6E 5307,Ahmedabad,Chennai,7.5,2022-04-10,economy,5203,4.25,12.15
+IndiGo,6E 5268 6E 5277,Ahmedabad,Chennai,5.35,2022-04-10,economy,5203,13.1,18.45
+IndiGo,6E 6425 6E 5277,Ahmedabad,Chennai,8.5,2022-04-10,economy,5203,9.55,18.45
+"IndiGo, Air India",6E 605 AI 671,Ahmedabad,Chennai,6.3,2022-04-10,economy,5213,4.25,10.55
+"IndiGo, Air India",6E 6425 AI 572,Ahmedabad,Chennai,7.25,2022-04-10,economy,5213,9.55,17.2
+"Vistara, Air India",UK 918 AI 671,Ahmedabad,Chennai,5.5,2022-04-10,economy,5241,5.05,10.55
+"Vistara, Air India",UK 936 AI 572,Ahmedabad,Chennai,8.55,2022-04-10,economy,5241,8.25,17.2
+IndiGo,6E 5268 6E 5337,Ahmedabad,Chennai,4.15,2022-04-10,economy,5287,13.1,17.25
+IndiGo,6E 6004 6E 908,Ahmedabad,Chennai,4.35,2022-04-10,economy,5413,6.4,11.15
+IndiGo,6E 5302 6E 5279,Ahmedabad,Chennai,6.4,2022-04-10,economy,5833,17.25,0.05
+"Akasa Air, IndiGo",QP 1102 6E 5277,Ahmedabad,Chennai,6.4,2022-04-10,economy,5851,12.05,18.45
+"Akasa Air, IndiGo",QP 1102 6E 5337,Ahmedabad,Chennai,5.2,2022-04-10,economy,5935,12.05,17.25
+IndiGo,6E 5274 6E 312,Ahmedabad,Chennai,5.15,2022-04-10,economy,6148,14.3,19.45
+IndiGo,6E 803 6E 5279,Ahmedabad,Chennai,5.35,2022-04-10,economy,6433,18.3,0.05
+"Akasa Air, IndiGo",QP 1108 6E 5231,Ahmedabad,Chennai,5.3,2022-04-10,economy,6471,16.05,21.35
+"Go First, IndiGo",G8 2505 6E 312,Ahmedabad,Chennai,5.25,2022-04-10,economy,6582,14.2,19.45
+IndiGo,6E 6422 6E 541,Ahmedabad,Chennai,6.2,2022-04-10,economy,7026,4.3,10.5
+IndiGo,6E 299,Ahmedabad,Chennai,2.15,2022-04-10,economy,8316,6.55,9.1
+IndiGo,6E 895,Ahmedabad,Chennai,2.2,2022-04-10,economy,9366,21.5,0.1
+SpiceJet,SG 3724,Ahmedabad,Amritsar,2.2,2022-04-10,economy,6347,16.3,18.5
+Air India,AI 482 AI 479,Ahmedabad,Amritsar,7.35,2022-04-10,economy,7614,14.5,22.25
+Air India,AI 818 AI 479,Ahmedabad,Amritsar,14.55,2022-04-10,economy,7614,7.3,22.25
+Air India,AI 532 AI 453,Ahmedabad,Amritsar,8.45,2022-04-10,economy,7614,21.3,6.15
+Vistara,UK 966 UK 697,Ahmedabad,Amritsar,12.4,2022-04-10,economy,8151,20.3,9.1
+Vistara,UK 946 UK 697,Ahmedabad,Amritsar,24.4,2022-04-10,economy,8152,8.3,9.1
+Vistara,UK 926 UK 697,Ahmedabad,Amritsar,26.25,2022-04-10,economy,8152,6.45,9.1
+IndiGo,6E 2032 6E 2054,Ahmedabad,Amritsar,5.2,2022-04-10,economy,8890,18.05,23.25
+IndiGo,6E 2146 6E 5654,Ahmedabad,Amritsar,6.4,2022-04-10,economy,8999,11.55,18.35
+IndiGo,6E 5011 6E 5654,Ahmedabad,Amritsar,10.5,2022-04-10,economy,8999,7.45,18.35
+IndiGo,6E 2142 6E 2054,Ahmedabad,Amritsar,7.45,2022-04-10,economy,8999,15.4,23.25
+Go First,G8 459 G8 2417,Ahmedabad,Amritsar,11.1,2022-04-10,economy,9220,7.5,19.0
+"Go First, IndiGo",G8 720 6E 5654,Ahmedabad,Amritsar,9.05,2022-04-10,economy,9334,9.3,18.35
+IndiGo,6E 6004 6E 6072,Ahmedabad,Amritsar,6.55,2022-04-10,economy,9367,6.4,13.35
+IndiGo,6E 605 6E 6072,Ahmedabad,Amritsar,9.1,2022-04-10,economy,9367,4.25,13.35
+"IndiGo, Air India",6E 2142 AI 479,Ahmedabad,Amritsar,6.45,2022-04-10,economy,9441,15.4,22.25
+"IndiGo, Vistara",6E 158 UK 697,Ahmedabad,Amritsar,5.0,2022-04-10,economy,9858,4.1,9.1
+Go First,G8 2505 G8 2417,Ahmedabad,Amritsar,4.4,2022-04-10,economy,9920,14.2,19.0
+IndiGo,6E 6288 6E 5012,Ahmedabad,Amritsar,5.2,2022-04-10,economy,10360,5.5,11.1
+IndiGo,6E 158 6E 5012,Ahmedabad,Amritsar,7.0,2022-04-10,economy,10360,4.1,11.1
+SpiceJet,SG 8194 SG 2933,Ahmedabad,Amritsar,14.45,2022-09-24,economy,3825,6.05,20.5
+SpiceJet,SG 3724,Ahmedabad,Amritsar,2.2,2022-09-24,economy,5717,16.3,18.5
+IndiGo,6E 6288 6E 5012,Ahmedabad,Amritsar,5.2,2022-09-24,economy,5717,5.5,11.1
+IndiGo,6E 158 6E 5012,Ahmedabad,Amritsar,7.0,2022-09-24,economy,5717,4.1,11.1
+IndiGo,6E 2146 6E 5654,Ahmedabad,Amritsar,6.4,2022-09-24,economy,5717,11.55,18.35
+IndiGo,6E 2032 6E 2054,Ahmedabad,Amritsar,5.2,2022-09-24,economy,5717,18.05,23.25
+IndiGo,6E 2142 6E 2054,Ahmedabad,Amritsar,7.45,2022-09-24,economy,5717,15.4,23.25
+Vistara,UK 946 UK 691,Ahmedabad,Amritsar,6.2,2022-09-24,economy,7299,8.3,14.5
+Vistara,UK 926 UK 691,Ahmedabad,Amritsar,8.05,2022-09-24,economy,7299,6.45,14.5
+Air India,AI 532 AI 453,Ahmedabad,Amritsar,8.45,2022-09-24,economy,7614,21.3,6.15
+SpiceJet,SG 3260 SG 3759,Ahmedabad,Amritsar,4.55,2022-09-24,economy,7621,7.1,12.05
+IndiGo,6E 794 6E 6574,Ahmedabad,Amritsar,9.0,2022-09-24,economy,8904,20.5,5.5
+IndiGo,6E 6004 6E 6072,Ahmedabad,Amritsar,6.55,2022-09-24,economy,9701,6.4,13.35
+Go First,G8 413 G8 2411,Ahmedabad,Amritsar,12.55,2022-09-24,economy,9874,22.2,11.15
+Go First,G8 537 G8 2411,Ahmedabad,Amritsar,15.2,2022-09-24,economy,10518,19.55,11.15
+IndiGo,6E 605 6E 6072,Ahmedabad,Amritsar,9.1,2022-09-24,economy,12607,4.25,13.35
+Go First,G8 399 G8 386,Bengaluru,Srinagar,10.5,2022-09-24,economy,8192,21.0,7.5
+Go First,G8 320 G8 386,Bengaluru,Srinagar,15.2,2022-09-24,economy,8192,16.3,7.5
+Go First,G8 285 G8 357,Bengaluru,Srinagar,16.4,2022-09-24,economy,8192,15.45,8.25
+IndiGo,6E 886 6E 917,Bengaluru,Srinagar,7.45,2022-09-24,economy,10260,8.55,16.4
+IndiGo,6E 484 6E 917,Bengaluru,Srinagar,9.3,2022-09-24,economy,10260,7.1,16.4
+IndiGo,6E 6042 6E 5201,Bengaluru,Srinagar,10.55,2022-09-24,economy,11548,22.05,9.0
+IndiGo,6E 6247 6E 6817,Bengaluru,Srinagar,11.4,2022-09-24,economy,12446,4.4,16.2
+IndiGo,6E 2053 6E 184,Bengaluru,Srinagar,11.4,2022-09-24,economy,13144,23.05,10.45
+SpiceJet,SG 136 SG 8150,Bengaluru,Srinagar,11.2,2022-09-24,economy,13209,5.55,17.15
+Vistara,UK 858 UK 647,Bengaluru,Srinagar,6.3,2022-09-24,economy,13285,6.4,13.1
+AirAsia,I5 749 I5 709,Bengaluru,Srinagar,8.55,2022-09-24,economy,13485,22.3,7.25
+Go First,G8 116 G8 191,Bengaluru,Srinagar,6.2,2022-09-24,economy,14183,4.4,11.0
+AirAsia,I5 722 I5 709,Bengaluru,Srinagar,6.45,2022-09-24,economy,14325,0.4,7.25
+IndiGo,6E 6991 6E 5201,Bengaluru,Srinagar,8.15,2022-09-24,economy,14541,0.45,9.0
+IndiGo,6E 6247 6E 6554,Bengaluru,Srinagar,5.3,2022-09-24,economy,14541,4.4,10.1
+IndiGo,6E 871 6E 6817,Bengaluru,Srinagar,7.0,2022-09-24,economy,14541,9.2,16.2
+IndiGo,6E 5021 6E 2653,Bengaluru,Srinagar,5.4,2022-09-24,economy,15517,6.0,11.4
+Air India,AI 804 AI 821,Bengaluru,Srinagar,7.3,2022-09-24,economy,15769,6.1,13.4
+Air India,AI 804 AI 825,Bengaluru,Srinagar,5.4,2022-09-24,economy,17764,6.1,11.5
+IndiGo,6E 797,Bengaluru,Srinagar,4.45,2022-09-24,economy,18250,9.15,14.0
+AirAsia,I5 741,Bengaluru,Srinagar,4.5,2022-09-24,economy,19759,11.15,16.05
+IndiGo,6E 6991 6E 5201,Bengaluru,Srinagar,8.15,2022-04-10,economy,9417,0.45,9.0
+IndiGo,6E 6247 6E 6554,Bengaluru,Srinagar,5.15,2022-04-10,economy,9417,4.4,9.55
+IndiGo,6E 2186 6E 2124,Bengaluru,Srinagar,6.35,2022-04-10,economy,9417,7.45,14.2
+IndiGo,6E 5021 6E 2124,Bengaluru,Srinagar,8.2,2022-04-10,economy,9417,6.0,14.2
+IndiGo,6E 871 6E 6817,Bengaluru,Srinagar,6.45,2022-04-10,economy,9417,9.35,16.2
+IndiGo,6E 537 6E 917,Bengaluru,Srinagar,6.25,2022-04-10,economy,9417,10.15,16.4
+IndiGo,6E 886 6E 917,Bengaluru,Srinagar,7.45,2022-04-10,economy,9417,8.55,16.4
+IndiGo,6E 484 6E 917,Bengaluru,Srinagar,9.3,2022-04-10,economy,9417,7.1,16.4
+IndiGo,6E 6257 6E 917,Bengaluru,Srinagar,11.25,2022-04-10,economy,9417,5.15,16.4
+IndiGo,6E 6512 6E 6616,Bengaluru,Srinagar,6.45,2022-04-10,economy,9417,10.35,17.2
+IndiGo,6E 2053 6E 5201,Bengaluru,Srinagar,9.55,2022-04-10,economy,9417,23.05,9.0
+IndiGo,6E 6042 6E 5201,Bengaluru,Srinagar,10.55,2022-04-10,economy,9417,22.05,9.0
+IndiGo,6E 5021 6E 2653,Bengaluru,Srinagar,5.4,2022-04-10,economy,10188,6.0,11.4
+AirAsia,I5 741,Bengaluru,Srinagar,4.5,2022-04-10,economy,10625,11.15,16.05
+AirAsia,I5 1528 I5 712,Bengaluru,Srinagar,7.25,2022-04-10,economy,11909,6.1,13.35
+AirAsia,I5 1528 I5 315,Bengaluru,Srinagar,6.45,2022-04-10,economy,12329,6.1,12.55
+Go First,G8 116 G8 213,Bengaluru,Srinagar,8.0,2022-04-10,economy,12382,5.3,13.3
+AirAsia,I5 722 I5 709,Bengaluru,Srinagar,6.45,2022-04-10,economy,12749,0.4,7.25
+SpiceJet,SG 136 SG 272,Bengaluru,Srinagar,5.25,2022-04-10,economy,12947,5.55,11.2
+Air India,AI 804 AI 825,Bengaluru,Srinagar,5.4,2022-04-10,economy,13249,6.1,11.5
+Vistara,UK 858 UK 647,Bengaluru,Srinagar,6.3,2022-04-10,economy,13285,6.4,13.1
+Vistara,UK 806 UK 643,Bengaluru,Srinagar,5.5,2022-04-10,economy,13285,9.45,15.35
+IndiGo,6E 797,Bengaluru,Srinagar,4.45,2022-04-10,economy,13341,9.15,14.0
+Vistara,UK 806 UK 643,Bengaluru,Srinagar,5.5,2022-04-10,premium,19970,9.45,15.35
+Vistara,UK 858 UK 647,Bengaluru,Srinagar,6.3,2022-04-10,premium,24450,6.4,13.1
+SpiceJet,SG 136 SG 272,Bengaluru,Srinagar,5.25,2022-04-10,premium,16144,5.55,11.2
+Air India,AI 804 AI 825,Bengaluru,Srinagar,5.4,2022-04-10,business,44699,6.1,11.5
+Air India,AI 808 AI 825,Bengaluru,Srinagar,14.3,2022-04-10,business,44699,21.2,11.5
+Vistara,UK 802 UK 643,Bengaluru,Srinagar,20.5,2022-04-10,business,46390,18.45,15.35
+Vistara,UK 816 UK 643,Bengaluru,Srinagar,28.05,2022-04-10,business,46390,11.3,15.35
+Vistara,UK 818 UK 643,Bengaluru,Srinagar,19.55,2022-04-10,business,49617,19.4,15.35
+Vistara,UK 820 UK 643,Bengaluru,Srinagar,21.5,2022-04-10,business,49617,17.45,15.35
+Vistara,UK 866 UK 647,Bengaluru,Srinagar,15.3,2022-04-10,business,51397,21.4,13.1
+Vistara,UK 850 UK 647,Bengaluru,Srinagar,17.15,2022-04-10,business,51397,19.55,13.1
+Vistara,UK 864 UK 647,Bengaluru,Srinagar,18.15,2022-04-10,business,51397,18.55,13.1
+Vistara,UK 854 UK 647,Bengaluru,Srinagar,18.45,2022-04-10,business,51397,18.25,13.1
+Vistara,UK 852 UK 647,Bengaluru,Srinagar,27.4,2022-04-10,business,51397,9.3,13.1
+Air India,AI 642 AI 864,Bengaluru,Srinagar,14.3,2022-04-10,business,53356,21.2,11.5
+Air India,AI 610 AI 864,Bengaluru,Srinagar,16.4,2022-04-10,business,53356,19.1,11.5
+Vistara,UK 814 UK 643,Bengaluru,Srinagar,18.2,2022-04-10,business,57053,21.15,15.35
+Vistara,UK 806 UK 643,Bengaluru,Srinagar,5.5,2022-04-10,business,57696,9.45,15.35
+Vistara,UK 808 UK 643,Bengaluru,Srinagar,7.35,2022-04-10,business,57696,8.0,15.35
+Vistara,UK 810 UK 643,Bengaluru,Srinagar,8.35,2022-04-10,business,57696,7.0,15.35
+Vistara,UK 858 UK 647,Bengaluru,Srinagar,6.3,2022-04-10,business,59932,6.4,13.1
+IndiGo,6E 232 6E 6574,Bengaluru,Amritsar,6.45,2022-09-24,economy,9417,23.05,5.5
+IndiGo,6E 426 6E 6574,Bengaluru,Amritsar,9.2,2022-09-24,economy,9417,20.3,5.5
+Vistara,UK 814 UK 697,Bengaluru,Amritsar,11.55,2022-09-24,economy,10944,21.15,9.1
+IndiGo,6E 6464 6E 6072,Bengaluru,Amritsar,8.55,2022-09-24,economy,11039,4.4,13.35
+SpiceJet,SG 136 SG 2933,Bengaluru,Amritsar,14.55,2022-09-24,economy,13467,5.55,20.5
+Air India,AI 808 AI 453,Bengaluru,Amritsar,8.55,2022-09-24,economy,13601,21.2,6.15
+Air India,AI 642 AI 649,Bengaluru,Amritsar,11.15,2022-09-24,economy,13601,21.2,8.35
+Air India,AI 610 AI 649,Bengaluru,Amritsar,13.25,2022-09-24,economy,13601,19.1,8.35
+IndiGo,6E 5021 6E 5012,Bengaluru,Amritsar,5.1,2022-09-24,economy,14446,6.0,11.1
+IndiGo,6E 6991 6E 5012,Bengaluru,Amritsar,10.25,2022-09-24,economy,14446,0.45,11.1
+IndiGo,6E 5286 6E 6072,Bengaluru,Amritsar,7.35,2022-09-24,economy,14446,6.0,13.35
+Go First,G8 399 G8 2411,Bengaluru,Amritsar,14.15,2022-09-24,economy,14667,21.0,11.15
+IndiGo,6E 6247 6E 5012,Bengaluru,Amritsar,6.3,2022-09-24,economy,14772,4.4,11.1
+IndiGo,6E 6479 6E 6072,Bengaluru,Amritsar,6.35,2022-09-24,economy,15287,7.0,13.35
+IndiGo,6E 2174 6E 2054,Bengaluru,Amritsar,5.25,2022-09-24,economy,17025,18.0,23.25
+IndiGo,6E 797,Bengaluru,Amritsar,3.15,2022-09-24,economy,17638,9.15,12.3
+IndiGo,6E 2147 6E 2054,Bengaluru,Amritsar,7.05,2022-09-24,economy,17659,16.2,23.25
+Vistara,UK 810 UK 691,Bengaluru,Amritsar,7.5,2022-09-24,economy,17691,7.0,14.5
+Air India,AI 503 AI 479,Bengaluru,Amritsar,5.25,2022-09-24,economy,19024,17.0,22.25
+Vistara,UK 808 UK 691,Bengaluru,Amritsar,6.5,2022-09-24,economy,19056,8.0,14.5
+Go First,G8 395 G8 2417,Bengaluru,Amritsar,10.4,2022-04-10,economy,9620,8.2,19.0
+Go First,G8 385 G8 2417,Bengaluru,Amritsar,13.15,2022-04-10,economy,9620,5.45,19.0
+Air India,AI 610 AI 649,Bengaluru,Amritsar,13.25,2022-04-10,economy,10027,19.1,8.35
+IndiGo,6E 5286 6E 6072,Bengaluru,Amritsar,7.35,2022-04-10,economy,10428,6.0,13.35
+IndiGo,6E 6464 6E 6072,Bengaluru,Amritsar,8.55,2022-04-10,economy,10428,4.4,13.35
+Air India,AI 642 AI 649,Bengaluru,Amritsar,11.15,2022-04-10,economy,10552,21.2,8.35
+IndiGo,6E 2174 6E 2054,Bengaluru,Amritsar,5.25,2022-04-10,economy,11517,18.0,23.25
+IndiGo,6E 2147 6E 2054,Bengaluru,Amritsar,7.05,2022-04-10,economy,11517,16.2,23.25
+IndiGo,6E 2514 6E 2054,Bengaluru,Amritsar,8.3,2022-04-10,economy,11517,14.55,23.25
+Air India,AI 503 AI 479,Bengaluru,Amritsar,5.15,2022-04-10,economy,11569,17.1,22.25
+Air India,AI 808 AI 453,Bengaluru,Amritsar,8.55,2022-04-10,economy,11569,21.2,6.15
+Air India,AI 509 AI 453,Bengaluru,Amritsar,11.0,2022-04-10,economy,11569,19.15,6.15
+IndiGo,6E 806 6E 6574,Bengaluru,Amritsar,8.2,2022-04-10,economy,11739,21.3,5.5
+IndiGo,6E 2186 6E 5654,Bengaluru,Amritsar,10.5,2022-04-10,economy,11779,7.45,18.35
+IndiGo,6E 871 6E 5654,Bengaluru,Amritsar,9.0,2022-04-10,economy,11989,9.35,18.35
+Air India,AI 507 AI 479,Bengaluru,Amritsar,11.1,2022-04-10,economy,12094,11.15,22.25
+Air India,AI 505 AI 479,Bengaluru,Amritsar,12.25,2022-04-10,economy,12094,10.0,22.25
+IndiGo,6E 2401 6E 2054,Bengaluru,Amritsar,9.3,2022-04-10,economy,12304,13.55,23.25
+IndiGo,6E 588 6E 6574,Bengaluru,Amritsar,10.25,2022-04-10,economy,12474,19.25,5.5
+Vistara,UK 814 UK 697,Bengaluru,Amritsar,11.55,2022-04-10,economy,12491,21.15,9.1
+IndiGo,6E 797,Bengaluru,Amritsar,3.15,2022-04-10,economy,12771,9.15,12.3
+IndiGo,6E 5021 6E 5012,Bengaluru,Amritsar,5.1,2022-04-10,economy,12987,6.0,11.1
+IndiGo,6E 6247 6E 5012,Bengaluru,Amritsar,6.3,2022-04-10,economy,12987,4.4,11.1
+IndiGo,6E 6991 6E 5012,Bengaluru,Amritsar,10.25,2022-04-10,economy,12987,0.45,11.1
+SpiceJet,SG 768 SG 3723,Bengaluru,Amritsar,18.5,2022-04-10,economy,14471,15.5,10.4
+AirAsia,I5 386,Bengaluru,Pune,1.25,2022-09-24,economy,5372,3.35,5.0
+Vistara,UK 551,Bengaluru,Pune,1.25,2022-09-24,economy,5374,4.3,5.55
+IndiGo,6E 699,Bengaluru,Pune,1.25,2022-09-24,economy,5479,2.3,3.55
+AirAsia,I5 974,Bengaluru,Pune,1.25,2022-09-24,economy,6005,22.0,23.25
+Go First,G8 283,Bengaluru,Pune,1.25,2022-09-24,economy,6363,5.2,6.45
+IndiGo,6E 232,Bengaluru,Pune,1.2,2022-09-24,economy,6529,23.05,0.25
+IndiGo,6E 408,Bengaluru,Pune,1.25,2022-09-24,economy,6739,5.25,6.5
+IndiGo,6E 684 6E 351,Bengaluru,Pune,7.35,2022-09-24,economy,7369,22.1,5.45
+IndiGo,6E 855 6E 351,Bengaluru,Pune,9.35,2022-09-24,economy,7369,20.1,5.45
+IndiGo,6E 426,Bengaluru,Pune,1.15,2022-09-24,economy,8209,20.3,21.45
+IndiGo,6E 806 6E 6877,Bengaluru,Pune,5.1,2022-09-24,economy,8472,21.3,2.4
+Go First,G8 241,Bengaluru,Pune,1.15,2022-09-24,economy,11354,18.3,19.45
+IndiGo,6E 6992 6E 674,Bengaluru,Pune,7.55,2022-09-24,economy,12987,15.05,23.0
+Vistara,UK 553,Bengaluru,Pune,1.35,2022-09-24,economy,13249,16.45,18.2
+IndiGo,6E 6825 6E 727,Bengaluru,Pune,8.3,2022-09-24,economy,14352,8.05,16.35
+IndiGo,6E 528,Bengaluru,Pune,1.2,2022-09-24,economy,14509,17.05,18.25
+IndiGo,6E 478 6E 401,Bengaluru,Pune,9.0,2022-09-24,economy,14719,20.05,5.05
+Vistara,UK 551,Bengaluru,Pune,1.25,2022-09-10,economy,5122,4.3,5.55
+Vistara,UK 553,Bengaluru,Pune,1.35,2022-09-10,economy,5122,16.45,18.2
+AirAsia,I5 386,Bengaluru,Pune,1.25,2022-09-10,economy,5372,3.35,5.0
+SpiceJet,SG 516,Bengaluru,Pune,1.35,2022-09-10,economy,5372,9.35,11.1
+AirAsia,I5 1426,Bengaluru,Pune,1.25,2022-09-10,economy,5372,12.5,14.15
+AirAsia,I5 974,Bengaluru,Pune,1.25,2022-09-10,economy,5372,22.0,23.25
+Go First,G8 283,Bengaluru,Pune,1.15,2022-09-10,economy,5373,5.3,6.45
+Go First,G8 241,Bengaluru,Pune,1.25,2022-09-10,economy,5373,17.45,19.1
+IndiGo,6E 699,Bengaluru,Pune,1.25,2022-09-10,economy,5374,2.3,3.55
+IndiGo,6E 408,Bengaluru,Pune,1.25,2022-09-10,economy,5374,5.25,6.5
+IndiGo,6E 6104,Bengaluru,Pune,1.15,2022-09-10,economy,5374,11.05,12.2
+IndiGo,6E 528,Bengaluru,Pune,1.2,2022-09-10,economy,5374,17.05,18.25
+IndiGo,6E 426,Bengaluru,Pune,1.15,2022-09-10,economy,5374,20.3,21.45
+IndiGo,6E 232,Bengaluru,Pune,1.2,2022-09-10,economy,5374,23.05,0.25
+IndiGo,6E 7295 6E 6431,Bengaluru,Pune,8.35,2022-09-10,economy,6792,19.45,4.2
+SpiceJet,SG 516,Bengaluru,Pune,1.35,2022-04-10,premium,6567,9.35,11.1
+IndiGo,6E 368 6E 924,Bengaluru,Patna,8.15,2022-09-24,economy,10220,5.15,13.3
+IndiGo,6E 6353 6E 5373,Bengaluru,Patna,5.15,2022-09-24,economy,10761,6.05,11.2
+SpiceJet,SG 768,Bengaluru,Patna,2.35,2022-09-24,economy,9783,15.5,18.25
+IndiGo,6E 6269 6E 787,Bengaluru,Patna,8.15,2022-09-24,economy,10761,7.0,15.15
+SpiceJet,SG 768,Bengaluru,Patna,2.4,2022-09-24,economy,11673,13.3,16.1
+Vistara,UK 814 UK 717,Bengaluru,Patna,12.2,2022-09-24,economy,11753,21.15,9.35
+IndiGo,6E 255,Bengaluru,Patna,2.25,2022-09-24,economy,11779,8.35,11.0
+IndiGo,6E 484 6E 6472,Bengaluru,Patna,9.2,2022-09-24,economy,12357,7.1,16.3
+IndiGo,6E 537 6E 6472,Bengaluru,Patna,6.15,2022-09-24,economy,12987,10.15,16.3
+IndiGo,6E 886 6E 6472,Bengaluru,Patna,7.35,2022-09-24,economy,13407,8.55,16.3
+IndiGo,6E 952 6E 6324,Bengaluru,Patna,9.05,2022-09-24,economy,13494,23.25,8.3
+IndiGo,6E 538 6E 6324,Bengaluru,Patna,10.05,2022-09-24,economy,13494,22.25,8.3
+Go First,G8 873,Bengaluru,Patna,2.3,2022-09-24,economy,13633,11.2,13.5
+Air India,AI 804 AI 407,Bengaluru,Patna,9.15,2022-09-24,economy,13722,6.1,15.25
+IndiGo,6E 6825 6E 787,Bengaluru,Patna,7.1,2022-09-24,economy,15087,8.05,15.15
+IndiGo,6E 6247 6E 2481,Bengaluru,Patna,9.15,2022-09-24,economy,15612,4.4,13.55
+Go First,G8 395 G8 351,Bengaluru,Patna,5.5,2022-09-24,economy,15667,8.1,14.0
+IndiGo,6E 541 6E 787,Bengaluru,Patna,5.4,2022-09-24,economy,15727,9.35,15.15
+IndiGo,6E 2053 6E 2022,Bengaluru,Patna,9.0,2022-09-24,economy,16084,23.05,8.05
+IndiGo,6E 6464 6E 6301,Bengaluru,Patna,7.0,2022-09-24,economy,16337,4.4,11.4
+IndiGo,6E 6439 6E 6926,Bengaluru,Patna,8.05,2022-09-24,economy,16372,7.45,15.5
+IndiGo,6E 5021 6E 2481,Bengaluru,Patna,7.55,2022-09-24,economy,16924,6.0,13.55
+IndiGo,6E 503 6E 114,Bengaluru,Patna,7.2,2022-09-24,economy,17212,11.55,19.15
+IndiGo,6E 6991 6E 2022,Bengaluru,Patna,7.2,2022-09-24,economy,17449,0.45,8.05
+IndiGo,6E 442 6E 6926,Bengaluru,Patna,6.35,2022-09-24,economy,18052,9.15,15.5
+IndiGo,6E 5351 6E 6418,Bengaluru,Patna,6.1,2022-09-24,economy,18872,14.05,20.15
+IndiGo,6E 172 6E 114,Bengaluru,Patna,5.35,2022-09-24,economy,19102,13.4,19.15
+SpiceJet,SG 768,Bengaluru,Patna,2.35,2022-04-10,economy,7683,15.5,18.25
+IndiGo,6E 342,Bengaluru,Patna,2.25,2022-04-10,economy,7947,15.4,18.05
+Go First,G8 873,Bengaluru,Patna,2.3,2022-04-10,economy,7999,17.5,20.2
+IndiGo,6E 255,Bengaluru,Patna,2.25,2022-04-10,economy,8157,8.35,11.0
+SpiceJet,SG 767 SG 9509,Bengaluru,Patna,20.5,2022-04-10,economy,8615,22.4,19.3
+Go First,G8 808,Bengaluru,Lucknow,2.25,2022-09-24,economy,7682,14.55,17.2
+IndiGo,6E 6825 6E 6311,Bengaluru,Lucknow,6.2,2022-09-24,economy,7684,8.05,14.25
+IndiGo,6E 196,Bengaluru,Lucknow,2.25,2022-09-24,economy,6412,13.2,15.45
+IndiGo,6E 5344 6E 5363,Bengaluru,Lucknow,9.1,2022-09-24,economy,7684,22.55,8.05
+AirAsia,I5 2472,Bengaluru,Lucknow,2.25,2022-09-24,economy,7685,6.5,9.15
+IndiGo,6E 451,Bengaluru,Lucknow,2.25,2022-09-24,economy,7894,18.2,20.45
+AirAsia,I5 1533,Bengaluru,Lucknow,2.25,2022-09-24,economy,8209,14.0,16.25
+IndiGo,6E 6269 6E 6311,Bengaluru,Lucknow,7.25,2022-09-24,economy,8330,7.0,14.25
+IndiGo,6E 6345 6E 6811,Bengaluru,Lucknow,7.55,2022-09-24,economy,8330,13.0,20.55
+IndiGo,6E 6818 6E 5363,Bengaluru,Lucknow,10.2,2022-09-24,economy,8330,21.45,8.05
+AirAsia,I5 1621 I5 560,Bengaluru,Lucknow,16.35,2022-09-24,economy,8375,5.05,21.4
+IndiGo,6E 196,Bengaluru,Lucknow,2.25,2022-09-24,economy,8524,13.2,15.45
+IndiGo,6E 6353,Bengaluru,Lucknow,2.3,2022-09-24,economy,8944,6.05,8.35
+IndiGo,6E 5286 6E 5228,Bengaluru,Lucknow,10.0,2022-09-24,economy,8976,6.0,16.0
+Vistara,UK 814 UK 641,Bengaluru,Lucknow,17.3,2022-09-24,economy,9514,21.15,14.45
+IndiGo,6E 6479 6E 5228,Bengaluru,Lucknow,9.0,2022-09-24,economy,9621,7.0,16.0
+IndiGo,6E 5323 6E 5339,Bengaluru,Lucknow,10.05,2022-09-24,economy,9621,8.2,18.25
+IndiGo,6E 5251 6E 5391,Bengaluru,Lucknow,6.15,2022-09-24,economy,9621,16.5,23.05
+IndiGo,6E 886 6E 866,Bengaluru,Lucknow,10.5,2022-09-24,economy,10267,8.55,19.45
+IndiGo,6E 6595 6E 935,Bengaluru,Lucknow,10.4,2022-09-24,economy,10267,9.55,20.35
+IndiGo,6E 6491 6E 866,Bengaluru,Lucknow,6.55,2022-09-24,economy,10913,12.5,19.45
+AirAsia,I5 1781 I5 560,Bengaluru,Lucknow,9.25,2022-09-24,economy,11517,12.15,21.4
+IndiGo,6E 6042 6E 307,Bengaluru,Lucknow,8.35,2022-09-24,economy,11559,22.05,6.4
+IndiGo,6E 5376 6E 7936,Bengaluru,Lucknow,4.45,2022-09-24,economy,12034,12.25,17.1
+IndiGo,6E 5323 6E 5228,Bengaluru,Lucknow,7.4,2022-09-24,economy,12204,8.2,16.0
+IndiGo,6E 488 6E 5339,Bengaluru,Lucknow,8.25,2022-09-24,economy,12850,10.0,18.25
+IndiGo,6E 2053 6E 307,Bengaluru,Lucknow,7.35,2022-09-24,economy,12987,23.05,6.4
+Go First,G8 395 G8 306,Bengaluru,Lucknow,4.55,2022-09-24,economy,13198,8.1,13.05
+IndiGo,6E 6779 6E 6244,Bengaluru,Lucknow,8.05,2022-09-24,economy,13496,1.4,9.45
+Air India,AI 804 AI 431,Bengaluru,Lucknow,7.15,2022-09-24,economy,13722,6.1,13.25
+IndiGo,6E 6991 6E 307,Bengaluru,Lucknow,5.55,2022-09-24,economy,14142,0.45,6.4
+IndiGo,6E 488 6E 5228,Bengaluru,Lucknow,6.0,2022-09-24,economy,14787,10.0,16.0
+IndiGo,6E 2174 6E 2084,Bengaluru,Lucknow,4.4,2022-09-24,economy,17025,18.0,22.4
+IndiGo,6E 6353,Bengaluru,Lucknow,2.3,2022-04-10,economy,6412,6.05,8.35
+AirAsia,I5 2472,Bengaluru,Lucknow,2.25,2022-04-10,economy,6412,6.5,9.15
+AirAsia,I5 1533,Bengaluru,Lucknow,2.25,2022-04-10,economy,6412,14.0,16.25
+IndiGo,6E 451,Bengaluru,Lucknow,2.25,2022-04-10,economy,6412,18.2,20.45
+AirAsia,I5 941 I5 765,Bengaluru,Lucknow,10.0,2022-04-10,economy,7681,5.35,15.35
+AirAsia,I5 319,Lucknow,Kolkata,1.5,2022-09-24,economy,5151,10.5,12.4
+IndiGo,6E 104,Lucknow,Kolkata,1.35,2022-09-24,economy,5153,9.5,11.25
+IndiGo,6E 6469,Lucknow,Kolkata,1.4,2022-09-24,economy,5153,16.35,18.15
+Vistara,UK 642 UK 747,Lucknow,Kolkata,16.55,2022-09-24,economy,6209,15.25,8.2
+IndiGo,6E 5373 6E 736,Lucknow,Kolkata,7.1,2022-09-24,economy,6308,10.2,17.3
+Vistara,UK 642 UK 707,Lucknow,Kolkata,4.1,2022-09-24,economy,7922,15.25,19.35
+Air India,AI 432 AI 764,Lucknow,Kolkata,5.05,2022-09-24,economy,9155,14.05,19.1
+Air India,AI 812 AI 401,Lucknow,Kolkata,12.45,2022-09-24,economy,9155,20.15,9.0
+IndiGo,6E 5373 6E 7235,Lucknow,Kolkata,11.15,2022-09-24,economy,9952,10.2,21.35
+IndiGo,6E 6791 6E 7235,Lucknow,Kolkata,9.05,2022-09-24,economy,10465,12.3,21.35
+IndiGo,6E 146 6E 394,Lucknow,Kolkata,5.1,2022-09-24,economy,11239,8.45,13.55
+IndiGo,6E 7321 6E 784,Lucknow,Kolkata,5.05,2022-09-24,economy,13725,15.05,20.1
+IndiGo,6E 146 6E 268,Lucknow,Kolkata,9.2,2022-09-24,economy,14704,8.45,18.05
+IndiGo,6E 6552 6E 6041,Lucknow,Kolkata,8.35,2022-09-24,economy,15073,13.35,22.1
+Go First,G8 396 G8 511,Lucknow,Kolkata,13.15,2022-09-24,economy,15156,20.25,9.4
+Go First,G8 307 G8 520,Lucknow,Kolkata,8.4,2022-09-24,economy,16156,13.35,22.15
+Air India,AI 812 AI 814,Lucknow,Kolkata,12.35,2022-09-24,economy,18069,20.15,8.5
+Air India,AI 626 AI 660,Lucknow,Kolkata,19.05,2022-09-24,economy,18594,13.55,9.0
+Air India,AI 626 AI 774,Lucknow,Kolkata,9.55,2022-09-24,economy,19749,13.55,23.5
+AirAsia,I5 319,Lucknow,Kolkata,1.5,2022-04-10,economy,5151,10.5,12.4
+IndiGo,6E 104,Lucknow,Kolkata,1.35,2022-04-10,economy,5153,9.5,11.25
+IndiGo,6E 6469,Lucknow,Kolkata,1.4,2022-04-10,economy,5153,16.35,18.15
+IndiGo,6E 5373 6E 736,Lucknow,Kolkata,7.1,2022-04-10,economy,5916,10.2,17.3
+Vistara,UK 642 UK 707,Lucknow,Kolkata,4.1,2022-04-10,economy,7126,15.25,19.35
+IndiGo,6E 6791 6E 7235,Lucknow,Kolkata,9.05,2022-04-10,economy,7846,12.3,21.35
+Air India,AI 432 AI 762,Lucknow,Kolkata,8.2,2022-04-10,economy,9155,14.05,22.25
+IndiGo,6E 146 6E 394,Lucknow,Kolkata,5.1,2022-04-10,economy,9769,8.45,13.55
+IndiGo,6E 146 6E 268,Lucknow,Kolkata,9.2,2022-04-10,economy,9769,8.45,18.05
+Air India,AI 432 AI 764,Lucknow,Kolkata,5.05,2022-04-10,economy,10000,14.05,19.1
+Air India,AI 812 AI 401,Lucknow,Kolkata,12.45,2022-04-10,economy,10604,20.15,9.0
+IndiGo,6E 6552 6E 6041,Lucknow,Kolkata,8.35,2022-04-10,economy,10685,13.35,22.1
+IndiGo,6E 6791 6E 6411,Lucknow,Pune,10.4,2022-09-24,economy,4405,12.3,23.1
+IndiGo,6E 6552 6E 6876,Lucknow,Pune,10.0,2022-09-24,economy,4405,13.35,23.35
+IndiGo,6E 6469 6E 6296,Lucknow,Pune,10.15,2022-09-24,economy,4405,16.35,2.5
+IndiGo,6E 6354 6E 699,Lucknow,Pune,6.4,2022-09-24,economy,4405,21.15,3.55
+IndiGo,6E 435 6E 699,Lucknow,Pune,11.35,2022-09-24,economy,4405,16.2,3.55
+IndiGo,6E 2072 6E 177,Lucknow,Pune,7.55,2022-09-24,economy,4405,20.2,4.15
+IndiGo,6E 518 6E 401,Lucknow,Pune,11.05,2022-09-24,economy,4405,18.0,5.05
+IndiGo,6E 278 6E 351,Lucknow,Pune,9.3,2022-09-24,economy,4405,20.15,5.45
+IndiGo,6E 2089 6E 643,Lucknow,Pune,7.4,2022-09-24,economy,4405,23.15,6.55
+AirAsia,I5 830 I5 764,Lucknow,Pune,8.05,2022-09-24,economy,4406,22.1,6.15
+AirAsia,I5 330 I5 764,Lucknow,Pune,9.25,2022-09-24,economy,4406,20.5,6.15
+IndiGo,6E 817 6E 147,Lucknow,Pune,9.4,2022-09-24,economy,5207,15.4,1.2
+AirAsia,I5 1531 I5 974,Lucknow,Pune,6.3,2022-09-24,economy,5560,16.55,23.25
+IndiGo,6E 523 6E 6058,Lucknow,Pune,9.3,2022-09-24,economy,5681,10.05,19.35
+IndiGo,6E 2027 6E 177,Lucknow,Pune,10.3,2022-09-24,economy,6204,17.45,4.15
+IndiGo,6E 7078 6E 835,Lucknow,Pune,5.2,2022-09-24,economy,7416,19.4,1.0
+IndiGo,6E 243 6E 2143,Lucknow,Pune,5.5,2022-09-24,economy,8116,14.15,20.05
+Air India,AI 812 AI 851,Lucknow,Pune,10.45,2022-09-24,economy,9155,20.15,7.0
+Go First,G8 806 G8 283,Lucknow,Pune,12.55,2022-09-24,economy,10801,17.5,6.45
+Vistara,UK 642 UK 991,Lucknow,Pune,4.35,2022-09-24,economy,11066,15.25,20.0
+IndiGo,6E 6807,Lucknow,Pune,1.5,2022-04-10,economy,4353,22.25,0.15
+AirAsia,I5 1426,Lucknow,Pune,4.3,2022-04-10,economy,5613,9.45,14.15
+Vistara,UK 642 UK 991,Lucknow,Pune,4.35,2022-04-10,economy,6131,15.25,20.0
+IndiGo,6E 6791 6E 6411,Lucknow,Pune,10.4,2022-04-10,economy,7401,12.3,23.1
+IndiGo,6E 7078 6E 835,Lucknow,Pune,5.2,2022-04-10,economy,7552,19.4,1.0
+IndiGo,6E 7935 6E 5983,Lucknow,Pune,5.25,2022-04-10,economy,7620,7.5,13.15
+Go First,G8 2510 G8 173,Lucknow,Pune,5.4,2022-04-10,economy,7999,6.0,11.4
+IndiGo,6E 6552 6E 6876,Lucknow,Pune,10.0,2022-04-10,economy,8663,13.35,23.35
+IndiGo,6E 142 6E 522,Lucknow,Pune,10.05,2022-04-10,economy,8986,5.0,15.05
+IndiGo,6E 6891 6E 794,Lucknow,Pune,5.4,2022-04-10,economy,8986,16.25,22.05
+IndiGo,6E 523 6E 6058,Lucknow,Pune,5.05,2022-04-10,economy,9083,10.05,15.1
+Air India,AI 432 AI 849,Lucknow,Pune,4.05,2022-04-10,economy,9155,14.05,18.1
+AirAsia,I5 547 I5 764,Lucknow,Pune,6.3,2022-04-10,economy,9798,23.45,6.15
+IndiGo,6E 2108 6E 2769,Lucknow,Pune,4.25,2022-04-10,economy,9826,6.1,10.35
+IndiGo,6E 243 6E 2143,Lucknow,Pune,5.5,2022-04-10,economy,9826,14.15,20.05
+IndiGo,6E 2027 6E 671,Lucknow,Pune,5.2,2022-04-10,economy,10666,17.45,23.05
+Air India,AI 432 AI 479,Lucknow,Amritsar,8.2,2022-04-10,economy,6377,14.05,22.25
+Air India,AI 812 AI 453,Lucknow,Amritsar,10.0,2022-04-10,economy,6377,20.15,6.15
+IndiGo,6E 6075,Lucknow,Amritsar,1.4,2022-04-10,economy,3473,6.15,7.55
+Vistara,UK 642 UK 697,Lucknow,Amritsar,17.45,2022-04-10,economy,7509,15.25,9.1
+IndiGo,6E 2281 6E 5654,Lucknow,Amritsar,7.4,2022-04-10,economy,8146,10.55,18.35
+IndiGo,6E 2027 6E 2054,Lucknow,Amritsar,5.4,2022-04-10,economy,8146,17.45,23.25
+IndiGo,6E 243 6E 2054,Lucknow,Amritsar,9.1,2022-04-10,economy,8146,14.15,23.25
+"Vistara, Air India",UK 642 AI 479,Lucknow,Amritsar,7.0,2022-04-10,economy,8390,15.25,22.25
+"AirAsia, IndiGo",I5 552 6E 5654,Lucknow,Amritsar,9.3,2022-04-10,economy,8588,9.05,18.35
+"IndiGo, Air India",6E 2027 AI 479,Lucknow,Amritsar,4.4,2022-04-10,economy,8588,17.45,22.25
+IndiGo,6E 2145 6E 5012,Lucknow,Amritsar,3.25,2022-04-10,economy,9616,7.45,11.1
+IndiGo,6E 2108 6E 5012,Lucknow,Amritsar,5.0,2022-04-10,economy,9616,6.1,11.1
+"Go First, IndiGo",G8 2510 6E 5012,Lucknow,Amritsar,5.1,2022-04-10,economy,10056,6.0,11.1
+"Alliance Air, Air India",9I 810 AI 479,Lucknow,Amritsar,6.55,2022-04-10,economy,10847,15.3,22.25
+IndiGo,6E 2145 6E 5012,Lucknow,Amritsar,3.25,2022-09-24,economy,3526,7.45,11.1
+IndiGo,6E 2108 6E 5012,Lucknow,Amritsar,5.0,2022-09-24,economy,3526,6.1,11.1
+IndiGo,6E 817 6E 2054,Lucknow,Amritsar,7.45,2022-09-24,economy,3526,15.4,23.25
+IndiGo,6E 243 6E 2054,Lucknow,Amritsar,9.1,2022-09-24,economy,3526,14.15,23.25
+IndiGo,6E 2027 6E 2054,Lucknow,Amritsar,5.4,2022-09-24,economy,4576,17.45,23.25
+IndiGo,6E 2281 6E 5654,Lucknow,Amritsar,7.4,2022-09-24,economy,5521,10.55,18.35
+"IndiGo, Air India",6E 2027 AI 479,Lucknow,Amritsar,4.4,2022-09-24,economy,8588,17.45,22.25
+"Alliance Air, Air India",9I 810 AI 479,Lucknow,Amritsar,6.55,2022-09-24,economy,10847,15.3,22.25
+Go First,G8 396 G8 2411,Lucknow,Amritsar,14.5,2022-09-24,economy,14354,20.25,11.15
+Vistara,UK 642 UK 697,Lucknow,Amritsar,17.45,2022-09-24,premium,10318,15.25,9.1
+AirAsia,I5 1426,Lucknow,Hyderabad,4.1,2022-09-24,economy,6131,9.45,13.55
+Vistara,UK 642 UK 879,Lucknow,Hyderabad,4.25,2022-09-24,economy,6131,15.25,19.5
+IndiGo,6E 278,Lucknow,Hyderabad,2.0,2022-09-24,economy,6814,20.15,22.15
+AirAsia,I5 1426 I5 972,Lucknow,Hyderabad,5.55,2022-09-24,economy,6999,9.45,15.4
+AirAsia,I5 745 I5 974,Lucknow,Hyderabad,4.55,2022-09-24,economy,6999,14.5,19.45
+IndiGo,6E 523,Lucknow,Hyderabad,1.55,2022-09-24,economy,8170,10.05,12.0
+IndiGo,6E 2145 6E 2005,Lucknow,Hyderabad,4.25,2022-09-24,economy,8618,7.45,12.1
+IndiGo,6E 2108 6E 2005,Lucknow,Hyderabad,6.0,2022-09-24,economy,8618,6.1,12.1
+IndiGo,6E 325 6E 6491,Lucknow,Hyderabad,4.45,2022-09-24,economy,8618,9.1,13.55
+IndiGo,6E 2281 6E 2153,Lucknow,Hyderabad,4.35,2022-09-24,economy,8618,10.55,15.3
+IndiGo,6E 5392 6E 5386,Lucknow,Hyderabad,5.0,2022-09-24,economy,8618,14.3,19.3
+IndiGo,6E 243 6E 6823,Lucknow,Hyderabad,5.55,2022-09-24,economy,8618,14.15,20.1
+IndiGo,6E 435 6E 855,Lucknow,Hyderabad,4.5,2022-09-24,economy,8618,16.2,21.1
+IndiGo,6E 6469 6E 725,Lucknow,Hyderabad,5.35,2022-09-24,economy,8618,16.35,22.1
+IndiGo,6E 2027 6E 2136,Lucknow,Hyderabad,5.4,2022-09-24,economy,8618,17.45,23.25
+Go First,G8 307 G8 509,Lucknow,Hyderabad,11.05,2022-09-24,economy,8618,13.35,0.4
+IndiGo,6E 2089 6E 2325,Lucknow,Hyderabad,4.45,2022-09-24,economy,8618,23.15,4.0
+Air India,AI 432 AI 839,Lucknow,Hyderabad,9.4,2022-09-24,economy,10000,14.05,23.45
+IndiGo,6E 523,Lucknow,Hyderabad,1.55,2022-04-10,economy,4411,10.05,12.0
+IndiGo,6E 278,Lucknow,Hyderabad,2.0,2022-04-10,economy,4788,20.15,22.15
+Vistara,UK 642 UK 829,Lucknow,Hyderabad,18.0,2022-04-10,economy,6131,15.25,9.25
+AirAsia,I5 1426 I5 1228,Lucknow,Hyderabad,4.55,2022-04-10,economy,6518,9.45,14.4
+AirAsia,I5 745 I5 1518,Lucknow,Hyderabad,6.25,2022-04-10,economy,8089,14.5,21.15
+IndiGo,6E 5373 6E 6896,Lucknow,Hyderabad,8.15,2022-04-10,economy,8316,10.2,18.35
+AirAsia,I5 745 I5 974,Lucknow,Hyderabad,4.55,2022-04-10,economy,8771,14.5,19.45
+IndiGo,6E 6807 6E 352,Lucknow,Hyderabad,9.1,2022-04-10,economy,8987,22.25,7.35
+Air India,AI 812 AI 560,Lucknow,Hyderabad,13.1,2022-04-10,economy,9155,20.15,9.25
+Vistara,UK 642 UK 879,Lucknow,Hyderabad,4.25,2022-04-10,economy,9281,15.25,19.5
+IndiGo,6E 2145 6E 2005,Lucknow,Hyderabad,4.25,2022-04-10,economy,9826,7.45,12.1
+IndiGo,6E 2108 6E 2005,Lucknow,Hyderabad,6.0,2022-04-10,economy,9826,6.1,12.1
+IndiGo,6E 2089 6E 2325,Lucknow,Hyderabad,4.25,2022-04-10,economy,9826,23.35,4.0
+Air India,AI 432 AI 544,Lucknow,Hyderabad,5.05,2022-04-10,economy,10000,14.05,19.1
+IndiGo,6E 325 6E 6491,Lucknow,Hyderabad,4.45,2022-04-10,economy,10046,9.1,13.55
+IndiGo,6E 142 6E 6053,Lucknow,Hyderabad,5.0,2022-04-10,economy,10561,5.0,10.0
+IndiGo,6E 2281 6E 2153,Lucknow,Hyderabad,4.35,2022-04-10,economy,10561,10.55,15.3
+Vistara,UK 642 UK 879,Lucknow,Hyderabad,4.25,2022-04-10,premium,11719,15.25,19.5
+Vistara,UK 642 UK 829,Lucknow,Hyderabad,18.0,2022-04-10,premium,11720,15.25,9.25
+Vistara,UK 642 UK 611,Lucknow,Srinagar,20.35,2022-09-24,economy,5684,15.25,12.0
+IndiGo,6E 2108 6E 5126,Lucknow,Srinagar,4.35,2022-09-24,economy,6256,6.1,10.45
+IndiGo,6E 2145 6E 2653,Lucknow,Srinagar,3.55,2022-09-24,economy,6256,7.45,11.4
+IndiGo,6E 2108 6E 2653,Lucknow,Srinagar,5.3,2022-09-24,economy,6256,6.1,11.4
+IndiGo,6E 2145 6E 2124,Lucknow,Srinagar,6.35,2022-09-24,economy,6256,7.45,14.2
+IndiGo,6E 2108 6E 2124,Lucknow,Srinagar,8.1,2022-09-24,economy,6256,6.1,14.2
+IndiGo,6E 2145 6E 6817,Lucknow,Srinagar,8.35,2022-09-24,economy,6256,7.45,16.2
+IndiGo,6E 2108 6E 6817,Lucknow,Srinagar,10.1,2022-09-24,economy,6256,6.1,16.2
+IndiGo,6E 6552 6E 6616,Lucknow,Srinagar,3.45,2022-09-24,economy,6256,13.35,17.2
+IndiGo,6E 243 6E 6081,Lucknow,Srinagar,4.1,2022-09-24,economy,6256,14.15,18.25
+IndiGo,6E 817 6E 167,Lucknow,Srinagar,4.05,2022-09-24,economy,6256,15.4,19.45
+IndiGo,6E 243 6E 167,Lucknow,Srinagar,5.3,2022-09-24,economy,6256,14.15,19.45
+IndiGo,6E 2089 6E 5201,Lucknow,Srinagar,9.45,2022-09-24,economy,6256,23.15,9.0
+AirAsia,I5 552 I5 315,Lucknow,Srinagar,3.5,2022-09-24,economy,6999,9.05,12.55
+AirAsia,I5 830 I5 709,Lucknow,Srinagar,9.15,2022-09-24,economy,6999,22.1,7.25
+AirAsia,I5 330 I5 709,Lucknow,Srinagar,10.35,2022-09-24,economy,6999,20.5,7.25
+IndiGo,6E 2145 6E 559,Lucknow,Srinagar,7.1,2022-09-24,economy,7064,7.45,14.55
+IndiGo,6E 2108 6E 559,Lucknow,Srinagar,8.45,2022-09-24,economy,7064,6.1,14.55
+Air India,AI 812 AI 827,Lucknow,Srinagar,12.5,2022-09-24,economy,7632,20.15,9.05
+Air India,AI 626 AI 816,Lucknow,Srinagar,19.1,2022-09-24,economy,16914,13.55,9.05
+Air India,AI 626 AI 888,Lucknow,Srinagar,19.1,2022-09-24,economy,16914,13.55,9.05
+Air India,AI 626 AI 660,Lucknow,Srinagar,19.1,2022-09-24,economy,16914,13.55,9.05
+Go First,G8 396 G8 386,Lucknow,Srinagar,11.25,2022-09-24,economy,19502,20.25,7.5
+Go First,G8 307 G8 386,Lucknow,Srinagar,18.15,2022-09-24,economy,19502,13.35,7.5
+IndiGo,6E 2145 6E 2124,Lucknow,Srinagar,6.35,2022-04-10,economy,5164,7.45,14.2
+IndiGo,6E 2108 6E 2124,Lucknow,Srinagar,8.1,2022-04-10,economy,5164,6.1,14.2
+IndiGo,6E 6552 6E 6616,Lucknow,Srinagar,3.45,2022-04-10,economy,5164,13.35,17.2
+IndiGo,6E 243 6E 6081,Lucknow,Srinagar,4.1,2022-04-10,economy,5164,14.15,18.25
+IndiGo,6E 2089 6E 5201,Lucknow,Srinagar,9.25,2022-04-10,economy,5164,23.35,9.0
+AirAsia,I5 552 I5 315,Lucknow,Srinagar,3.5,2022-04-10,economy,6001,9.05,12.55
+AirAsia,I5 547 I5 709,Lucknow,Srinagar,7.4,2022-04-10,economy,6001,23.45,7.25
+AirAsia,I5 330 I5 709,Lucknow,Srinagar,10.35,2022-04-10,economy,6001,20.5,7.25
+IndiGo,6E 2145 6E 2653,Lucknow,Srinagar,3.55,2022-04-10,economy,6999,7.45,11.4
+IndiGo,6E 2108 6E 2653,Lucknow,Srinagar,5.3,2022-04-10,economy,7917,6.1,11.4
+Go First,G8 2510 G8 187,Lucknow,Srinagar,10.55,2022-04-10,economy,8381,6.0,16.55
+Vistara,UK 642 UK 611,Lucknow,Srinagar,20.35,2022-04-10,economy,9092,15.25,12.0
+Go First,G8 2510 G8 213,Lucknow,Srinagar,7.3,2022-04-10,economy,9221,6.0,13.3
+Air India,AI 626 AI 816,Lucknow,Srinagar,23.45,2022-04-10,economy,18279,13.55,13.4
+Air India,AI 626 AI 816,Lucknow,Srinagar,21.55,2022-04-10,economy,19618,13.55,11.5
+Vistara,UK 642 UK 955,Lucknow,Mumbai,4.4,2022-09-24,economy,6208,15.25,20.05
+Go First,G8 307,Lucknow,Mumbai,2.15,2022-09-24,economy,7461,13.35,15.5
+Go First,G8 396,Lucknow,Mumbai,2.2,2022-09-24,economy,7461,20.25,22.45
+IndiGo,6E 5309,Lucknow,Mumbai,2.1,2022-09-24,economy,7463,5.45,7.55
+IndiGo,6E 5364,Lucknow,Mumbai,2.2,2022-09-24,economy,7463,8.4,11.0
+IndiGo,6E 5392,Lucknow,Mumbai,2.05,2022-09-24,economy,7463,14.3,16.35
+IndiGo,6E 6168,Lucknow,Mumbai,2.15,2022-09-24,economy,7463,18.55,21.1
+Air India,AI 626,Lucknow,Mumbai,2.3,2022-09-24,economy,7464,13.55,16.25
+AirAsia,I5 338,Lucknow,Mumbai,2.15,2022-09-24,economy,7464,16.05,18.2
+AirAsia,I5 1426 I5 612,Lucknow,Mumbai,10.55,2022-09-24,economy,7737,9.45,20.4
+IndiGo,6E 7935 6E 6938,Lucknow,Mumbai,8.5,2022-04-10,economy,6807,7.5,16.4
+Go First,G8 307,Lucknow,Mumbai,2.2,2022-04-10,economy,7462,13.35,15.55
+Go First,G8 396,Lucknow,Mumbai,2.2,2022-04-10,economy,7462,20.0,22.2
+IndiGo,6E 5309,Lucknow,Mumbai,2.1,2022-04-10,economy,7463,5.45,7.55
+IndiGo,6E 5364,Lucknow,Mumbai,2.2,2022-04-10,economy,7463,8.4,11.0
+IndiGo,6E 5392,Lucknow,Mumbai,2.05,2022-04-10,economy,7463,14.3,16.35
+IndiGo,6E 6168,Lucknow,Mumbai,2.15,2022-04-10,economy,7463,18.55,21.1
+Air India,AI 626,Lucknow,Mumbai,2.3,2022-04-10,economy,7464,13.55,16.25
+AirAsia,I5 338,Lucknow,Mumbai,2.15,2022-04-10,economy,7464,16.05,18.2
+AirAsia,I5 745 I5 472,Lucknow,Mumbai,8.55,2022-04-10,economy,7464,14.5,23.45
+Vistara,UK 642 UK 955,Lucknow,Mumbai,4.4,2022-09-24,premium,12276,15.25,20.05
+Air India,AI 626,Lucknow,Mumbai,2.3,2022-09-24,business,20611,13.55,16.25
+Vistara,UK 642 UK 977,Lucknow,Mumbai,5.5,2022-09-24,business,34824,15.25,21.15
+Air India,AI 812 AI 814,Lucknow,Mumbai,4.25,2022-09-24,business,35384,20.15,0.4
+Air India,AI 432 AI 814,Lucknow,Mumbai,10.35,2022-09-24,business,35384,14.05,0.4
+Vistara,UK 642 UK 955,Lucknow,Mumbai,4.4,2022-09-24,business,42776,15.25,20.05
+Air India,AI 432 AI 441,Lucknow,Mumbai,6.05,2022-09-24,business,57213,14.05,20.1
+IndiGo,6E 2089 6E 2488,Lucknow,Coimbatore,9.45,2022-09-24,economy,5521,23.15,9.0
+IndiGo,6E 5309 6E 5367,Lucknow,Coimbatore,5.15,2022-09-24,economy,6656,5.45,11.0
+IndiGo,6E 325 6E 6992,Lucknow,Coimbatore,6.5,2022-09-24,economy,6656,9.1,16.0
+IndiGo,6E 523 6E 6645,Lucknow,Coimbatore,6.35,2022-09-24,economy,6656,10.05,16.4
+IndiGo,6E 5364 6E 5313,Lucknow,Coimbatore,11.55,2022-09-24,economy,6656,8.4,20.35
+IndiGo,6E 243 6E 2185,Lucknow,Coimbatore,6.55,2022-09-24,economy,6656,14.15,21.1
+IndiGo,6E 2281 6E 2185,Lucknow,Coimbatore,10.15,2022-09-24,economy,6656,10.55,21.1
+IndiGo,6E 6354 6E 857,Lucknow,Coimbatore,10.35,2022-09-24,economy,6656,21.15,7.5
+IndiGo,6E 5392 6E 5313,Lucknow,Coimbatore,6.05,2022-09-24,economy,7160,14.3,20.35
+IndiGo,6E 2108 6E 2329,Lucknow,Coimbatore,11.05,2022-09-24,economy,11255,6.1,17.15
+IndiGo,6E 2281 6E 2043,Lucknow,Coimbatore,9.05,2022-09-24,economy,11255,10.55,20.0
+IndiGo,6E 104 6E 892,Lucknow,Coimbatore,10.1,2022-09-24,economy,11255,9.5,20.0
+IndiGo,6E 146 6E 119,Lucknow,Coimbatore,11.15,2022-09-24,economy,11255,8.45,20.0
+"AirAsia, IndiGo",I5 1426 6E 6992,Lucknow,Coimbatore,6.15,2022-09-24,economy,11692,9.45,16.0
+Air India,AI 812 AI 439,Lucknow,Coimbatore,18.1,2022-09-24,economy,13166,20.15,14.25
+Air India,AI 626 AI 816,Lucknow,Coimbatore,24.3,2022-09-24,economy,20295,13.55,14.25
+IndiGo,6E 2746 6E 786,Kolkata,Vadodara,6.55,2022-09-24,economy,6035,23.45,6.4
+IndiGo,6E 2716 6E 786,Kolkata,Vadodara,9.05,2022-09-24,economy,6035,21.35,6.4
+IndiGo,6E 6869 6E 786,Kolkata,Vadodara,10.2,2022-09-24,economy,6035,20.2,6.4
+IndiGo,6E 898 6E 786,Kolkata,Vadodara,11.3,2022-09-24,economy,6035,19.1,6.4
+IndiGo,6E 318 6E 6436,Kolkata,Vadodara,7.1,2022-09-24,economy,7170,4.25,11.35
+IndiGo,6E 6513 6E 6537,Kolkata,Vadodara,8.2,2022-09-24,economy,7170,8.55,17.15
+IndiGo,6E 6623 6E 6537,Kolkata,Vadodara,11.2,2022-09-24,economy,7170,5.55,17.15
+IndiGo,6E 5294 6E 6735,Kolkata,Vadodara,9.05,2022-09-24,economy,7170,9.45,18.5
+IndiGo,6E 5288 6E 6735,Kolkata,Vadodara,10.45,2022-09-24,economy,7170,8.05,18.5
+IndiGo,6E 759 6E 859,Kolkata,Vadodara,5.15,2022-09-24,economy,7170,15.15,20.3
+IndiGo,6E 358 6E 859,Kolkata,Vadodara,8.5,2022-09-24,economy,8767,11.4,20.3
+IndiGo,6E 6438 6E 807,Kolkata,Vadodara,8.0,2022-09-24,economy,9387,4.35,12.35
+Air India,AI 402 AI 819,Kolkata,Vadodara,9.0,2022-09-24,economy,10718,10.3,19.3
+IndiGo,6E 496 6E 807,Kolkata,Vadodara,5.5,2022-09-24,economy,12416,6.45,12.35
+IndiGo,6E 6965 6E 6064,Kolkata,Vadodara,5.2,2022-09-24,economy,12416,15.4,21.0
+IndiGo,6E 358 6E 6264,Kolkata,Udaipur,7.1,2022-09-24,economy,7170,11.4,18.5
+IndiGo,6E 5345 6E 6264,Kolkata,Udaipur,8.4,2022-09-24,economy,7170,10.1,18.5
+IndiGo,6E 5294 6E 5239,Kolkata,Udaipur,9.15,2022-09-24,economy,7170,9.45,19.0
+IndiGo,6E 5288 6E 5239,Kolkata,Udaipur,10.55,2022-09-24,economy,7170,8.05,19.0
+IndiGo,6E 2746 6E 6019,Kolkata,Udaipur,8.3,2022-09-24,economy,7170,23.45,8.15
+IndiGo,6E 2716 6E 6019,Kolkata,Udaipur,10.4,2022-09-24,economy,7170,21.35,8.15
+Vistara,UK 720 UK 627,Kolkata,Udaipur,7.35,2022-09-24,economy,7639,7.1,14.45
+Vistara,UK 708 UK 627,Kolkata,Udaipur,18.25,2022-09-24,economy,7639,20.2,14.45
+Vistara,UK 738 UK 627,Kolkata,Udaipur,20.0,2022-09-24,economy,7639,18.45,14.45
+SpiceJet,SG 8252 SG 3725,Kolkata,Udaipur,20.55,2022-09-24,economy,8254,21.45,18.4
+IndiGo,6E 6623 6E 6591,Kolkata,Udaipur,10.4,2022-09-24,economy,8311,5.55,16.35
+IndiGo,6E 6513 6E 6591,Kolkata,Udaipur,7.4,2022-09-24,economy,8960,8.55,16.35
+IndiGo,6E 568 6E 712,Kolkata,Chennai,6.2,2022-09-24,economy,8787,15.0,21.2
+Go First,G8 537 G8 4035,Kolkata,Chennai,8.0,2022-09-24,economy,9130,16.4,0.4
+IndiGo,6E 989,Kolkata,Chennai,2.25,2022-09-24,economy,9132,4.45,7.1
+IndiGo,6E 723,Kolkata,Chennai,2.15,2022-09-24,economy,9132,22.25,0.4
+IndiGo,6E 946,Kolkata,Chennai,2.15,2022-09-24,economy,9132,23.55,2.1
+IndiGo,6E 6438 6E 6825,Kolkata,Chennai,4.3,2022-09-24,economy,9132,4.35,9.05
+AirAsia,I5 510,Kolkata,Chennai,4.3,2022-09-24,economy,9132,4.5,9.2
+IndiGo,6E 496 6E 841,Kolkata,Chennai,9.1,2022-09-24,economy,9132,6.45,15.55
+IndiGo,6E 455 6E 478,Kolkata,Chennai,9.0,2022-09-24,economy,9132,12.05,21.05
+IndiGo,6E 775 6E 121,Kolkata,Chennai,8.5,2022-09-24,economy,9132,23.1,8.0
+IndiGo,6E 563,Kolkata,Chennai,2.35,2022-09-24,economy,9342,8.25,11.0
+IndiGo,6E 512 6E 6001,Kolkata,Chennai,5.5,2022-09-24,economy,9484,13.2,19.1
+IndiGo,6E 496 6E 6212,Kolkata,Chennai,5.25,2022-09-24,economy,9489,6.45,12.1
+IndiGo,6E 764 6E 841,Kolkata,Chennai,7.15,2022-09-24,economy,9489,8.4,15.55
+IndiGo,6E 455 6E 356,Kolkata,Chennai,6.25,2022-09-24,economy,9489,12.05,18.3
+IndiGo,6E 958 6E 478,Kolkata,Chennai,7.1,2022-09-24,economy,9489,13.55,21.05
+IndiGo,6E 771 6E 541,Kolkata,Chennai,5.1,2022-09-24,economy,9846,5.4,10.5
+IndiGo,6E 6513 6E 514,Kolkata,Chennai,6.15,2022-09-24,economy,10203,8.55,15.1
+Air India,AI 676 AI 572,Kolkata,Chennai,7.55,2022-09-24,economy,10571,9.25,17.2
+IndiGo,6E 234,Kolkata,Chennai,1.5,2022-09-24,economy,10602,18.5,20.4
+Air India,AI 785,Kolkata,Chennai,2.15,2022-09-24,economy,10760,17.0,19.15
+Vistara,UK 706 UK 839,Kolkata,Chennai,6.1,2022-09-24,economy,10917,10.15,16.25
+Vistara,UK 778 UK 835,Kolkata,Chennai,7.25,2022-09-24,economy,10917,15.2,22.45
+IndiGo,6E 6623 6E 6151,Kolkata,Chennai,5.3,2022-09-24,economy,11631,5.55,11.25
+Vistara,UK 776 UK 827,Kolkata,Chennai,5.3,2022-09-24,economy,11990,17.35,23.05
+IndiGo,6E 892,Kolkata,Chennai,2.15,2022-09-24,economy,12702,14.35,16.5
+IndiGo,6E 7561 6E 597,Kolkata,Chennai,9.3,2022-04-10,economy,7967,7.15,16.45
+IndiGo,6E 6683 6E 6269,Kolkata,Chennai,8.45,2022-04-10,economy,8894,23.2,8.05
+Air India,AI 785,Kolkata,Chennai,2.15,2022-04-10,economy,6507,17.0,19.15
+IndiGo,6E 573 6E 6269,Kolkata,Chennai,10.45,2022-04-10,economy,8894,21.2,8.05
+IndiGo,6E 6324 6E 209,Kolkata,Chennai,11.15,2022-04-10,economy,9332,7.05,18.2
+IndiGo,6E 989,Kolkata,Chennai,2.25,2022-04-10,economy,9657,4.45,7.1
+IndiGo,6E 6438 6E 541,Kolkata,Chennai,6.2,2022-04-10,economy,9734,4.3,10.5
+IndiGo,6E 568 6E 712,Kolkata,Chennai,6.2,2022-04-10,economy,10047,15.0,21.2
+IndiGo,6E 771 6E 541,Kolkata,Chennai,5.1,2022-04-10,economy,10154,5.4,10.5
+IndiGo,6E 496 6E 6212,Kolkata,Chennai,5.25,2022-04-10,economy,10154,6.45,12.1
+AirAsia,I5 510,Kolkata,Chennai,4.3,2022-04-10,economy,10182,4.5,9.2
+IndiGo,6E 234,Kolkata,Chennai,1.5,2022-04-10,economy,10287,18.5,20.4
+IndiGo,6E 775 6E 531,Kolkata,Chennai,7.5,2022-04-10,economy,10340,23.1,7.0
+IndiGo,6E 6528 6E 531,Kolkata,Chennai,10.0,2022-04-10,economy,10340,21.0,7.0
+Air India,AI 785,Kolkata,Chennai,2.15,2022-04-10,economy,10760,17.0,19.15
+IndiGo,6E 6623 6E 6151,Kolkata,Chennai,5.3,2022-04-10,economy,10760,5.55,11.25
+IndiGo,6E 6908 6E 6007,Kolkata,Chennai,6.25,2022-04-10,economy,10760,18.0,0.25
+IndiGo,6E 723,Kolkata,Chennai,2.15,2022-04-10,economy,11022,22.25,0.4
+IndiGo,6E 946,Kolkata,Chennai,2.15,2022-04-10,economy,11757,23.55,2.1
+Vistara,UK 776 UK 827,Kolkata,Chennai,5.3,2022-04-10,economy,11990,17.35,23.05
+IndiGo,6E 6438 6E 6825,Kolkata,Chennai,4.35,2022-04-10,economy,12440,4.3,9.05
+Go First,G8 519 G8 305,Kolkata,Chennai,15.0,2022-04-10,economy,12478,16.45,7.45
+IndiGo,6E 6021 6E 102,Kolkata,Chennai,5.15,2022-04-10,economy,12545,14.0,19.15
+IndiGo,6E 833,Kolkata,Chennai,2.15,2022-04-10,economy,12597,10.3,12.45
+IndiGo,6E 476 6E 553,Kolkata,Chennai,5.45,2022-04-10,economy,12650,21.05,2.5
+IndiGo,6E 455 6E 356,Kolkata,Chennai,6.25,2022-04-10,economy,13175,12.05,18.3
+IndiGo,6E 563,Kolkata,Chennai,2.35,2022-04-10,economy,13437,8.25,11.0
+IndiGo,6E 512 6E 6001,Kolkata,Chennai,5.5,2022-04-10,economy,13474,13.2,19.1
+IndiGo,6E 958 6E 6017,Kolkata,Chennai,5.45,2022-04-10,economy,13595,13.55,19.4
+IndiGo,6E 892,Kolkata,Chennai,2.15,2022-04-10,economy,16272,14.35,16.5
+Air India,AI 785,Kolkata,Chennai,2.15,2022-04-10,business,20624,17.0,19.15
+Air India,AI 773 AI 570,Kolkata,Chennai,14.1,2022-04-10,business,49727,17.15,7.25
+Air India,AI 402 AI 537,Kolkata,Chennai,9.0,2022-04-10,business,50533,10.3,19.3
+Air India,AI 763 AI 537,Kolkata,Chennai,12.4,2022-04-10,business,50533,6.5,19.3
+Air India,AI 768 AI 540,Kolkata,Chennai,8.05,2022-04-10,business,50533,15.3,23.35
+Vistara,UK 772 UK 823,Kolkata,Chennai,9.25,2022-04-10,business,50928,10.25,19.5
+Vistara,UK 776 UK 827,Kolkata,Chennai,5.3,2022-04-10,business,50928,17.35,23.05
+Vistara,UK 774 UK 821,Kolkata,Chennai,12.15,2022-04-10,business,50928,20.35,8.5
+Vistara,UK 720 UK 839,Kolkata,Chennai,9.15,2022-04-10,business,56001,7.1,16.25
+Vistara,UK 778 UK 835,Kolkata,Chennai,7.25,2022-04-10,business,56001,15.2,22.45
+Vistara,UK 708 UK 839,Kolkata,Chennai,20.05,2022-04-10,business,56002,20.2,16.25
+Vistara,UK 738 UK 839,Kolkata,Chennai,21.4,2022-04-10,business,56002,18.45,16.25
+Air India,AI 770 AI 439,Kolkata,Chennai,12.4,2022-04-10,business,58597,20.15,8.55
+Vistara,UK 706 UK 839,Kolkata,Chennai,6.1,2022-04-10,business,66081,10.15,16.25
+Vistara,UK 708 UK 833,Kolkata,Chennai,13.3,2022-04-10,business,68433,20.2,9.5
+Vistara,UK 738 UK 833,Kolkata,Chennai,15.05,2022-04-10,business,68433,18.45,9.5
+Vistara,UK 708,Kolkata,New Delhi,2.2,2022-04-10,premium,8111,20.2,22.4
+Vistara,UK 778,Kolkata,New Delhi,2.25,2022-04-10,premium,12087,15.2,17.45
+Vistara,UK 720,Kolkata,New Delhi,2.25,2022-04-10,premium,13375,7.1,9.35
+Vistara,UK 706,Kolkata,New Delhi,2.25,2022-04-10,premium,13375,10.15,12.4
+Vistara,UK 738,Kolkata,New Delhi,2.25,2022-04-10,premium,13375,18.45,21.1
+SpiceJet,SG 8252,Kolkata,New Delhi,2.2,2022-04-10,premium,7696,21.45,0.05
+SpiceJet,SG 8922,Kolkata,New Delhi,2.3,2022-04-10,premium,7696,23.55,2.25
+SpiceJet,SG 8264,Kolkata,New Delhi,2.15,2022-04-10,premium,8437,15.4,17.55
+SpiceJet,SG 8373,Kolkata,New Delhi,2.25,2022-04-10,premium,9277,7.3,9.55
+SpiceJet,SG 9509 SG 8723,Kolkata,New Delhi,20.45,2022-04-10,premium,11044,18.2,15.05
+SpiceJet,SG 9168 SG 8158,Kolkata,New Delhi,7.05,2022-04-10,premium,15795,15.2,22.25
+SpiceJet,SG 8252,Kolkata,New Delhi,2.2,2022-04-10,economy,6501,21.45,0.05
+SpiceJet,SG 8922,Kolkata,New Delhi,2.3,2022-04-10,economy,6501,23.55,2.25
+IndiGo,6E 2716,Kolkata,New Delhi,2.3,2022-04-10,economy,6507,21.35,0.05
+IndiGo,6E 6869,Kolkata,New Delhi,2.25,2022-04-10,economy,6927,20.2,22.45
+SpiceJet,SG 8264,Kolkata,New Delhi,2.15,2022-04-10,economy,7242,15.4,17.55
+IndiGo,6E 2083,Kolkata,New Delhi,2.2,2022-04-10,economy,7347,18.1,20.3
+IndiGo,6E 898,Kolkata,New Delhi,2.15,2022-04-10,economy,7347,19.1,21.25
+IndiGo,6E 2746,Kolkata,New Delhi,2.1,2022-04-10,economy,7347,23.45,1.55
+Vistara,UK 738,Kolkata,New Delhi,2.25,2022-04-10,economy,7453,18.45,21.1
+Vistara,UK 708,Kolkata,New Delhi,2.2,2022-04-10,economy,7453,20.2,22.4
+SpiceJet,SG 9509 SG 8723,Kolkata,New Delhi,20.45,2022-04-10,economy,7727,18.2,15.05
+SpiceJet,SG 8373,Kolkata,New Delhi,2.25,2022-04-10,economy,8082,7.3,9.55
+IndiGo,6E 6324 6E 5359,Kolkata,New Delhi,5.55,2022-04-10,economy,8432,7.05,13.0
+IndiGo,6E 2516,Kolkata,New Delhi,2.3,2022-04-10,economy,8607,16.35,19.05
+IndiGo,6E 759,Kolkata,New Delhi,2.2,2022-04-10,economy,9132,15.15,17.35
+IndiGo,6E 7561 6E 2094,Kolkata,New Delhi,7.15,2022-04-10,economy,9426,7.15,14.3
+Air India,AI 768,Kolkata,New Delhi,2.25,2022-04-10,economy,9657,15.3,17.55
+Air India,AI 770,Kolkata,New Delhi,2.2,2022-04-10,economy,9657,20.15,22.35
+Vistara,UK 778,Kolkata,New Delhi,2.25,2022-04-10,economy,9658,15.2,17.45
+IndiGo,6E 358,Kolkata,New Delhi,2.2,2022-04-10,economy,9762,11.4,14.0
+IndiGo,6E 375,Kolkata,New Delhi,2.2,2022-04-10,economy,9779,6.55,9.15
+IndiGo,6E 861,Kolkata,New Delhi,2.2,2022-04-10,economy,9779,8.5,11.1
+IndiGo,6E 2474,Kolkata,New Delhi,2.1,2022-04-10,economy,10409,5.2,7.3
+IndiGo,6E 5345,Kolkata,New Delhi,2.15,2022-04-10,economy,10409,10.1,12.25
+Air India,AI 402,Kolkata,New Delhi,2.3,2022-04-10,economy,10760,10.3,13.0
+Air India,AI 763,Kolkata,New Delhi,2.25,2022-04-10,economy,11600,6.5,9.15
+Air India,AI 777 AI 490,Kolkata,New Delhi,6.55,2022-04-10,economy,11934,16.1,23.05
+Vistara,UK 720,Kolkata,New Delhi,2.25,2022-04-10,economy,12703,7.1,9.35
+Vistara,UK 706,Kolkata,New Delhi,2.25,2022-04-10,economy,12703,10.15,12.4
+IndiGo,6E 378 6E 2096,Kolkata,New Delhi,4.15,2022-04-10,economy,13017,14.15,18.3
+Go First,G8 102,Kolkata,New Delhi,2.25,2022-04-10,economy,16586,14.2,16.45
+Air India,AI 763,Kolkata,New Delhi,2.25,2022-04-10,business,25788,6.5,9.15
+Air India,AI 402,Kolkata,New Delhi,2.3,2022-04-10,business,25788,10.3,13.0
+Air India,AI 768,Kolkata,New Delhi,2.25,2022-04-10,business,25788,15.3,17.55
+Vistara,UK 720,Kolkata,New Delhi,2.25,2022-04-10,business,28528,7.1,9.35
+Vistara,UK 778,Kolkata,New Delhi,2.25,2022-04-10,business,28528,15.2,17.45
+Vistara,UK 738,Kolkata,New Delhi,2.25,2022-04-10,business,28528,18.45,21.1
+Vistara,UK 708,Kolkata,New Delhi,2.2,2022-04-10,business,28528,20.2,22.4
+Air India,AI 770,Kolkata,New Delhi,2.2,2022-04-10,business,33852,20.15,22.35
+Vistara,UK 706,Kolkata,New Delhi,2.25,2022-04-10,business,38608,10.15,12.4
+Air India,AI 729 AI 890,Kolkata,New Delhi,6.4,2022-04-10,business,39854,12.0,18.4
+Vistara,UK 720 UK 637,Kolkata,Chandigarh,11.05,2022-09-24,economy,7051,7.1,18.15
+Go First,G8 512 G8 2506,Kolkata,Chandigarh,14.45,2022-09-24,economy,7504,5.3,20.15
+Vistara,UK 706 UK 637,Kolkata,Chandigarh,8.0,2022-09-24,economy,8124,10.15,18.15
+Vistara,UK 708 UK 637,Kolkata,Chandigarh,21.55,2022-09-24,economy,8124,20.2,18.15
+Vistara,UK 738 UK 637,Kolkata,Chandigarh,23.3,2022-09-24,economy,8124,18.45,18.15
+Vistara,UK 778 UK 637,Kolkata,Chandigarh,26.55,2022-09-24,economy,8124,15.2,18.15
+IndiGo,6E 318 6E 6277,Kolkata,Chandigarh,7.3,2022-09-24,economy,9096,4.25,11.55
+IndiGo,6E 6324 6E 924,Kolkata,Chandigarh,8.45,2022-09-24,economy,9096,7.05,15.5
+IndiGo,6E 375 6E 2196,Kolkata,Chandigarh,9.1,2022-09-24,economy,9096,6.55,16.05
+IndiGo,6E 5294 6E 5284,Kolkata,Chandigarh,8.15,2022-09-24,economy,9096,9.45,18.0
+IndiGo,6E 358 6E 2127,Kolkata,Chandigarh,6.3,2022-09-24,economy,9096,11.4,18.1
+IndiGo,6E 579 6E 724,Kolkata,Chandigarh,8.45,2022-09-24,economy,9096,11.5,20.35
+IndiGo,6E 2516 6E 2194,Kolkata,Chandigarh,5.3,2022-09-24,economy,9096,16.35,22.05
+IndiGo,6E 759 6E 2194,Kolkata,Chandigarh,6.5,2022-09-24,economy,9096,15.15,22.05
+IndiGo,6E 2746 6E 315,Kolkata,Chandigarh,6.5,2022-09-24,economy,9096,23.45,6.35
+IndiGo,6E 2716 6E 315,Kolkata,Chandigarh,9.0,2022-09-24,economy,9096,21.35,6.35
+Vistara,UK 720 UK 706,Kolkata,Chandigarh,7.35,2022-09-24,economy,10282,7.1,14.45
+IndiGo,6E 6623 6E 108,Kolkata,Chandigarh,6.35,2022-09-24,economy,10757,5.55,12.3
+IndiGo,6E 5345 6E 2196,Kolkata,Chandigarh,5.55,2022-09-24,economy,11915,10.1,16.05
+Vistara,UK 706,Kolkata,Chandigarh,4.3,2022-09-24,economy,13752,10.15,14.45
+IndiGo,6E 6616,Kolkata,Chandigarh,2.35,2022-09-24,economy,21285,12.45,15.2
+IndiGo,6E 6324 6E 924,Kolkata,Chandigarh,8.45,2022-04-10,economy,9062,7.05,15.5
+Vistara,UK 708 UK 706,Kolkata,Chandigarh,18.25,2022-04-10,economy,10282,20.2,14.45
+Vistara,UK 738 UK 706,Kolkata,Chandigarh,20.0,2022-04-10,economy,10282,18.45,14.45
+IndiGo,6E 2716 6E 315,Kolkata,Chandigarh,9.0,2022-04-10,economy,10287,21.35,6.35
+IndiGo,6E 6869 6E 315,Kolkata,Chandigarh,10.15,2022-04-10,economy,10287,20.2,6.35
+IndiGo,6E 2746 6E 315,Kolkata,Chandigarh,6.5,2022-04-10,economy,10340,23.45,6.35
+Vistara,UK 778 UK 706,Kolkata,Chandigarh,23.25,2022-04-10,economy,10910,15.2,14.45
+IndiGo,6E 2516 6E 2194,Kolkata,Chandigarh,5.3,2022-04-10,economy,11600,16.35,22.05
+IndiGo,6E 759 6E 2194,Kolkata,Chandigarh,6.5,2022-04-10,economy,12125,15.15,22.05
+IndiGo,6E 6444 6E 6506,Kolkata,Chandigarh,6.55,2022-04-10,economy,12551,15.55,22.5
+IndiGo,6E 861 6E 2196,Kolkata,Chandigarh,7.15,2022-04-10,economy,12755,8.5,16.05
+IndiGo,6E 358 6E 2127,Kolkata,Chandigarh,6.3,2022-04-10,economy,12755,11.4,18.1
+"Air India, IndiGo",AI 768 6E 2194,Kolkata,Chandigarh,6.35,2022-04-10,economy,13091,15.3,22.05
+IndiGo,6E 5345 6E 2196,Kolkata,Chandigarh,5.55,2022-04-10,economy,13385,10.1,16.05
+"IndiGo, Vistara",6E 861 UK 706,Kolkata,Chandigarh,5.55,2022-04-10,economy,13687,8.5,14.45
+"Air India, IndiGo",AI 402 6E 2196,Kolkata,Chandigarh,5.35,2022-04-10,economy,14194,10.3,16.05
+Vistara,UK 706,Kolkata,Chandigarh,4.3,2022-04-10,economy,18477,10.15,14.45
+IndiGo,6E 6616,Kolkata,Chandigarh,2.35,2022-04-10,economy,38631,12.45,15.2
+IndiGo,6E 2698,Chennai,New Delhi,2.5,2022-09-24,economy,7513,2.3,5.2
+IndiGo,6E 2116,Chennai,New Delhi,2.35,2022-09-24,economy,7513,6.2,8.55
+IndiGo,6E 2316,Chennai,New Delhi,2.5,2022-09-24,economy,7513,16.35,19.25
+IndiGo,6E 2752,Chennai,New Delhi,2.5,2022-09-24,economy,7513,19.35,22.25
+IndiGo,6E 2098,Chennai,New Delhi,2.55,2022-09-24,economy,7513,22.5,1.45
+Go First,G8 304 G8 341,Chennai,New Delhi,7.2,2022-09-24,economy,8649,15.3,22.5
+IndiGo,6E 5038,Chennai,New Delhi,2.45,2022-09-24,economy,9462,8.45,11.3
+IndiGo,6E 6344,Chennai,New Delhi,2.5,2022-09-24,economy,9462,13.3,16.2
+SpiceJet,SG 679 SG 8702,Chennai,New Delhi,11.2,2022-09-24,economy,9508,7.0,18.2
+SpiceJet,SG 612 SG 8152,Chennai,New Delhi,11.35,2022-09-24,economy,9508,22.0,9.35
+SpiceJet,SG 8104,Chennai,New Delhi,2.45,2022-09-24,economy,9612,18.0,20.45
+Air India,AI 672 AI 888,Chennai,New Delhi,5.05,2022-09-24,economy,9634,16.1,21.15
+Vistara,UK 832,Chennai,New Delhi,2.4,2022-09-24,economy,10296,7.05,9.45
+Vistara,UK 834,Chennai,New Delhi,2.45,2022-09-24,economy,10296,17.15,20.0
+IndiGo,6E 2512,Chennai,New Delhi,2.45,2022-09-24,economy,10320,10.4,13.25
+Air India,AI 569 AI 866,Chennai,New Delhi,5.1,2022-09-24,economy,10684,6.1,11.2
+Air India,AI 571 AI 677,Chennai,New Delhi,7.2,2022-09-24,economy,10684,7.55,15.15
+Vistara,UK 838,Chennai,New Delhi,2.5,2022-09-24,economy,10978,21.05,23.55
+IndiGo,6E 562 6E 2106,Chennai,New Delhi,5.2,2022-09-24,economy,11503,17.0,22.2
+AirAsia,I5 821 I5 722,Chennai,New Delhi,4.55,2022-09-24,economy,11845,22.35,3.3
+Vistara,UK 836,Chennai,New Delhi,2.45,2022-09-24,economy,12028,10.35,13.2
+IndiGo,6E 269 6E 2063,Chennai,New Delhi,6.5,2022-09-24,economy,13026,9.25,16.15
+Air India,AI 440,Chennai,New Delhi,2.55,2022-09-24,economy,14968,6.0,8.55
+Air India,AI 538,Chennai,New Delhi,2.5,2022-09-24,economy,18118,20.15,23.05
+Vistara,UK 838,Chennai,New Delhi,2.5,2022-04-10,economy,7305,21.05,23.55
+SpiceJet,SG 8104,Chennai,New Delhi,2.45,2022-04-10,economy,7512,18.0,20.45
+IndiGo,6E 2698,Chennai,New Delhi,2.5,2022-04-10,economy,7513,2.3,5.2
+Air India,AI 440,Chennai,New Delhi,2.55,2022-04-10,economy,7513,6.0,8.55
+IndiGo,6E 2116,Chennai,New Delhi,2.35,2022-04-10,economy,7513,6.2,8.55
+Vistara,UK 832,Chennai,New Delhi,2.4,2022-04-10,economy,7513,7.05,9.45
+IndiGo,6E 5038,Chennai,New Delhi,2.45,2022-04-10,economy,7513,8.45,11.3
+Air India,AI 430,Chennai,New Delhi,2.55,2022-04-10,economy,7513,9.55,12.5
+Vistara,UK 836,Chennai,New Delhi,2.45,2022-04-10,economy,7513,10.35,13.2
+IndiGo,6E 6344,Chennai,New Delhi,2.5,2022-04-10,economy,7513,13.3,16.2
+IndiGo,6E 2316,Chennai,New Delhi,2.5,2022-04-10,economy,7513,16.35,19.25
+Air India,AI 539,Chennai,New Delhi,2.55,2022-04-10,economy,7513,16.55,19.5
+Vistara,UK 834,Chennai,New Delhi,2.45,2022-04-10,economy,7513,17.15,20.0
+IndiGo,6E 2752,Chennai,New Delhi,2.5,2022-04-10,economy,7513,19.35,22.25
+Air India,AI 538,Chennai,New Delhi,2.5,2022-04-10,economy,7513,20.15,23.05
+IndiGo,6E 2098,Chennai,New Delhi,2.55,2022-04-10,economy,7513,22.5,1.45
+Air India,AI 574 AI 806,Chennai,New Delhi,12.35,2022-04-10,economy,8101,21.4,10.15
+Vistara,UK 832,Chennai,New Delhi,2.4,2022-04-10,premium,9214,7.05,9.45
+Vistara,UK 836,Chennai,New Delhi,2.45,2022-04-10,premium,9214,10.35,13.2
+Vistara,UK 834,Chennai,New Delhi,2.45,2022-04-10,premium,9214,17.15,20.0
+Vistara,UK 838,Chennai,New Delhi,2.5,2022-04-10,premium,9214,21.05,23.55
+SpiceJet,SG 8104,Chennai,New Delhi,2.45,2022-04-10,premium,8709,18.0,20.45
+SpiceJet,SG 612 SG 695,Chennai,Guwahati,12.1,2022-09-24,economy,10178,22.0,10.1
+SpiceJet,SG 679 SG 695,Chennai,Guwahati,27.1,2022-09-24,economy,10178,7.0,10.1
+IndiGo,6E 2652,Chennai,Guwahati,2.45,2022-09-24,economy,12978,5.2,8.05
+Vistara,UK 832 UK 721,Chennai,Guwahati,10.4,2022-09-24,economy,13281,7.05,17.45
+IndiGo,6E 314 6E 5319,Chennai,Guwahati,8.1,2022-09-24,economy,13712,14.55,23.05
+AirAsia,I5 821 I5 1982,Chennai,Guwahati,13.1,2022-09-24,economy,13828,22.35,11.45
+Vistara,UK 838 UK 741,Chennai,Guwahati,14.5,2022-09-24,economy,14121,21.05,11.55
+Vistara,UK 834 UK 741,Chennai,Guwahati,18.4,2022-09-24,economy,14121,17.15,11.55
+AirAsia,I5 2461,Chennai,Guwahati,2.55,2022-09-24,economy,14378,18.0,20.55
+Air India,AI 672 AI 675,Chennai,Guwahati,21.1,2022-09-24,economy,14403,16.1,13.2
+IndiGo,6E 2098 6E 251,Chennai,Guwahati,8.3,2022-09-24,economy,14428,22.5,7.2
+IndiGo,6E 6123 6E 447,Chennai,Guwahati,9.05,2022-09-24,economy,14718,21.0,6.05
+IndiGo,6E 6344 6E 889,Chennai,Guwahati,9.05,2022-09-24,economy,15313,13.3,22.35
+IndiGo,6E 321 6E 6156,Chennai,Guwahati,8.25,2022-09-24,economy,15878,8.05,16.3
+IndiGo,6E 5038 6E 5014,Chennai,Guwahati,7.3,2022-09-24,economy,16584,8.45,16.15
+IndiGo,6E 6275 6E 294,Chennai,Guwahati,4.5,2022-09-24,economy,17718,17.3,22.2
+IndiGo,6E 987 6E 207,Chennai,Guwahati,7.0,2022-09-24,economy,18298,5.1,12.1
+IndiGo,6E 986 6E 294,Chennai,Guwahati,6.15,2022-09-24,economy,18678,16.05,22.2
+IndiGo,6E 6006,Chennai,Guwahati,2.4,2022-09-24,economy,19978,16.0,18.4
+IndiGo,6E 923 6E 447,Chennai,Guwahati,10.35,2022-04-10,economy,8628,19.3,6.05
+AirAsia,I5 821 I5 1982,Chennai,Guwahati,13.1,2022-04-10,economy,8628,22.35,11.45
+IndiGo,6E 6006,Chennai,Guwahati,2.4,2022-04-10,economy,8778,16.0,18.4
+AirAsia,I5 2461,Chennai,Guwahati,2.55,2022-04-10,economy,8778,18.0,20.55
+IndiGo,6E 6275 6E 294,Chennai,Guwahati,4.5,2022-04-10,economy,9028,17.3,22.2
+IndiGo,6E 986 6E 294,Chennai,Guwahati,6.15,2022-04-10,economy,9028,16.05,22.2
+IndiGo,6E 6123 6E 447,Chennai,Guwahati,9.05,2022-04-10,economy,10228,21.0,6.05
+IndiGo,6E 6326 6E 294,Chennai,Guwahati,8.55,2022-04-10,economy,11328,13.25,22.2
+IndiGo,6E 5371 6E 5319,Chennai,Guwahati,10.1,2022-04-10,economy,11346,12.55,23.05
+IndiGo,6E 862 6E 165,Chennai,Guwahati,7.15,2022-04-10,economy,11478,22.35,5.5
+IndiGo,6E 591 6E 5319,Chennai,Guwahati,11.15,2022-04-10,economy,12010,11.5,23.05
+Air India,AI 786 AI 729,Chennai,Guwahati,5.1,2022-04-10,economy,12128,8.1,13.2
+Vistara,UK 836 UK 721,Chennai,Guwahati,7.1,2022-04-10,economy,12578,10.35,17.45
+IndiGo,6E 321 6E 6156,Chennai,Guwahati,8.25,2022-04-10,economy,12628,8.05,16.3
+IndiGo,6E 986 6E 6663,Chennai,Guwahati,4.15,2022-04-10,economy,12628,16.05,20.2
+IndiGo,6E 495 6E 186,Chennai,Guwahati,5.5,2022-04-10,economy,12728,6.35,12.25
+IndiGo,6E 6309 6E 186,Chennai,Guwahati,7.35,2022-04-10,economy,12728,4.5,12.25
+IndiGo,6E 314 6E 5319,Chennai,Guwahati,8.1,2022-04-10,economy,12810,14.55,23.05
+Vistara,UK 836 UK 721,Chennai,Guwahati,7.1,2022-04-10,premium,17950,10.35,17.45
+SpiceJet,SG 8104 SG 8152,Chennai,Guwahati,18.35,2022-04-10,premium,16791,18.0,12.35
+AirAsia,I5 783,New Delhi,Guwahati,2.15,2022-09-24,economy,7089,7.1,9.25
+AirAsia,I5 792,New Delhi,Guwahati,2.3,2022-09-24,economy,7089,12.4,15.1
+IndiGo,6E 889,New Delhi,Guwahati,2.25,2022-09-24,economy,7089,20.1,22.35
+IndiGo,6E 262,New Delhi,Guwahati,2.2,2022-09-24,economy,7689,7.3,9.5
+IndiGo,6E 2332,New Delhi,Guwahati,2.2,2022-09-24,economy,7689,17.35,19.55
+SpiceJet,SG 8152,New Delhi,Guwahati,2.15,2022-09-24,economy,7789,10.2,12.35
+AirAsia,I5 776,New Delhi,Guwahati,2.25,2022-09-24,economy,7889,17.05,19.3
+IndiGo,6E 251,New Delhi,Guwahati,2.35,2022-09-24,economy,7989,4.45,7.2
+IndiGo,6E 5014,New Delhi,Guwahati,2.35,2022-09-24,economy,7989,13.4,16.15
+IndiGo,6E 307 6E 146,New Delhi,Guwahati,5.15,2022-09-24,economy,8335,5.3,10.45
+Vistara,UK 721,New Delhi,Guwahati,2.25,2022-09-24,economy,8350,15.2,17.45
+Vistara,UK 741,New Delhi,Guwahati,2.15,2022-09-24,economy,8988,9.4,11.55
+SpiceJet,SG 8389 SG 3724,New Delhi,Guwahati,5.0,2022-09-24,economy,8989,18.55,23.55
+Air India,AI 889,New Delhi,Guwahati,2.35,2022-09-24,economy,9690,9.3,12.05
+Air India,AI 401 AI 729,New Delhi,Guwahati,6.3,2022-09-24,economy,9890,6.5,13.2
+Go First,G8 151,New Delhi,Guwahati,2.25,2022-09-24,economy,11989,13.1,15.35
+IndiGo,6E 251,New Delhi,Guwahati,2.35,2022-04-10,economy,7089,4.45,7.2
+AirAsia,I5 787,New Delhi,Guwahati,2.25,2022-04-10,economy,7089,5.45,8.1
+IndiGo,6E 262,New Delhi,Guwahati,2.2,2022-04-10,economy,7089,7.3,9.5
+Go First,G8 151,New Delhi,Guwahati,2.3,2022-04-10,economy,7089,12.4,15.1
+AirAsia,I5 792,New Delhi,Guwahati,2.3,2022-04-10,economy,7089,12.4,15.1
+IndiGo,6E 5014,New Delhi,Guwahati,2.35,2022-04-10,economy,7089,13.4,16.15
+AirAsia,I5 776,New Delhi,Guwahati,2.25,2022-04-10,economy,7089,17.05,19.3
+IndiGo,6E 2332,New Delhi,Guwahati,2.2,2022-04-10,economy,7089,17.35,19.55
+IndiGo,6E 889,New Delhi,Guwahati,2.25,2022-04-10,economy,7089,20.1,22.35
+Vistara,UK 741,New Delhi,Guwahati,4.3,2022-04-10,economy,7090,8.25,12.55
+SpiceJet,SG 8152,New Delhi,Guwahati,2.15,2022-04-10,economy,7239,10.2,12.35
+AirAsia,I5 783,New Delhi,Guwahati,2.15,2022-04-10,economy,7389,7.1,9.25
+SpiceJet,SG 8724 SG 3724,New Delhi,Guwahati,13.15,2022-04-10,economy,7484,10.4,23.55
+Go First,G8 3147,New Delhi,Guwahati,3.3,2022-04-10,economy,7789,6.0,9.3
+Vistara,UK 721,New Delhi,Guwahati,2.25,2022-04-10,economy,7990,15.2,17.45
+IndiGo,6E 5126 6E 154,New Delhi,Guwahati,5.4,2022-04-10,economy,8127,9.2,15.0
+IndiGo,6E 2022 6E 154,New Delhi,Guwahati,8.3,2022-04-10,economy,8127,6.3,15.0
+Air India,AI 889,New Delhi,Guwahati,2.35,2022-04-10,economy,8190,9.3,12.05
+IndiGo,6E 307 6E 146,New Delhi,Guwahati,5.15,2022-04-10,economy,8826,5.3,10.45
+IndiGo,6E 154,Patna,Guwahati,1.15,2022-04-10,economy,3765,13.45,15.0
+SpiceJet,SG 3724,Patna,Guwahati,1.4,2022-04-10,economy,3765,22.15,23.55
+flybig,S9 220,Patna,Guwahati,1.45,2022-04-10,economy,5026,21.0,22.45
+IndiGo,6E 485 6E 447,Patna,Guwahati,10.15,2022-04-10,economy,7142,19.5,6.05
+IndiGo,6E 736 6E 294,Patna,Guwahati,6.0,2022-04-10,economy,7542,16.2,22.2
+SpiceJet,SG 9510 SG 3281,Patna,Guwahati,23.05,2022-04-10,economy,8581,20.0,19.05
+Go First,G8 168 G8 3147,Patna,Guwahati,12.4,2022-04-10,economy,11000,20.5,9.3
+Go First,G8 2512 G8 3147,Patna,Guwahati,16.2,2022-04-10,economy,11000,17.1,9.3
+Vistara,UK 718 UK 721,Patna,Guwahati,7.35,2022-04-10,economy,11037,10.1,17.45
+IndiGo,6E 5374 6E 6156,Patna,Guwahati,7.25,2022-04-10,economy,11142,9.05,16.3
+IndiGo,6E 736 6E 6663,Patna,Guwahati,4.0,2022-04-10,economy,11142,16.2,20.2
+Vistara,UK 716 UK 741,Patna,Guwahati,15.35,2022-04-10,economy,11740,20.3,12.05
+Air India,AI 408 AI 762,Patna,Guwahati,15.1,2022-04-10,economy,14477,16.0,7.1
+Air India,AI 732 AI 774,Patna,Guwahati,16.45,2022-04-10,economy,17087,14.25,7.1
+Air India,AI 416 AI 401,Patna,Guwahati,16.0,2022-04-10,economy,19277,19.1,11.1
+flybig,S9 216,Kolkata,Guwahati,2.3,2022-09-24,economy,4491,17.45,20.15
+IndiGo,6E 447,Kolkata,Guwahati,1.1,2022-09-24,economy,4642,4.55,6.05
+flybig,S9 216,Kolkata,Guwahati,2.3,2022-09-24,economy,3791,17.45,20.15
+Alliance Air,9I 741,Kolkata,Guwahati,1.3,2022-09-24,economy,4642,5.3,7.0
+Air India,AI 727,Kolkata,Guwahati,1.2,2022-09-24,economy,4642,5.5,7.1
+IndiGo,6E 754,Kolkata,Guwahati,1.15,2022-09-24,economy,4642,6.15,7.3
+Alliance Air,9I 755,Kolkata,Guwahati,1.4,2022-09-24,economy,4642,7.55,9.35
+IndiGo,6E 6156,Kolkata,Guwahati,1.2,2022-09-24,economy,4642,15.1,16.3
+Alliance Air,9I 770,Kolkata,Guwahati,1.3,2022-09-24,economy,4642,18.15,19.45
+Air India,AI 729,Kolkata,Guwahati,1.2,2022-09-24,economy,5142,12.0,13.2
+IndiGo,6E 294,Kolkata,Guwahati,1.1,2022-09-24,economy,6042,21.1,22.2
+SpiceJet,SG 4038 SG 8169,Kolkata,Guwahati,8.55,2022-09-24,economy,6242,6.4,15.35
+IndiGo,6E 822 6E 187,Kolkata,Guwahati,5.1,2022-09-24,economy,6292,10.0,15.1
+IndiGo,6E 207,Kolkata,Guwahati,1.1,2022-09-24,economy,6942,11.0,12.1
+IndiGo,6E 966 6E 316,Kolkata,Guwahati,7.35,2022-09-24,economy,7141,9.4,17.15
+Go First,G8 532,Kolkata,Guwahati,1.15,2022-09-24,economy,8342,9.2,10.35
+Vistara,UK 706 UK 721,Kolkata,Guwahati,7.3,2022-09-24,economy,11449,10.15,17.45
+AirAsia,I5 583 I5 788,Kolkata,Guwahati,5.1,2022-04-10,economy,4692,13.05,18.15
+IndiGo,6E 294,Kolkata,Guwahati,1.1,2022-04-10,economy,5042,21.1,22.2
+flybig,S9 210,Kolkata,Guwahati,1.3,2022-04-10,economy,5991,20.0,21.3
+flybig,S9 216,Kolkata,Guwahati,2.3,2022-04-10,economy,5991,17.45,20.15
+Alliance Air,9I 770,Kolkata,Guwahati,1.3,2022-04-10,economy,6242,18.15,19.45
+SpiceJet,SG 3281,Kolkata,Guwahati,1.2,2022-04-10,economy,6442,17.45,19.05
+IndiGo,6E 447,Kolkata,Guwahati,1.1,2022-04-10,economy,6942,4.55,6.05
+Alliance Air,9I 741,Kolkata,Guwahati,1.3,2022-04-10,economy,7042,5.3,7.0
+IndiGo,6E 966 6E 316,Kolkata,Guwahati,7.35,2022-04-10,economy,7141,9.4,17.15
+IndiGo,6E 754,Kolkata,Guwahati,1.15,2022-04-10,economy,7442,6.15,7.3
+Air India,AI 727,Kolkata,Guwahati,1.2,2022-04-10,economy,7592,5.5,7.1
+SpiceJet,SG 4038 SG 8169,Kolkata,Guwahati,9.05,2022-04-10,economy,7673,6.3,15.35
+Alliance Air,9I 755,Kolkata,Guwahati,1.4,2022-04-10,economy,8042,7.55,9.35
+Air India,AI 729,Kolkata,Guwahati,1.2,2022-04-10,economy,8092,12.0,13.2
+IndiGo,6E 822 6E 187,Kolkata,Guwahati,5.1,2022-04-10,economy,8192,10.0,15.1
+Air India,AI 733 AI 890,Kolkata,Guwahati,5.15,2022-04-10,economy,8219,10.0,15.15
+IndiGo,6E 6156,Kolkata,Guwahati,1.2,2022-04-10,economy,8642,15.1,16.3
+IndiGo,6E 6663,Kolkata,Guwahati,1.0,2022-04-10,economy,8642,19.2,20.2
+IndiGo,6E 207,Kolkata,Guwahati,1.1,2022-04-10,economy,9342,11.0,12.1
+flybig,S9 212,Kolkata,Guwahati,3.0,2022-04-10,economy,12241,13.55,16.55
+Go First,G8 532,Kolkata,Guwahati,1.1,2022-04-10,economy,14242,9.2,10.3
+Air India,AI 770 AI 889,Kolkata,Guwahati,15.5,2022-04-10,economy,17842,20.15,12.05
+AirAsia,I5 1982,Bengaluru,Guwahati,3.0,2022-04-10,economy,8949,8.45,11.45
+IndiGo,6E 6474,Bengaluru,Guwahati,3.0,2022-04-10,economy,8949,9.55,12.55
+AirAsia,I5 820,Bengaluru,Guwahati,3.0,2022-04-10,economy,8949,15.15,18.15
+IndiGo,6E 457,Bengaluru,Guwahati,3.0,2022-04-10,economy,9067,8.2,11.2
+IndiGo,6E 952 6E 447,Bengaluru,Guwahati,6.4,2022-04-10,economy,9599,23.25,6.05
+IndiGo,6E 538 6E 447,Bengaluru,Guwahati,7.4,2022-04-10,economy,9599,22.25,6.05
+IndiGo,6E 676 6E 447,Bengaluru,Guwahati,10.1,2022-04-10,economy,9599,19.55,6.05
+SpiceJet,SG 768 SG 3724,Bengaluru,Guwahati,8.05,2022-04-10,economy,10281,15.5,23.55
+IndiGo,6E 6572 6E 294,Bengaluru,Guwahati,6.55,2022-04-10,economy,10399,15.25,22.2
+Vistara,UK 755,Bengaluru,Guwahati,3.05,2022-04-10,economy,10849,9.25,12.3
+IndiGo,6E 255 6E 154,Bengaluru,Guwahati,6.25,2022-04-10,economy,11037,8.35,15.0
+IndiGo,6E 172 6E 294,Bengaluru,Guwahati,8.4,2022-04-10,economy,11199,13.4,22.2
+IndiGo,6E 503 6E 294,Bengaluru,Guwahati,10.25,2022-04-10,economy,11199,11.55,22.2
+AirAsia,I5 334 I5 339,Bengaluru,Guwahati,9.0,2022-04-10,economy,11220,22.55,7.55
+AirAsia,I5 612 I5 339,Bengaluru,Guwahati,13.1,2022-04-10,economy,11220,18.45,7.55
+IndiGo,6E 6212 6E 6006,Bengaluru,Guwahati,7.3,2022-04-10,economy,11222,11.1,18.4
+IndiGo,6E 541 6E 6006,Bengaluru,Guwahati,9.05,2022-04-10,economy,11222,9.35,18.4
+IndiGo,6E 232 6E 165,Bengaluru,Guwahati,6.45,2022-04-10,economy,11767,23.05,5.5
+IndiGo,6E 426 6E 165,Bengaluru,Guwahati,9.2,2022-04-10,economy,11767,20.3,5.5
+IndiGo,6E 5344 6E 6434,Bengaluru,Guwahati,10.1,2022-04-10,economy,12062,22.55,9.05
+AirAsia,I5 2461,Bengaluru,Guwahati,4.4,2022-04-10,economy,12149,16.15,20.55
+IndiGo,6E 484 6E 186,Bengaluru,Guwahati,5.15,2022-04-10,economy,12899,7.1,12.25
+IndiGo,6E 6257 6E 186,Bengaluru,Guwahati,7.1,2022-04-10,economy,12899,5.15,12.25
+IndiGo,6E 5251 6E 5319,Bengaluru,Guwahati,6.15,2022-04-10,economy,12962,16.5,23.05
+IndiGo,6E 524 6E 316,Bengaluru,Guwahati,7.1,2022-04-10,economy,13048,10.05,17.15
+Vistara,UK 816 UK 721,Bengaluru,Guwahati,6.15,2022-04-10,economy,13452,11.3,17.45
+AirAsia,I5 722 I5 787,Bengaluru,Guwahati,7.3,2022-04-10,economy,13974,0.4,8.1
+AirAsia,I5 741 I5 776,Bengaluru,Guwahati,8.15,2022-04-10,economy,13974,11.15,19.3
+IndiGo,6E 6991 6E 251,Bengaluru,Guwahati,6.35,2022-04-10,economy,13999,0.45,7.2
+IndiGo,6E 6572 6E 6663,Bengaluru,Guwahati,4.55,2022-04-10,economy,13999,15.25,20.2
+IndiGo,6E 2514 6E 889,Bengaluru,Guwahati,7.4,2022-04-10,economy,13999,14.55,22.35
+Go First,G8 116 G8 151,Bengaluru,Guwahati,9.4,2022-04-10,economy,14524,5.3,15.1
+IndiGo,6E 172 6E 6663,Bengaluru,Guwahati,6.4,2022-04-10,economy,14799,13.4,20.2
+IndiGo,6E 227 6E 207,Bengaluru,Guwahati,5.4,2022-04-10,economy,15899,6.3,12.1
+Air India,AI 808 AI 889,Bengaluru,Guwahati,14.45,2022-04-10,economy,15949,21.2,12.05
+SpiceJet,SG 768,Bengaluru,Patna,2.35,2022-04-10,economy,7683,15.5,18.25
+IndiGo,6E 342,Bengaluru,Patna,2.25,2022-04-10,economy,7947,15.4,18.05
+IndiGo,6E 255,Bengaluru,Patna,2.25,2022-04-10,economy,8157,8.35,11.0
+Go First,G8 873,Bengaluru,Patna,2.3,2022-04-10,economy,8313,17.5,20.2
+SpiceJet,SG 767 SG 9509,Bengaluru,Patna,20.5,2022-04-10,economy,8615,22.4,19.3
+IndiGo,6E 368 6E 924,Bengaluru,Patna,8.15,2022-09-24,economy,10220,5.15,13.3
+IndiGo,6E 6353 6E 5373,Bengaluru,Patna,5.15,2022-09-24,economy,10761,6.05,11.2
+SpiceJet,SG 768,Bengaluru,Patna,2.4,2022-09-24,economy,11673,13.3,16.1
+IndiGo,6E 255,Bengaluru,Patna,2.25,2022-09-24,economy,11779,8.35,11.0
+IndiGo,6E 6269 6E 787,Bengaluru,Patna,8.15,2022-09-24,economy,11842,7.0,15.15
+IndiGo,6E 484 6E 6472,Bengaluru,Patna,9.2,2022-09-24,economy,11937,7.1,16.3
+IndiGo,6E 952 6E 6324,Bengaluru,Patna,9.05,2022-09-24,economy,12864,23.25,8.3
+IndiGo,6E 537 6E 6472,Bengaluru,Patna,6.15,2022-09-24,economy,12987,10.15,16.3
+IndiGo,6E 886 6E 6472,Bengaluru,Patna,7.35,2022-09-24,economy,12987,8.55,16.3
+Vistara,UK 814 UK 717,Bengaluru,Patna,12.2,2022-09-24,economy,13300,21.15,9.35
+IndiGo,6E 538 6E 6324,Bengaluru,Patna,10.05,2022-09-24,economy,13494,22.25,8.3
+Go First,G8 873,Bengaluru,Patna,2.3,2022-09-24,economy,13633,11.2,13.5
+Air India,AI 804 AI 407,Bengaluru,Patna,9.15,2022-09-24,economy,13722,6.1,15.25
+IndiGo,6E 2053 6E 2022,Bengaluru,Patna,9.0,2022-09-24,economy,16032,23.05,8.05
+IndiGo,6E 6247 6E 2481,Bengaluru,Patna,9.15,2022-09-24,economy,16168,4.4,13.55
+IndiGo,6E 6825 6E 787,Bengaluru,Patna,7.1,2022-09-24,economy,16168,8.05,15.15
+IndiGo,6E 6464 6E 6301,Bengaluru,Patna,7.0,2022-09-24,economy,16652,4.4,11.4
+IndiGo,6E 5021 6E 2485,Bengaluru,Patna,9.0,2022-09-24,economy,16709,6.0,15.0
+Go First,G8 395 G8 351,Bengaluru,Patna,5.5,2022-09-24,economy,16918,8.1,14.0
+IndiGo,6E 5021 6E 2481,Bengaluru,Patna,7.55,2022-09-24,economy,16924,6.0,13.55
+IndiGo,6E 503 6E 114,Bengaluru,Patna,7.2,2022-09-24,economy,17212,11.55,19.15
+IndiGo,6E 6991 6E 2022,Bengaluru,Patna,7.2,2022-09-24,economy,17449,0.45,8.05
+IndiGo,6E 5351 6E 6418,Bengaluru,Patna,6.1,2022-09-24,economy,18872,14.05,20.15
+IndiGo,6E 172 6E 114,Bengaluru,Patna,5.35,2022-09-24,economy,19102,13.4,19.15
+IndiGo,6E 442 6E 6926,Bengaluru,Patna,6.35,2022-09-24,economy,19439,9.15,15.5
+Air India,AI 505 AI 407,Bengaluru,Patna,5.25,2022-09-24,economy,21439,10.0,15.25
+IndiGo,6E 6472,Hyderabad,Patna,2.05,2022-09-24,economy,8677,14.25,16.3
+Go First,G8 510 G8 351,Hyderabad,Patna,8.3,2022-09-24,economy,8990,5.3,14.0
+IndiGo,6E 425,Hyderabad,Patna,1.55,2022-09-24,economy,6367,14.05,16.0
+Go First,G8 426 G8 2511,Hyderabad,Patna,15.3,2022-09-24,economy,8990,21.05,12.35
+SpiceJet,SG 160 SG 8389,Hyderabad,Patna,14.4,2022-09-24,economy,8992,6.1,20.5
+SpiceJet,SG 8108 SG 8724,Hyderabad,Patna,15.5,2022-09-24,economy,8992,20.55,12.45
+IndiGo,6E 2063 6E 2125,Hyderabad,Patna,5.5,2022-09-24,economy,9349,14.0,19.5
+IndiGo,6E 6719,Hyderabad,Patna,2.0,2022-09-24,economy,9517,8.3,10.3
+Air India,AI 559 AI 407,Hyderabad,Patna,8.45,2022-09-24,economy,9529,6.4,15.25
+IndiGo,6E 2511 6E 2125,Hyderabad,Patna,9.55,2022-09-24,economy,9706,9.55,19.5
+IndiGo,6E 421 6E 6722,Hyderabad,Patna,5.5,2022-09-24,economy,11023,8.3,14.2
+IndiGo,6E 2328 6E 2485,Hyderabad,Patna,9.5,2022-09-24,economy,11134,5.1,15.0
+Vistara,UK 860 UK 717,Hyderabad,Patna,26.35,2022-09-24,economy,11319,7.0,9.35
+Air India,AI 543 AI 407,Hyderabad,Patna,5.2,2022-09-24,economy,11400,10.05,15.25
+IndiGo,6E 2335 6E 2022,Hyderabad,Patna,6.45,2022-09-24,economy,11407,1.2,8.05
+IndiGo,6E 2011 6E 2481,Hyderabad,Patna,6.5,2022-09-24,economy,11848,7.05,13.55
+IndiGo,6E 2328 6E 2481,Hyderabad,Patna,8.45,2022-09-24,economy,11848,5.1,13.55
+IndiGo,6E 2171 6E 2125,Hyderabad,Patna,8.1,2022-09-24,economy,11848,11.4,19.5
+IndiGo,6E 2171 6E 2411,Hyderabad,Patna,7.2,2022-09-24,economy,12562,11.4,19.0
+IndiGo,6E 2511 6E 2485,Hyderabad,Patna,5.05,2022-09-24,economy,13087,9.55,15.0
+Air India,AI 616 AI 673,Hyderabad,Patna,5.35,2022-09-24,economy,14978,8.1,13.45
